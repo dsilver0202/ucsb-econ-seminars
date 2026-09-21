@@ -10,122 +10,169 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:ff769b9f0c50bad7b141@econ.ucsb.edu
-DTSTAMP:20260921T150713Z
+DTSTAMP:20260921T152602Z
 DTSTART:20261029T223000Z
 DTEND:20261030T000000Z
-SUMMARY:MACRO Seminar: Diego Daruich\, University of Southern California 
- - The Macroeconomics of Intergenerational Mental Health Dynamics
+SUMMARY:MACRO Seminar: Diego Daruich \, University of Southern California
+  - The Macroeconomics of Intergenerational Mental Health Dynamics
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Diego Daruich\, University of Southern California\nT
- itle: "The Macroeconomics of Intergenerational Mental Health Dynamics"\n
- \nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-univ
- ersity-southern-california
+DESCRIPTION:Speaker: Diego Daruich \, University of Southern California\n
+ Title: "The Macroeconomics of Intergenerational Mental Health Dynamics"\
+ n\nI am an Assistant Professor at University of Southern California (Mar
+ shall). My research focuses on Macroeconomics and Labor Economics\, with
+  a particular interest in human capital\, education and labor market pol
+ icies.​\n\nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-diego-d
+ aruich-university-southern-california
 URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-uni
  versity-southern-california
 CATEGORIES:MACRO
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa5d7b5b9d445086e44a@econ.ucsb.edu
-DTSTAMP:20260921T150713Z
+DTSTAMP:20260921T152602Z
 DTSTART:20261105T233000Z
 DTEND:20261106T010000Z
-SUMMARY:MACRO Seminar: Fahad Saleh\, University of Florida
+SUMMARY:MACRO Seminar: Fahad Sale h\, University of Florida
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Fahad Saleh\, University of Florida\nHosted by: Rod 
- Garratt\n\nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-sal
- eh-university-florida
+DESCRIPTION:Speaker: Fahad Sale h\, University of Florida\nHosted by: Rod
+  Garratt\n\nMy research examines economic questions associated with bloc
+ kchain and cryptoassets. For additional details\, please see my website:
+  www.fahadsaleh.com\n\nhttps://econ.ucsb.edu/events/all/2026/macro-semin
+ ar-fahad-saleh-university-florida
 URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-saleh-unive
  rsity-florida
 CATEGORIES:MACRO
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c0c723cc43957daea988@econ.ucsb.edu
-DTSTAMP:20260921T150713Z
+DTSTAMP:20260921T152602Z
 DTSTART:20261112T233000Z
 DTEND:20261113T010000Z
-SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University
+SUMMARY:MACRO Seminar: Sephorah Mangin \, Australian National University
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Sephorah Mangin\, Australian National University\nHo
- sted by: Peter Rupert\n\nhttps://econ.ucsb.edu/events/all/2026/macro-sem
- inar-sephorah-mangin-australian-national-university
+DESCRIPTION:Speaker: Sephorah Mangin \, Australian National University\nH
+ osted by: Peter Rupert\n\nSephorah Mangin is an Associate Professor in E
+ conomics. Her research interests include macroeconomics\, search theory\
+ , labour economics\, economic growth\, and industrial organisation. She 
+ has conducted research at the Becker Friedman Institute at the Universit
+ y of Chicago\, and is an Associate Editor at the European Economic Revie
+ w . Sephorah has published her research in a number of prestigious peer-
+ reviewed journals including the Journal of Economic Theory\, the Journal
+  of Monetary Economics\, the RAND Journal of Economics \, and Econometri
+ ca .\n\nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-man
+ gin-australian-national-university
 URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-a
  ustralian-national-university
 CATEGORIES:MACRO
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ab7fa195f00737358adf@econ.ucsb.edu
-DTSTAMP:20260921T150713Z
+DTSTAMP:20260921T152602Z
 DTSTART:20261119T233000Z
 DTEND:20261120T010000Z
-SUMMARY:MACRO Seminar: Jeremy Pearce\, Federal Reserve Bank of New York
+SUMMARY:MACRO Seminar: Jeremy Pearce \, Federal Reserve Bank of New York
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Jeremy Pearce\, Federal Reserve Bank of New York\nHo
- sted by: Yueyuan Ma\n\nhttps://econ.ucsb.edu/events/all/2026/macro-semin
- ar-jeremy-pearce-federal-reserve-bank-new-york
+DESCRIPTION:Speaker: Jeremy Pearce \, Federal Reserve Bank of New York\nH
+ osted by: Yueyuan Ma\n\nI am a Research Economist at the Federal Reserve
+  Bank of New York in Labor and Product Markets. I obtained my Ph.D. from
+  the University of Chicago. My main research is in macroeconomics\, with
+  an emphasis on firm dynamics\, productivity\, and economic growth. For 
+ more\, find my research page or my CV . Contact: jeremy.pearce@ny.frb.or
+ g\n\nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-jeremy-pearce-f
+ ederal-reserve-bank-new-york
 URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-jeremy-pearce-fed
  eral-reserve-bank-new-york
 CATEGORIES:MACRO
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5bfb5ccf61ec1b61e9@econ.ucsb.edu
-DTSTAMP:20260921T150713Z
+DTSTAMP:20260921T152602Z
 DTSTART:20270114T233000Z
 DTEND:20270115T010000Z
-SUMMARY:MACRO Seminar: Jeremy Greenwood\, University of Pennsylvania
+SUMMARY:MACRO Seminar: Jeremy Greenwood \, University of Pennsylvania
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Jeremy Greenwood\, University of Pennsylvania\nHoste
- d by: Peter Rupert\n\nhttps://econ.ucsb.edu/events/all/2027/macro-semina
- r-jeremy-greenwood-university-pennsylvania
+DESCRIPTION:Speaker: Jeremy Greenwood \, University of Pennsylvania\nHost
+ ed by: Peter Rupert\n\nJeremy Greenwood is Professor of Economics at the
+  University of Pennsylvania and has taught at Penn since 2006. He is als
+ o a Fellow of the Econometric Society\, a Research Associate at the Nati
+ onal Bureau of Economic Research (NBER)\, and a Fellow of the Society fo
+ r the Advancement of Economic Theory. Professor Greenwood is a macroecon
+ omist whose research has focused on how technological progress has affec
+ ted\, in a variety of ways\, the economy. Specifically\, he has analyzed
+  how technological advance in the capital goods sector has been an engin
+ e of growth for the economy by making investment less expensive. Jeremy 
+ Greenwood has studied the consequences of technological progress in fina
+ ncial markets\, which allows investment to be directed toward the most p
+ rofitable production opportunities in the economy\, thereby increasing i
+ ncome and productivity. Related research explored how efficiency in both
+  financial and patent markets affects technology adoption and growth. Ot
+ her research examined the effect that skilled-biased technology advance\
+ , which favors skilled relative to unskilled labor\, has had on income i
+ nequality and de-unionization. Professor Greenwood has estimated the wor
+ th of a personal computer for the average American. The advent of digita
+ l advertising has brought benefits to consumers\, such as free media goo
+ ds—Facebook\, Google\, Pandora\, Twitter\, etc. It has also encouraged
+  firms to develop more specialized varieties of goods that are better ca
+ tered to consumers’ tastes\,\n\nhttps://econ.ucsb.edu/events/all/2027/
+ macro-seminar-jeremy-greenwood-university-pennsylvania
 URL:https://econ.ucsb.edu/events/all/2027/macro-seminar-jeremy-greenwood-
  university-pennsylvania
 CATEGORIES:MACRO
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:35fa0b5ee2a37e81c31b@econ.ucsb.edu
-DTSTAMP:20260921T150713Z
+DTSTAMP:20260921T152602Z
 DTSTART:20270204T233000Z
 DTEND:20270205T010000Z
-SUMMARY:MACRO Seminar: Adrien Bilal\, Stanford
+SUMMARY:MACRO Seminar: Adrien Bilal \, Stanford
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Adrien Bilal\, Stanford\nHosted by: Simon Margolin\n
- \nhttps://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stanf
- ord
+DESCRIPTION:Speaker: Adrien Bilal \, Stanford\nHosted by: Simon Margolin\
+ n\nhttps://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stan
+ ford
 URL:https://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stan
  ford
 CATEGORIES:MACRO
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:75f6f5a63b361faf4aa9@econ.ucsb.edu
-DTSTAMP:20260921T150713Z
+DTSTAMP:20260921T152602Z
 DTSTART:20270304T233000Z
 DTEND:20270305T010000Z
-SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey\, London School of Economics
+SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey \, London School of Economics
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Jane Olmstead-Rumsey\, London School of Economics\nH
- osted by: Laura Murphy\n\nhttps://econ.ucsb.edu/events/all/2027/macro-se
- minar-jane-olmstead-rumsey-london-school-economics
+DESCRIPTION:Speaker: Jane Olmstead-Rumsey \, London School of Economics\n
+ Hosted by: Laura Murphy\n\nI am a macroeconomist with interests in firm 
+ dynamics\, innovation\, labor markets\, and growth. I am an assistant pr
+ ofessor in the Economics department at the London School of Economics. I
+ 'm also an Associate of the Centre For Macroeconomics \, a Research Affi
+ liate of the CEPR in International Finance and Macroeconomics\, and an a
+ ffiliated faculty with the Economic History department at LSE. I co-orga
+ nize the Barcelona Summer Forum Growth and Productivity Workshop held ea
+ ch June. My Google Scholar page is here . Click here to view my CV.\n\nh
+ ttps://econ.ucsb.edu/events/all/2027/macro-seminar-jane-olmstead-rumsey-
+ london-school-economics
 URL:https://econ.ucsb.edu/events/all/2027/macro-seminar-jane-olmstead-rum
  sey-london-school-economics
 CATEGORIES:MACRO
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
