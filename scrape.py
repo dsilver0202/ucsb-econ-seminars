@@ -536,6 +536,11 @@ def main() -> int:
     else:
         print("Scraping econ.ucsb.edu ...")
         events = merge_with_cache(scrape(), args.cache)
+        # Write the cache only once we know the run produced something. A scrape
+        # that fails outright must not overwrite good data with an empty list.
+        if not events:
+            print("No events parsed. Cache and feeds left untouched.", file=sys.stderr)
+            return 1
         with open(args.cache, "w") as fh:
             json.dump([asdict(e) for e in events], fh, indent=1, ensure_ascii=False)
         print(f"Total events after merge: {len(events)}")
