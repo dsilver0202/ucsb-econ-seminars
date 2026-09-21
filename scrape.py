@@ -180,7 +180,13 @@ def section_text(node, heading: str) -> str:
 
 
 def clean(text: str) -> str:
-    return re.sub(r"\s+", " ", (text or "").replace(" ", " ")).strip()
+    text = re.sub(r"\s+", " ", (text or "").replace(" ", " ")).strip()
+    # BeautifulSoup's get_text(" ") puts a separator between a link and the
+    # text right after it, so "<a>Yihong Liu</a>,University of ..." arrives as
+    # "Yihong Liu , University of ...". Pull punctuation back onto the word.
+    text = re.sub(r"\s+([,;:.!?])", r"\1", text)
+    # ... and the department's markup sometimes omits the space after it.
+    return re.sub(r",(?=[A-Za-z])", ", ", text)
 
 
 SERIES_RE = re.compile(r"^([A-Za-z][A-Za-z0-9&/\- ]{0,30}?)\s+(?:Seminar|Lecture|Workshop|Conference)\b", re.I)
