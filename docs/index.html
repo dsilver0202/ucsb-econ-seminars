@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UCSB Economics Seminar Calendars</title>
+<style>
+  :root {
+    --bg: #fbfaf8; --fg: #1b1a18; --muted: #6b6762; --line: #e3ded6;
+    --card: #ffffff; --accent: #0b6b6b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17181a; --fg: #ececea; --muted: #a2a09c; --line: #2c2e31;
+      --card: #1f2124; --accent: #5fc9c0;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17181a; --fg: #ececea; --muted: #a2a09c; --line: #2c2e31;
+    --card: #1f2124; --accent: #5fc9c0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font: 16px/1.55 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, sans-serif;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 48px 16px 72px; }
+  h1 { font-size: 1.6rem; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); margin: 0 0 32px; }
+  h2 { font-size: 1.05rem; margin: 38px 0 12px; }
+  table { width: 100%; border-collapse: collapse; background: var(--card);
+    border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  th, td { text-align: left; padding: 14px 16px; border-bottom: 1px solid var(--line);
+    vertical-align: middle; font-weight: 400; }
+  tr:last-child th, tr:last-child td { border-bottom: 0; }
+  th[scope="row"] { font-weight: 600; }
+  .blurb { display: block; font-weight: 400; font-size: .85rem; color: var(--muted); }
+  .num { color: var(--muted); white-space: nowrap; width: 1%; }
+  .links { text-align: right; white-space: nowrap; width: 1%; }
+  .btn { display: inline-block; padding: 6px 12px; border-radius: 999px;
+    background: var(--accent); color: #fff; text-decoration: none; font-size: .9rem; }
+  .plain { margin-left: 10px; color: var(--muted); font-size: .85rem; }
+  ul.next { list-style: none; padding: 0; margin: 0; }
+  ul.next li { padding: 10px 0; border-bottom: 1px solid var(--line); }
+  ul.next li:last-child { border-bottom: 0; }
+  .when { display: block; font-size: .85rem; color: var(--muted); }
+  .where { font-size: .85rem; color: var(--muted); }
+  a { color: var(--accent); }
+  ol { padding-left: 20px; }
+  li { margin: 6px 0; }
+  footer { margin-top: 44px; font-size: .85rem; color: var(--muted);
+    border-top: 1px solid var(--line); padding-top: 16px; }
+  code { background: var(--card); border: 1px solid var(--line); border-radius: 4px;
+    padding: 1px 5px; font-size: .85em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>UCSB Economics seminar calendars</h1>
+  <p class="sub">Subscribe once and every talk shows up on your calendar, updated
+  automatically from the department's events page.</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">CARE Seminar<span class="blurb">Center for Applied Research in Economics</span></th>
+        <td class="num">16</td>
+        <td class="links">
+          <a class="btn" href="webcal://USER.github.io/ucsb-econ-seminars/care.ics">Subscribe</a>
+          <a class="plain" href="care.ics">.ics</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">MACRO Seminar<span class="blurb">Macroeconomics seminar</span></th>
+        <td class="num">7</td>
+        <td class="links">
+          <a class="btn" href="webcal://USER.github.io/ucsb-econ-seminars/macro.ics">Subscribe</a>
+          <a class="plain" href="macro.ics">.ics</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">TEC Seminar<span class="blurb">Theory and Experimental Economics seminar</span></th>
+        <td class="num">3</td>
+        <td class="links">
+          <a class="btn" href="webcal://USER.github.io/ucsb-econ-seminars/tec.ics">Subscribe</a>
+          <a class="plain" href="tec.ics">.ics</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">Everything<span class="blurb">All series in one calendar</span></th>
+        <td class="num">26</td>
+        <td class="links">
+          <a class="btn" href="webcal://USER.github.io/ucsb-econ-seminars/all.ics">Subscribe</a>
+          <a class="plain" href="all.ics">.ics</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>How to subscribe</h2>
+  <ol>
+    <li><strong>Apple Calendar / Outlook:</strong> click Subscribe. Your calendar app takes it from there.</li>
+    <li><strong>Google Calendar:</strong> copy the <code>.ics</code> link, then Other calendars &rarr;
+      Subscribe from URL. Google refreshes external feeds on its own schedule, often once a day.</li>
+    <li>Do not download and import the file. Importing makes a one-time copy that never updates.</li>
+  </ol>
+
+  <h2>Next up</h2>
+  <ul class="next">
+      <li><span class="when">Wed Oct 7, 2026 at 3:30pm</span>
+        <a href="https://econ.ucsb.edu/events/all/2026/care-seminar-yihong-liu-university-california-santa-barbara">CARE Seminar: Yihong Liu, University of California, Santa Barbara</a>
+        <span class="where">North Hall 2111</span></li>
+      <li><span class="when">Wed Oct 14, 2026 at 3:30pm</span>
+        <a href="https://econ.ucsb.edu/events/all/2026/care-seminar-juan-nicolas-herrera-university-california-santa-barbara">CARE Seminar: Juan Nicolas Herrera, University of California, Santa Barbara</a>
+        <span class="where">North Hall 2111</span></li>
+      <li><span class="when">Wed Oct 21, 2026 at 3:30pm</span>
+        <a href="https://econ.ucsb.edu/events/all/2026/care-seminar-mauricio-colladom-university-california-santa-barbara">CARE Seminar: Mauricio Collado, University of California, Santa Barbara</a>
+        <span class="where">North Hall 2111</span></li>
+      <li><span class="when">Thu Oct 29, 2026 at 3:30pm</span>
+        <a href="https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-university-southern-california">MACRO Seminar: Diego Daruich, University of Southern California - The Macroeconomics of Intergenerational Mental Health Dynamics</a>
+        <span class="where">North Hall 2111</span></li>
+      <li><span class="when">Wed Nov 4, 2026 at 3:30pm</span>
+        <a href="https://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-yale-som">CARE Seminar: Barbara Biasi, Yale SOM</a>
+        <span class="where">North Hall 2111</span></li>
+      <li><span class="when">Thu Nov 5, 2026 at 3:30pm</span>
+        <a href="https://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-saleh-university-florida">MACRO Seminar: Fahad Saleh, University of Florida</a>
+        <span class="where">North Hall 2111</span></li>
+      <li><span class="when">Tue Nov 10, 2026 at 12:30pm</span>
+        <a href="https://econ.ucsb.edu/events/all/2026/tec-seminar-ori-heffetz-cornell-university">TEC Seminar: Ori Heffetz, Cornell University</a>
+        <span class="where">North Hall 2111</span></li>
+      <li><span class="when">Thu Nov 12, 2026 at 3:30pm</span>
+        <a href="https://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-australian-national-university">MACRO Seminar: Sephorah Mangin, Australian National University</a>
+        <span class="where">North Hall 2111</span></li>
+  </ul>
+
+  <footer>
+    Unofficial. Built by scraping
+    <a href="https://econ.ucsb.edu/events/seminars">econ.ucsb.edu/events/seminars</a>,
+    refreshed daily. Times and rooms follow the department page, so check it if
+    something looks off. Last updated September 21, 2026 at 15:07 UTC.
+  </footer>
+</div>
+</body>
+</html>

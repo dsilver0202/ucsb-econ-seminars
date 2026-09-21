@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UCSB Economics Seminars (unofficial)//scrape.py//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSB Econ CARE Seminar
+X-WR-CALDESC:Center for Applied Research in Economics
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:3f9e5b4eada725c9eb83@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261007T223000Z
+DTEND:20261008T000000Z
+SUMMARY:CARE Seminar: Yihong Liu\, University of California\, Santa Barba
+ ra
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Yihong Liu\, University of California\, Santa Barbar
+ a\nHosted by: Daniel Martin\n\nhttps://econ.ucsb.edu/events/all/2026/car
+ e-seminar-yihong-liu-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/care-seminar-yihong-liu-univers
+ ity-california-santa-barbara
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:75571ee554746b07c2b5@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261014T223000Z
+DTEND:20261015T000000Z
+SUMMARY:CARE Seminar: Juan Nicolas Herrera\, University of California\, S
+ anta Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Juan Nicolas Herrera\, University of California\, Sa
+ nta Barbara\nHosted by: Daniel Martin\n\nhttps://econ.ucsb.edu/events/al
+ l/2026/care-seminar-juan-nicolas-herrera-university-california-santa-bar
+ bara
+URL:https://econ.ucsb.edu/events/all/2026/care-seminar-juan-nicolas-herre
+ ra-university-california-santa-barbara
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb75b8894eb55d3cef19@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261021T223000Z
+DTEND:20261022T000000Z
+SUMMARY:CARE Seminar: Mauricio Collado\, University of California\, Santa
+  Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Mauricio Collado\, University of California\, Santa 
+ Barbara\nHosted by: Daniel Martin\n\nhttps://econ.ucsb.edu/events/all/20
+ 26/care-seminar-mauricio-colladom-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/care-seminar-mauricio-colladom-
+ university-california-santa-barbara
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa1006b11d915f05e68@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261104T233000Z
+DTEND:20261105T010000Z
+SUMMARY:CARE Seminar: Barbara Biasi\, Yale SOM
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Barbara Biasi\, Yale SOM\nHosted by: Mitchell Hoffma
+ n\n\nhttps://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-ya
+ le-som
+URL:https://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-yale
+ -som
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:990f3935b346ef024a3b@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261118T233000Z
+DTEND:20261119T010000Z
+SUMMARY:CARE Seminar: Felipe Lobel\, Duke
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Felipe Lobel\, Duke\nHosted by: Youssef Benzarti\n\n
+ https://econ.ucsb.edu/events/all/2026/care-seminar-felipe-lobel-duke
+URL:https://econ.ucsb.edu/events/all/2026/care-seminar-felipe-lobel-duke
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5983d11b8bb087115fe@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261202T233000Z
+DTEND:20261203T010000Z
+SUMMARY:CARE Seminar: Eleonora Patacchini
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Eleonora Patacchini\nHosted by: Peter Kuhn\n\nhttps:
+ //econ.ucsb.edu/events/all/2026/care-seminar-eleonora-patacchini-cornell
+ -university
+URL:https://econ.ucsb.edu/events/all/2026/care-seminar-eleonora-patacchin
+ i-cornell-university
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab52fa5a2ae798fdf2e@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270113T233000Z
+DTEND:20270114T010000Z
+SUMMARY:CARE Seminar: Yana Gallen\, University of Chicago
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Yana Gallen\, University of Chicago\nHosted by: Heat
+ her Royer\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-yana-gal
+ len-university-chicago
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-yana-gallen-univer
+ sity-chicago
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:789c22222a7a9b027613@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270203T233000Z
+DTEND:20270204T010000Z
+SUMMARY:CARE Seminar: Eric Chyn\, University of Texas at Austin
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Eric Chyn\, University of Texas at Austin\nHosted by
+ : Heather Royer\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-er
+ ic-chyn-university-texas-austin
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-eric-chyn-universi
+ ty-texas-austin
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e48a82d560a8e91d99e2@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270210T233000Z
+DTEND:20270211T010000Z
+SUMMARY:CARE Seminar: Nicole Maestas\, Harvard Medical
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Nicole Maestas\, Harvard Medical\nHosted by: David S
+ ilver\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-nicole-maest
+ as-harvard-medical
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-nicole-maestas-har
+ vard-medical
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a11193874ce0d505967d@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270310T233000Z
+DTEND:20270311T010000Z
+SUMMARY:CARE Seminar: Ben Handel\, UC Berkeley
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Ben Handel\, UC Berkeley\nHosted by: H. E. (Ted) Fre
+ ch\, III\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-ben-hande
+ l-uc-berkeley
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-ben-handel-uc-berk
+ eley
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:295a37cd6854d6f2be80@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270331T223000Z
+DTEND:20270401T000000Z
+SUMMARY:CARE Seminar: Rebekah Dix\, Stanford
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Rebekah Dix\, Stanford\nHosted by: David Silver\n\nh
+ ttps://econ.ucsb.edu/events/all/2027/care-seminar-rebekah-dix-stanford
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-rebekah-dix-stanfo
+ rd
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f354c0b601f3fbb2048@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270407T223000Z
+DTEND:20270408T000000Z
+SUMMARY:CARE Seminar: Audrey Guo\, Santa Clara University
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Audrey Guo\, Santa Clara University\nHosted by: Yous
+ sef Benzarti\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-audre
+ y-guo-santa-clara-university
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-audrey-guo-santa-c
+ lara-university
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a76c866098715cd747fa@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270414T223000Z
+DTEND:20270415T000000Z
+SUMMARY:CARE Seminar: Leonardo Bursztyn\, University of Chicago
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Leonardo Bursztyn\, University of Chicago\nHosted by
+ : Heather Royer\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-le
+ onardo-bursztyn-university-chicago
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-leonardo-bursztyn-
+ university-chicago
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5e9e6d8bef902ea4676@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270505T223000Z
+DTEND:20270506T000000Z
+SUMMARY:CARE Seminar: Cody Tuttle\, University of Texas at Austin
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Cody Tuttle\, University of Texas at Austin\nHosted 
+ by: David Silver\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-c
+ ody-tuttle-university-texas-austin
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-cody-tuttle-univer
+ sity-texas-austin
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed4fa25ac688595dbcb@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270519T223000Z
+DTEND:20270520T000000Z
+SUMMARY:CARE Seminar: Guo Xu\, Berkeley Haas
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Guo Xu\, Berkeley Haas\nHosted by: Mitchell Hoffman\
+ n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-guo-xu-berkeley-ha
+ as
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-guo-xu-berkeley-ha
+ as
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e56cd189db53b4479f2c@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270526T223000Z
+DTEND:20270527T000000Z
+SUMMARY:CARE Seminar: Chris Walters\, University California\, Berkeley
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Chris Walters\, University California\, Berkeley\nHo
+ sted by: Mitchell Hoffman\n\nhttps://econ.ucsb.edu/events/all/2027/care-
+ seminar-chris-walters-university-california-berkeley
+URL:https://econ.ucsb.edu/events/all/2027/care-seminar-chris-walters-univ
+ ersity-california-berkeley
+CATEGORIES:CARE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

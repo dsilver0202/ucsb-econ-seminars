@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UCSB Economics Seminars (unofficial)//scrape.py//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSB Econ TEC Seminar
+X-WR-CALDESC:Theory and Experimental Economics seminar
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:3527763d8bae26908fc8@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261110T203000Z
+DTEND:20261110T220000Z
+SUMMARY:TEC Seminar: Ori Heffetz\, Cornell University
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Ori Heffetz\, Cornell University\nHosted by: Jason S
+ omerville\n\nhttps://econ.ucsb.edu/events/all/2026/tec-seminar-ori-heffe
+ tz-cornell-university
+URL:https://econ.ucsb.edu/events/all/2026/tec-seminar-ori-heffetz-cornell
+ -university
+CATEGORIES:TEC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0904854bba00b9e45edf@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261117T203000Z
+DTEND:20261117T220000Z
+SUMMARY:TEC Seminar: Kirby Nielsen\, Cal Tech
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Kirby Nielsen\, Cal Tech\nHosted by: Jason Somervill
+ e\n\nhttps://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal
+ -tech
+URL:https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-t
+ ech
+CATEGORIES:TEC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1b3a8165a4f122bb42@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261201T203000Z
+DTEND:20261201T220000Z
+SUMMARY:TEC Seminar: Paulo Natenzon\, Washington University in Saint Loui
+ s
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Paulo Natenzon\, Washington University in Saint Loui
+ s\nHosted by: Jason Somerville\n\nhttps://econ.ucsb.edu/events/all/2026/
+ tec-seminar-paulo-natenzon-washington-university-saint-louis
+URL:https://econ.ucsb.edu/events/all/2026/tec-seminar-paulo-natenzon-wash
+ ington-university-saint-louis
+CATEGORIES:TEC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

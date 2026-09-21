@@ -1,0 +1,442 @@
+[
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-yihong-liu-university-california-santa-barbara",
+  "title": "CARE Seminar: Yihong Liu, University of California, Santa Barbara",
+  "start_utc": "2026-10-07T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Yihong Liu, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [
+   "Daniel Martin"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "f52f36e9be8c0051"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-juan-nicolas-herrera-university-california-santa-barbara",
+  "title": "CARE Seminar: Juan Nicolas Herrera, University of California, Santa Barbara",
+  "start_utc": "2026-10-14T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Juan Nicolas Herrera, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [
+   "Daniel Martin"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "99de551e223fabaa"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-mauricio-colladom-university-california-santa-barbara",
+  "title": "CARE Seminar: Mauricio Colladom University of California, Santa Barbara",
+  "start_utc": "2026-10-21T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Mauricio Collado, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [
+   "Daniel Martin"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "32f38da9e5c16910"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-university-southern-california",
+  "title": "MACRO Seminar: Diego Daruich, University of Southern California",
+  "start_utc": "2026-10-29T22:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Diego Daruich, University of Southern California",
+  "talk_title": "\"The Macroeconomics of Intergenerational Mental Health Dynamics\"",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "fbd3f620e5e81bc6"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-yale-som",
+  "title": "CARE Seminar: Barbara Biasi, Yale SOM)",
+  "start_utc": "2026-11-04T23:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Barbara Biasi, Yale SOM",
+  "talk_title": "",
+  "hosted_by": [
+   "Mitchell Hoffman"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "f524bfb577ba43cd"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-saleh-university-florida",
+  "title": "MACRO Seminar: Fahad Saleh, University of Florida",
+  "start_utc": "2026-11-05T23:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Fahad Saleh, University of Florida",
+  "talk_title": "",
+  "hosted_by": [
+   "Rod Garratt"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "613e2dbcefb9bdd4"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-ori-heffetz-cornell-university",
+  "title": "TEC Seminar: Ori Heffetz, Cornell University",
+  "start_utc": "2026-11-10T20:30:00Z",
+  "series": "TEC",
+  "location": "North Hall 2111",
+  "speaker": "Ori Heffetz, Cornell University",
+  "talk_title": "",
+  "hosted_by": [
+   "Jason Somerville"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "e8b2c2b01bfda31d"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-australian-national-university",
+  "title": "MACRO Seminar: Sephorah Mangin, Australian National University",
+  "start_utc": "2026-11-12T23:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Sephorah Mangin, Australian National University",
+  "talk_title": "",
+  "hosted_by": [
+   "Peter Rupert"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "268dce175fa0bec4"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-tech",
+  "title": "TEC Seminar: Kirby Nielsen, Cal Tech",
+  "start_utc": "2026-11-17T20:30:00Z",
+  "series": "TEC",
+  "location": "North Hall 2111",
+  "speaker": "Kirby Nielsen, Cal Tech",
+  "talk_title": "",
+  "hosted_by": [
+   "Jason Somerville"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "dba03b1c10487aff"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-felipe-lobel-duke",
+  "title": "CARE Seminar: Felipe Lobel, Duke",
+  "start_utc": "2026-11-18T23:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Felipe Lobel, Duke",
+  "talk_title": "",
+  "hosted_by": [
+   "Youssef Benzarti"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "3ee741bd2cdabf22"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-jeremy-pearce-federal-reserve-bank-new-york",
+  "title": "MACRO Seminar: Jeremy Pearce, Federal Reserve Bank of New York",
+  "start_utc": "2026-11-19T23:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Jeremy Pearce, Federal Reserve Bank of New York",
+  "talk_title": "",
+  "hosted_by": [
+   "Yueyuan Ma"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "ceab3644261e87be"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-paulo-natenzon-washington-university-saint-louis",
+  "title": "TEC Seminar: Paulo Natenzon, Washington University in Saint Louis",
+  "start_utc": "2026-12-01T20:30:00Z",
+  "series": "TEC",
+  "location": "North Hall 2111",
+  "speaker": "Paulo Natenzon, Washington University in Saint Louis",
+  "talk_title": "",
+  "hosted_by": [
+   "Jason Somerville"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "b30647f3e1539504"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-eleonora-patacchini-cornell-university",
+  "title": "CARE Seminar: Eleonora Patacchini, Cornell University",
+  "start_utc": "2026-12-02T23:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Eleonora Patacchini",
+  "talk_title": "",
+  "hosted_by": [
+   "Peter Kuhn"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "c5825c0e9cd5e33a"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-yana-gallen-university-chicago",
+  "title": "CARE Seminar: Yana Gallen, University of Chicago",
+  "start_utc": "2027-01-13T23:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Yana Gallen, University of Chicago",
+  "talk_title": "",
+  "hosted_by": [
+   "Heather Royer"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "b89ca41f2ff1f002"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/macro-seminar-jeremy-greenwood-university-pennsylvania",
+  "title": "MACRO Seminar: Jeremy Greenwood, University of Pennsylvania",
+  "start_utc": "2027-01-14T23:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Jeremy Greenwood, University of Pennsylvania",
+  "talk_title": "",
+  "hosted_by": [
+   "Peter Rupert"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "54da1035a123e40b"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-eric-chyn-university-texas-austin",
+  "title": "CARE Seminar: Eric Chyn, University of Texas at Austin",
+  "start_utc": "2027-02-03T23:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Eric Chyn, University of Texas at Austin",
+  "talk_title": "",
+  "hosted_by": [
+   "Heather Royer"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "0fafab64c23c8010"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stanford",
+  "title": "MACRO Seminar: Adrien Bilal, Stanford",
+  "start_utc": "2027-02-04T23:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Adrien Bilal, Stanford",
+  "talk_title": "",
+  "hosted_by": [
+   "Simon Margolin"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "6725598dde0fdb77"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-nicole-maestas-harvard-medical",
+  "title": "CARE Seminar: Nicole Maestas, Harvard Medical",
+  "start_utc": "2027-02-10T23:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Nicole Maestas, Harvard Medical",
+  "talk_title": "",
+  "hosted_by": [
+   "David Silver"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "865d0b5ab76b2939"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/macro-seminar-jane-olmstead-rumsey-london-school-economics",
+  "title": "MACRO Seminar: Jane Olmstead-Rumsey, London School of Economics",
+  "start_utc": "2027-03-04T23:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Jane Olmstead-Rumsey, London School of Economics",
+  "talk_title": "",
+  "hosted_by": [
+   "Laura Murphy"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "22782217508471e6"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-ben-handel-uc-berkeley",
+  "title": "CARE Seminar: Ben Handel, UC Berkeley",
+  "start_utc": "2027-03-10T23:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Ben Handel, UC Berkeley",
+  "talk_title": "",
+  "hosted_by": [
+   "H. E. (Ted) Frech, III"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "2d13d693a750c500"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-rebekah-dix-stanford",
+  "title": "CARE Seminar: Rebekah Dix, Stanford",
+  "start_utc": "2027-03-31T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Rebekah Dix, Stanford",
+  "talk_title": "",
+  "hosted_by": [
+   "David Silver"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "6775796e450aefa5"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-audrey-guo-santa-clara-university",
+  "title": "CARE Seminar: Audrey Guo, Santa Clara University",
+  "start_utc": "2027-04-07T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Audrey Guo, Santa Clara University",
+  "talk_title": "",
+  "hosted_by": [
+   "Youssef Benzarti"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "5e628a56685f3593"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-leonardo-bursztyn-university-chicago",
+  "title": "CARE Seminar: Leonardo Bursztyn, University of Chicago",
+  "start_utc": "2027-04-14T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Leonardo Bursztyn, University of Chicago",
+  "talk_title": "",
+  "hosted_by": [
+   "Heather Royer"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "88b17aaad2a55187"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-cody-tuttle-university-texas-austin",
+  "title": "CARE Seminar: Cody Tuttle, University of Texas at Austin",
+  "start_utc": "2027-05-05T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Cody Tuttle, University of Texas at Austin",
+  "talk_title": "",
+  "hosted_by": [
+   "David Silver"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "28e57e7061543706"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-guo-xu-berkeley-haas",
+  "title": "CARE Seminar: Guo Xu, Berkeley Haas",
+  "start_utc": "2027-05-19T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Guo Xu, Berkeley Haas",
+  "talk_title": "",
+  "hosted_by": [
+   "Mitchell Hoffman"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "3bcfe8490768d31a"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-chris-walters-university-california-berkeley",
+  "title": "CARE Seminar: Chris Walters, University California, Berkeley",
+  "start_utc": "2027-05-26T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Chris Walters, University California, Berkeley",
+  "talk_title": "",
+  "hosted_by": [
+   "Mitchell Hoffman"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "e17181c846de85eb"
+ }
+]

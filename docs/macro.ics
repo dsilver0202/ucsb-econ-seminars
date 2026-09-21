@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UCSB Economics Seminars (unofficial)//scrape.py//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSB Econ MACRO Seminar
+X-WR-CALDESC:Macroeconomics seminar
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ff769b9f0c50bad7b141@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261029T223000Z
+DTEND:20261030T000000Z
+SUMMARY:MACRO Seminar: Diego Daruich\, University of Southern California 
+ - The Macroeconomics of Intergenerational Mental Health Dynamics
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Diego Daruich\, University of Southern California\nT
+ itle: "The Macroeconomics of Intergenerational Mental Health Dynamics"\n
+ \nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-univ
+ ersity-southern-california
+URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-uni
+ versity-southern-california
+CATEGORIES:MACRO
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5d7b5b9d445086e44a@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261105T233000Z
+DTEND:20261106T010000Z
+SUMMARY:MACRO Seminar: Fahad Saleh\, University of Florida
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Fahad Saleh\, University of Florida\nHosted by: Rod 
+ Garratt\n\nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-sal
+ eh-university-florida
+URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-saleh-unive
+ rsity-florida
+CATEGORIES:MACRO
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c723cc43957daea988@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261112T233000Z
+DTEND:20261113T010000Z
+SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Sephorah Mangin\, Australian National University\nHo
+ sted by: Peter Rupert\n\nhttps://econ.ucsb.edu/events/all/2026/macro-sem
+ inar-sephorah-mangin-australian-national-university
+URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-a
+ ustralian-national-university
+CATEGORIES:MACRO
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab7fa195f00737358adf@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20261119T233000Z
+DTEND:20261120T010000Z
+SUMMARY:MACRO Seminar: Jeremy Pearce\, Federal Reserve Bank of New York
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Jeremy Pearce\, Federal Reserve Bank of New York\nHo
+ sted by: Yueyuan Ma\n\nhttps://econ.ucsb.edu/events/all/2026/macro-semin
+ ar-jeremy-pearce-federal-reserve-bank-new-york
+URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-jeremy-pearce-fed
+ eral-reserve-bank-new-york
+CATEGORIES:MACRO
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae5bfb5ccf61ec1b61e9@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270114T233000Z
+DTEND:20270115T010000Z
+SUMMARY:MACRO Seminar: Jeremy Greenwood\, University of Pennsylvania
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Jeremy Greenwood\, University of Pennsylvania\nHoste
+ d by: Peter Rupert\n\nhttps://econ.ucsb.edu/events/all/2027/macro-semina
+ r-jeremy-greenwood-university-pennsylvania
+URL:https://econ.ucsb.edu/events/all/2027/macro-seminar-jeremy-greenwood-
+ university-pennsylvania
+CATEGORIES:MACRO
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:35fa0b5ee2a37e81c31b@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270204T233000Z
+DTEND:20270205T010000Z
+SUMMARY:MACRO Seminar: Adrien Bilal\, Stanford
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Adrien Bilal\, Stanford\nHosted by: Simon Margolin\n
+ \nhttps://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stanf
+ ord
+URL:https://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stan
+ ford
+CATEGORIES:MACRO
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:75f6f5a63b361faf4aa9@econ.ucsb.edu
+DTSTAMP:20260921T150713Z
+DTSTART:20270304T233000Z
+DTEND:20270305T010000Z
+SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey\, London School of Economics
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Jane Olmstead-Rumsey\, London School of Economics\nH
+ osted by: Laura Murphy\n\nhttps://econ.ucsb.edu/events/all/2027/macro-se
+ minar-jane-olmstead-rumsey-london-school-economics
+URL:https://econ.ucsb.edu/events/all/2027/macro-seminar-jane-olmstead-rum
+ sey-london-school-economics
+CATEGORIES:MACRO
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
