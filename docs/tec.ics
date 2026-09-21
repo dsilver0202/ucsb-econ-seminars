@@ -10,62 +10,62 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:3527763d8bae26908fc8@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261110T203000Z
 DTEND:20261110T220000Z
-SUMMARY:TEC Seminar: Ori Heffetz \, Cornell University
+SUMMARY:TEC Seminar: Ori Heffetz\, Cornell University
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Ori Heffetz \, Cornell University\nHosted by: Jason 
- Somerville\n\nOri Heffetz is a data-based economist\, using lab and fiel
- d surveys and experiments to study the psychological\, social\, and cult
- ural aspects of economic behavior\, well-being\, and policy. Heffetz's w
- ork investigates what we can and cannot learn from economic and well-bei
- ng indicators—household expenditures\, the unemployment rate\, or self
- -reported happiness—and how governments can use such data to guide pol
- icy. For example\, he studies how people interpret and respond to survey
-  questions\, and how the resulting data are affected. Heffetz also studi
- es people's economic perceptions\, inferences\, beliefs\, and expectatio
- ns\, how they are related to behavior\, and how policymakers can take th
- em into account to design better policies and markets. For example\, he 
- has studied product visibility and conspicuous consumption\, and how peo
- ple infer quality from prices\, choose relative to reference points\, an
- d respond to reminders\, deadlines\, menu descriptions\, guarantees of d
- ata privacy\, or public information about health risk. Heffetz holds a B
- A in physics and philosophy from Tel Aviv University and a PhD in econom
- ics from Princeton University. He is a co-author of a widely used Princi
- ples of Economics textbook\, and has created an award-winning macroecono
- mics course that introduces basic concepts and tools from economic theor
- y and applies them to current news and global events. Beyond his academi
- c research and teaching\, he advises governmental and non-governmental i
- nstitutions\, and writes and sp\n\nhttps://econ.ucsb.edu/events/all/2026
- /tec-seminar-ori-heffetz-cornell-university
+DESCRIPTION:Speaker: Ori Heffetz\, Cornell University\nHosted by: Jason S
+ omerville\n\nOri Heffetz is a data-based economist\, using lab and field
+  surveys and experiments to study the psychological\, social\, and cultu
+ ral aspects of economic behavior\, well-being\, and policy. Heffetz's wo
+ rk investigates what we can and cannot learn from economic and well-bein
+ g indicators—household expenditures\, the unemployment rate\, or self-
+ reported happiness—and how governments can use such data to guide poli
+ cy. For example\, he studies how people interpret and respond to survey 
+ questions\, and how the resulting data are affected. Heffetz also studie
+ s people's economic perceptions\, inferences\, beliefs\, and expectation
+ s\, how they are related to behavior\, and how policymakers can take the
+ m into account to design better policies and markets. For example\, he h
+ as studied product visibility and conspicuous consumption\, and how peop
+ le infer quality from prices\, choose relative to reference points\, and
+  respond to reminders\, deadlines\, menu descriptions\, guarantees of da
+ ta privacy\, or public information about health risk. Heffetz holds a BA
+  in physics and philosophy from Tel Aviv University and a PhD in economi
+ cs from Princeton University. He is a co-author of a widely used Princip
+ les of Economics textbook\, and has created an award-winning macroeconom
+ ics course that introduces basic concepts and tools from economic theory
+  and applies them to current news and global events. Beyond his academic
+  research and teaching\, he advises governmental and non-governmental in
+ stitutions\, and writes and sp\n\nhttps://econ.ucsb.edu/events/all/2026/
+ tec-seminar-ori-heffetz-cornell-university
 URL:https://econ.ucsb.edu/events/all/2026/tec-seminar-ori-heffetz-cornell
  -university
 CATEGORIES:TEC
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0904854bba00b9e45edf@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261117T203000Z
 DTEND:20261117T220000Z
-SUMMARY:TEC Seminar: Kirby Nielsen \, Cal Tech
+SUMMARY:TEC Seminar: Kirby Nielsen\, Cal Tech
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Kirby Nielsen \, Cal Tech\nHosted by: Jason Somervil
- le\n\nhttps://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-ca
- l-tech
+DESCRIPTION:Speaker: Kirby Nielsen\, Cal Tech\nHosted by: Jason Somervill
+ e\n\nhttps://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal
+ -tech
 URL:https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-t
  ech
 CATEGORIES:TEC
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8d1b3a8165a4f122bb42@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261201T203000Z
 DTEND:20261201T220000Z
 SUMMARY:TEC Seminar: Paulo Natenzon\, Washington University in Saint Loui

@@ -10,123 +10,123 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:3f9e5b4eada725c9eb83@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261007T223000Z
 DTEND:20261008T000000Z
-SUMMARY:CARE Seminar: Yihong Liu \, University of California\, Santa Barb
- ara
+SUMMARY:CARE Seminar: Yihong Liu\, University of California\, Santa Barba
+ ra
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Yihong Liu \, University of California\, Santa Barba
- ra\nHosted by: Daniel Martin\n\nYihong Liu is a fifth-year Ph.D. student
-  in Economics at UCSB. He earned his B.A. in Economics from Shanghai Uni
- versity of Finance and Economics and his M.A. in Economics from Duke Uni
- versity. His research primarily focuses on environmental economics\, res
- ource economics\, and econometrics. His current research focuses on the 
- estimation of dynamic games in resource economics\, and robust inference
-  in two-step estimation procedures\, including matching difference-in-di
- fferences and matching triple-differences designs. In his spare time\, h
- e enjoys watching UCSB Gauchos’ basketball games and Shanghai Shenhua
+DESCRIPTION:Speaker: Yihong Liu\, University of California\, Santa Barbar
+ a\nHosted by: Daniel Martin\n\nYihong Liu is a fifth-year Ph.D. student 
+ in Economics at UCSB. He earned his B.A. in Economics from Shanghai Univ
+ ersity of Finance and Economics and his M.A. in Economics from Duke Univ
+ ersity. His research primarily focuses on environmental economics\, reso
+ urce economics\, and econometrics. His current research focuses on the e
+ stimation of dynamic games in resource economics\, and robust inference 
+ in two-step estimation procedures\, including matching difference-in-dif
+ ferences and matching triple-differences designs. In his spare time\, he
+  enjoys watching UCSB Gauchos’ basketball games and Shanghai Shenhua
  ’s soccer matches.\n\nhttps://econ.ucsb.edu/events/all/2026/care-semin
  ar-yihong-liu-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/care-seminar-yihong-liu-univers
  ity-california-santa-barbara
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:75571ee554746b07c2b5@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261014T223000Z
 DTEND:20261015T000000Z
-SUMMARY:CARE Seminar: Juan Nicolas Herrera \, University of California\, 
- Santa Barbara
+SUMMARY:CARE Seminar: Juan Nicolas Herrera\, University of California\, S
+ anta Barbara
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Juan Nicolas Herrera \, University of California\, S
- anta Barbara\nHosted by: Daniel Martin\n\nJuan Nicolas Herrera earned hi
- s Bachelor’s in Economics jointly from Universidad del Rosario in Colo
- mbia and the Toulouse School of Economics in France. He also holds a Mas
- ter’s in Public Policy and Development from the Paris School of Econom
- ics and a Master of Arts in Economics from the University of California\
- , Santa Barbara (UCSB). Prior to joining UCSB\, he was a Research Fellow
-  in the Research Department of the Inter-American Development Bank. Duri
- ng his graduate studies\, he served as an instructor for undergraduate c
- ourses in public economics and statistics and worked as a research assis
- tant for Professor Alisa Tazhitdinova. His research interests include pu
- blic economics\, housing markets\, labor economics\, and applied econome
- trics. His current research focuses on the incidence of taxation in hous
- ing markets.\n\nhttps://econ.ucsb.edu/events/all/2026/care-seminar-juan-
- nicolas-herrera-university-california-santa-barbara
+DESCRIPTION:Speaker: Juan Nicolas Herrera\, University of California\, Sa
+ nta Barbara\nHosted by: Daniel Martin\n\nJuan Nicolas Herrera earned his
+  Bachelor’s in Economics jointly from Universidad del Rosario in Colom
+ bia and the Toulouse School of Economics in France. He also holds a Mast
+ er’s in Public Policy and Development from the Paris School of Economi
+ cs and a Master of Arts in Economics from the University of California\,
+  Santa Barbara (UCSB). Prior to joining UCSB\, he was a Research Fellow 
+ in the Research Department of the Inter-American Development Bank. Durin
+ g his graduate studies\, he served as an instructor for undergraduate co
+ urses in public economics and statistics and worked as a research assist
+ ant for Professor Alisa Tazhitdinova. His research interests include pub
+ lic economics\, housing markets\, labor economics\, and applied economet
+ rics. His current research focuses on the incidence of taxation in housi
+ ng markets.\n\nhttps://econ.ucsb.edu/events/all/2026/care-seminar-juan-n
+ icolas-herrera-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/care-seminar-juan-nicolas-herre
  ra-university-california-santa-barbara
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eb75b8894eb55d3cef19@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261021T223000Z
 DTEND:20261022T000000Z
-SUMMARY:CARE Seminar: Mauricio Collado \, University of California\, Sant
- a Barbara
+SUMMARY:CARE Seminar: Mauricio Collado\, University of California\, Santa
+  Barbara
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Mauricio Collado \, University of California\, Santa
-  Barbara\nHosted by: Daniel Martin\n\nhttps://econ.ucsb.edu/events/all/2
- 026/care-seminar-mauricio-colladom-university-california-santa-barbara
+DESCRIPTION:Speaker: Mauricio Collado\, University of California\, Santa 
+ Barbara\nHosted by: Daniel Martin\n\nhttps://econ.ucsb.edu/events/all/20
+ 26/care-seminar-mauricio-colladom-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/care-seminar-mauricio-colladom-
  university-california-santa-barbara
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bfa1006b11d915f05e68@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261104T233000Z
 DTEND:20261105T010000Z
-SUMMARY:CARE Seminar: Barbara Biasi \, Yale SOM
+SUMMARY:CARE Seminar: Barbara Biasi\, Yale SOM
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Barbara Biasi \, Yale SOM\nHosted by: Mitchell Hoffm
- an\n\nI am an (untenured) Associate Professor of Economics at the Yale S
- chool of Management. I am also a Faculty Research Fellow at NBER and a R
- esearch Affiliate at CEPR\, IZA\, and CESifo. I am a labor economist and
-  most of my work is related to education.\n\nhttps://econ.ucsb.edu/event
- s/all/2026/care-seminar-barbara-biasi-yale-som
+DESCRIPTION:Speaker: Barbara Biasi\, Yale SOM\nHosted by: Mitchell Hoffma
+ n\n\nI am an (untenured) Associate Professor of Economics at the Yale Sc
+ hool of Management. I am also a Faculty Research Fellow at NBER and a Re
+ search Affiliate at CEPR\, IZA\, and CESifo. I am a labor economist and 
+ most of my work is related to education.\n\nhttps://econ.ucsb.edu/events
+ /all/2026/care-seminar-barbara-biasi-yale-som
 URL:https://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-yale
  -som
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:990f3935b346ef024a3b@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261118T233000Z
 DTEND:20261119T010000Z
-SUMMARY:CARE Seminar: Felipe Lobel \, Duke
+SUMMARY:CARE Seminar: Felipe Lobel\, Duke
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Felipe Lobel \, Duke\nHosted by: Youssef Benzarti\n\
- nI combine theory and large administrative data to study how corporate b
- ehavior and public policy interact in the presence of market failures. B
- uilding on this\, my recent work examines business taxation\, cash trans
- fers\, and housing policy. I am an Assistant Professor of Economics at D
- uke University \, since 2026. I completed my PhD in Economics at UC Berk
- eley and was a postdoctoral fellow at Columbia and Stanford University .
- \n\nhttps://econ.ucsb.edu/events/all/2026/care-seminar-felipe-lobel-duke
+DESCRIPTION:Speaker: Felipe Lobel\, Duke\nHosted by: Youssef Benzarti\n\n
+ I combine theory and large administrative data to study how corporate be
+ havior and public policy interact in the presence of market failures. Bu
+ ilding on this\, my recent work examines business taxation\, cash transf
+ ers\, and housing policy. I am an Assistant Professor of Economics at Du
+ ke University\, since 2026. I completed my PhD in Economics at UC Berkel
+ ey and was a postdoctoral fellow at Columbia and Stanford University.\n\
+ nhttps://econ.ucsb.edu/events/all/2026/care-seminar-felipe-lobel-duke
 URL:https://econ.ucsb.edu/events/all/2026/care-seminar-felipe-lobel-duke
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d5983d11b8bb087115fe@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20261202T233000Z
 DTEND:20261203T010000Z
 SUMMARY:CARE Seminar: Eleonora Patacchini
@@ -143,244 +143,244 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4ab52fa5a2ae798fdf2e@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270113T233000Z
 DTEND:20270114T010000Z
-SUMMARY:CARE Seminar: Yana Gallen \, University of Chicago
+SUMMARY:CARE Seminar: Yana Gallen\, University of Chicago
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Yana Gallen \, University of Chicago\nHosted by: Hea
- ther Royer\n\nI am a labor economist studying why gender gaps in earning
- s persist despite decades of progress in women's education and labor for
- ce participation. My research highlights parenthood as a central source 
- of these gaps. I study how children shape women's careers before and aft
- er birth\, including how pregnancy timing\, workplace flexibility\, chil
- dcare\, and career advice affect earnings\, employment\, and career prog
- ression.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-yana-gall
- en-university-chicago
+DESCRIPTION:Speaker: Yana Gallen\, University of Chicago\nHosted by: Heat
+ her Royer\n\nI am a labor economist studying why gender gaps in earnings
+  persist despite decades of progress in women's education and labor forc
+ e participation. My research highlights parenthood as a central source o
+ f these gaps. I study how children shape women's careers before and afte
+ r birth\, including how pregnancy timing\, workplace flexibility\, child
+ care\, and career advice affect earnings\, employment\, and career progr
+ ession.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-yana-galle
+ n-university-chicago
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-yana-gallen-univer
  sity-chicago
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:789c22222a7a9b027613@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270203T233000Z
 DTEND:20270204T010000Z
-SUMMARY:CARE Seminar: Eric Chyn \, University of Texas at Austin
+SUMMARY:CARE Seminar: Eric Chyn\, University of Texas at Austin
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Eric Chyn \, University of Texas at Austin\nHosted b
- y: Heather Royer\n\nI am an applied microeconomist whose research covers
-  a range of topics in labor and public economics. Much of my research fo
- cuses on understanding the effects of government programs on the long-ru
- n outcomes of children. My research has been published in the leading ac
- ademic journals in economics\, such as the American Economic Review \, t
- he Journal of Political Economy \, and the Quarterly Journal of Economic
- s \, and covered by national media outlets including The New York Times 
- \, The Washington Post \, and The Atlantic . My dissertation work was aw
- arded the Dorothy S. Thomas Award from the Population Association of Ame
- rica (PAA) and the Dissertation Prize from the Human Capital and Economi
- c Opportunity (HCEO) Global Working Group. I received a PhD in Economics
-  from the University of Michigan in 2016.\n\nhttps://econ.ucsb.edu/event
- s/all/2027/care-seminar-eric-chyn-university-texas-austin
+DESCRIPTION:Speaker: Eric Chyn\, University of Texas at Austin\nHosted by
+ : Heather Royer\n\nI am an applied microeconomist whose research covers 
+ a range of topics in labor and public economics. Much of my research foc
+ uses on understanding the effects of government programs on the long-run
+  outcomes of children. My research has been published in the leading aca
+ demic journals in economics\, such as the American Economic Review\, the
+  Journal of Political Economy\, and the Quarterly Journal of Economics\,
+  and covered by national media outlets including The New York Times\, Th
+ e Washington Post\, and The Atlantic. My dissertation work was awarded t
+ he Dorothy S. Thomas Award from the Population Association of America (P
+ AA) and the Dissertation Prize from the Human Capital and Economic Oppor
+ tunity (HCEO) Global Working Group. I received a PhD in Economics from t
+ he University of Michigan in 2016.\n\nhttps://econ.ucsb.edu/events/all/2
+ 027/care-seminar-eric-chyn-university-texas-austin
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-eric-chyn-universi
  ty-texas-austin
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e48a82d560a8e91d99e2@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270210T233000Z
 DTEND:20270211T010000Z
-SUMMARY:CARE Seminar: Nicole Maestas \, Harvard Medical
+SUMMARY:CARE Seminar: Nicole Maestas\, Harvard Medical
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Nicole Maestas \, Harvard Medical\nHosted by: David 
- Silver\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-nicole-maes
- tas-harvard-medical
+DESCRIPTION:Speaker: Nicole Maestas\, Harvard Medical\nHosted by: David S
+ ilver\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-nicole-maest
+ as-harvard-medical
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-nicole-maestas-har
  vard-medical
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a11193874ce0d505967d@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270310T233000Z
 DTEND:20270311T010000Z
-SUMMARY:CARE Seminar: Ben Handel \, UC Berkeley
+SUMMARY:CARE Seminar: Ben Handel\, UC Berkeley
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Ben Handel \, UC Berkeley\nHosted by: H. E. (Ted) Fr
- ech\, III\n\nBen Handel is a professor of economics at the University of
-  California\, Berkeley\, where he has taught since 2010. He received his
-  A.B. from Princeton and his Ph.D. from Northwestern. Handel is a co-dir
- ector of the Gilbert Center for industrial organization research at Berk
- eley and a co-director of the National Bureau of Economic Research Insur
- ance Working Group. His research focuses on health care economics\, indu
- strial organization and behavioral economics. Handel has worked with num
- erous businesses and policymakers in these areas and teaches PhD courses
-  in health economics and industrial organization. Handel received the 20
- 18 ASHEcon Medal for top health economist under the age of 40. He receiv
- ed the Econometric Society’s Frisch Medal for his Econometrica article
-  “Equilibria in Health Exchanges.” He received the NIHCM Foundation 
- Research Award for best health economics research paper for his Quarterl
- y Journal of Economics article on the impacts of consumer cost-sharing i
- n health care. Handel is a recipient of an NSF CAREER Award and of a Slo
- an Research Fellowship. Handel was selected as a member of the Review of
-  Economic Studies ( ReStud) Tour in 2010. Handel has worked on a wide ra
- nge of topics including insurance market design\, health care provider p
- roductivity\, competition policy in the health care sector\, regulation 
- of the health care sector\, the behavioral economics of consumer choices
- \, dynamic product pricing\, and the industrial organization of social m
- edia markets.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-ben-
- handel-uc-berkeley
+DESCRIPTION:Speaker: Ben Handel\, UC Berkeley\nHosted by: H. E. (Ted) Fre
+ ch\, III\n\nBen Handel is a professor of economics at the University of 
+ California\, Berkeley\, where he has taught since 2010. He received his 
+ A.B. from Princeton and his Ph.D. from Northwestern. Handel is a co-dire
+ ctor of the Gilbert Center for industrial organization research at Berke
+ ley and a co-director of the National Bureau of Economic Research Insura
+ nce Working Group. His research focuses on health care economics\, indus
+ trial organization and behavioral economics. Handel has worked with nume
+ rous businesses and policymakers in these areas and teaches PhD courses 
+ in health economics and industrial organization. Handel received the 201
+ 8 ASHEcon Medal for top health economist under the age of 40. He receive
+ d the Econometric Society’s Frisch Medal for his Econometrica article 
+ “Equilibria in Health Exchanges.” He received the NIHCM Foundation R
+ esearch Award for best health economics research paper for his Quarterly
+  Journal of Economics article on the impacts of consumer cost-sharing in
+  health care. Handel is a recipient of an NSF CAREER Award and of a Sloa
+ n Research Fellowship. Handel was selected as a member of the Review of 
+ Economic Studies ( ReStud) Tour in 2010. Handel has worked on a wide ran
+ ge of topics including insurance market design\, health care provider pr
+ oductivity\, competition policy in the health care sector\, regulation o
+ f the health care sector\, the behavioral economics of consumer choices\
+ , dynamic product pricing\, and the industrial organization of social me
+ dia markets.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-ben-h
+ andel-uc-berkeley
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-ben-handel-uc-berk
  eley
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:295a37cd6854d6f2be80@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270331T223000Z
 DTEND:20270401T000000Z
-SUMMARY:CARE Seminar: Rebekah Dix \, Stanford
+SUMMARY:CARE Seminar: Rebekah Dix\, Stanford
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Rebekah Dix \, Stanford\nHosted by: David Silver\n\n
- I am a postdoctoral fellow at the Stanford Institute for Economic Policy
-  Research (2026–27). I will join Stanford University as an Assistant P
- rofessor of Economics in July 2027. My primary research field is industr
- ial organization\, including work on innovation and health. I received a
-  BA from the University of Wisconsin–Madison in 2019\, a PhD in econom
- ics from MIT in 2025\, and was previously a postdoctoral fellow at the C
- owles Foundation at Yale University.\n\nhttps://econ.ucsb.edu/events/all
- /2027/care-seminar-rebekah-dix-stanford
+DESCRIPTION:Speaker: Rebekah Dix\, Stanford\nHosted by: David Silver\n\nI
+  am a postdoctoral fellow at the Stanford Institute for Economic Policy 
+ Research (2026–27). I will join Stanford University as an Assistant Pr
+ ofessor of Economics in July 2027. My primary research field is industri
+ al organization\, including work on innovation and health. I received a 
+ BA from the University of Wisconsin–Madison in 2019\, a PhD in economi
+ cs from MIT in 2025\, and was previously a postdoctoral fellow at the Co
+ wles Foundation at Yale University.\n\nhttps://econ.ucsb.edu/events/all/
+ 2027/care-seminar-rebekah-dix-stanford
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-rebekah-dix-stanfo
  rd
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7f354c0b601f3fbb2048@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270407T223000Z
 DTEND:20270408T000000Z
-SUMMARY:CARE Seminar: Audrey Guo \, Santa Clara University
+SUMMARY:CARE Seminar: Audrey Guo\, Santa Clara University
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Audrey Guo \, Santa Clara University\nHosted by: You
- ssef Benzarti\n\nMy research interests include Public\, Labor\, and Heal
- th economics\, with a focus on social insurance and firm responses to ta
- xation. I received my PhD in Economics from Stanford University\, and jo
- ined Santa Clara University as an Assistant Professor of Economics in Fa
- ll 2019.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-audrey-gu
- o-santa-clara-university
+DESCRIPTION:Speaker: Audrey Guo\, Santa Clara University\nHosted by: Yous
+ sef Benzarti\n\nMy research interests include Public\, Labor\, and Healt
+ h economics\, with a focus on social insurance and firm responses to tax
+ ation. I received my PhD in Economics from Stanford University\, and joi
+ ned Santa Clara University as an Assistant Professor of Economics in Fal
+ l 2019.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-audrey-guo
+ -santa-clara-university
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-audrey-guo-santa-c
  lara-university
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a76c866098715cd747fa@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270414T223000Z
 DTEND:20270415T000000Z
-SUMMARY:CARE Seminar: Leonardo Bursztyn \, University of Chicago
+SUMMARY:CARE Seminar: Leonardo Bursztyn\, University of Chicago
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Leonardo Bursztyn \, University of Chicago\nHosted b
- y: Heather Royer\n\nLeonardo Bursztyn is the Saieh Family Professor of E
- conomics at the University of Chicago. He is also an Editor of the Journ
- al of Political Economy\, the co-director of the Becker Friedman Institu
- te Political Economics Initiative and of the Program in Behavioral Econo
- mics Research\, and the founder and director of the Normal Lab. His rese
- arch seeks to better understand how individuals' main economic decisions
-  are shaped by their social environments. His work has examined educatio
- nal\, labor market\, financial\, consumption\, and political decisions\,
-  both in developing and developed countries. Leonardo is a Research Asso
- ciate at the National Bureau of Economic Research (NBER)\, a fellow at t
- he Bureau for Research and Economic Analysis of Development (BREAD)\, an
- d an affiliate at the Abdul Latif Jameel Poverty Action Lab (J-PAL) and 
- at the Pearson Institute. He is also the recipient of a 2016 Sloan Resea
- rch Fellowship. He received his PhD in economics at Harvard University i
- n 2010.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-leonardo-b
- ursztyn-university-chicago
+DESCRIPTION:Speaker: Leonardo Bursztyn\, University of Chicago\nHosted by
+ : Heather Royer\n\nLeonardo Bursztyn is the Saieh Family Professor of Ec
+ onomics at the University of Chicago. He is also an Editor of the Journa
+ l of Political Economy\, the co-director of the Becker Friedman Institut
+ e Political Economics Initiative and of the Program in Behavioral Econom
+ ics Research\, and the founder and director of the Normal Lab. His resea
+ rch seeks to better understand how individuals' main economic decisions 
+ are shaped by their social environments. His work has examined education
+ al\, labor market\, financial\, consumption\, and political decisions\, 
+ both in developing and developed countries. Leonardo is a Research Assoc
+ iate at the National Bureau of Economic Research (NBER)\, a fellow at th
+ e Bureau for Research and Economic Analysis of Development (BREAD)\, and
+  an affiliate at the Abdul Latif Jameel Poverty Action Lab (J-PAL) and a
+ t the Pearson Institute. He is also the recipient of a 2016 Sloan Resear
+ ch Fellowship. He received his PhD in economics at Harvard University in
+  2010.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-leonardo-bu
+ rsztyn-university-chicago
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-leonardo-bursztyn-
  university-chicago
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f5e9e6d8bef902ea4676@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270505T223000Z
 DTEND:20270506T000000Z
-SUMMARY:CARE Seminar: Cody Tuttle \, University of Texas at Austin
+SUMMARY:CARE Seminar: Cody Tuttle\, University of Texas at Austin
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Cody Tuttle \, University of Texas at Austin\nHosted
-  by: David Silver\n\nWelcome! I'm an assistant professor in the Economic
- s department at UT Austin. My research focuses on questions in public ec
- onomics\, labor economics\, and political economy.\n\nhttps://econ.ucsb.
- edu/events/all/2027/care-seminar-cody-tuttle-university-texas-austin
+DESCRIPTION:Speaker: Cody Tuttle\, University of Texas at Austin\nHosted 
+ by: David Silver\n\nWelcome! I'm an assistant professor in the Economics
+  department at UT Austin. My research focuses on questions in public eco
+ nomics\, labor economics\, and political economy.\n\nhttps://econ.ucsb.e
+ du/events/all/2027/care-seminar-cody-tuttle-university-texas-austin
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-cody-tuttle-univer
  sity-texas-austin
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1ed4fa25ac688595dbcb@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270519T223000Z
 DTEND:20270520T000000Z
-SUMMARY:CARE Seminar: Guo Xu \, Berkeley Haas
+SUMMARY:CARE Seminar: Guo Xu\, Berkeley Haas
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Guo Xu \, Berkeley Haas\nHosted by: Mitchell Hoffman
- \n\nI am Associate Professor at the Haas School of Business\, UC Berkele
- y\, a Research Associate at the NBER and Affiliate at the Bureau for Res
- earch and Economic Analysis of Development (BREAD). I also serve as Co-E
- ditor at the Journal of Law\, Economics\, and Organization and as Associ
- ate Editor at the Journal of Political Economy and Econometrica. I work 
- at the intersection of political economy\, economic history\, and develo
- pment.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-guo-xu-berk
- eley-haas
+DESCRIPTION:Speaker: Guo Xu\, Berkeley Haas\nHosted by: Mitchell Hoffman\
+ n\nI am Associate Professor at the Haas School of Business\, UC Berkeley
+ \, a Research Associate at the NBER and Affiliate at the Bureau for Rese
+ arch and Economic Analysis of Development (BREAD). I also serve as Co-Ed
+ itor at the Journal of Law\, Economics\, and Organization and as Associa
+ te Editor at the Journal of Political Economy and Econometrica. I work a
+ t the intersection of political economy\, economic history\, and develop
+ ment.\n\nhttps://econ.ucsb.edu/events/all/2027/care-seminar-guo-xu-berke
+ ley-haas
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-guo-xu-berkeley-ha
  as
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e56cd189db53b4479f2c@econ.ucsb.edu
-DTSTAMP:20260921T153037Z
+DTSTAMP:20260921T155303Z
 DTSTART:20270526T223000Z
 DTEND:20270527T000000Z
-SUMMARY:CARE Seminar: Chris Walters \, University California\, Berkeley
+SUMMARY:CARE Seminar: Chris Walters\, University California\, Berkeley
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Chris Walters \, University California\, Berkeley\nH
- osted by: Mitchell Hoffman\n\nI am a professor in the Department of Econ
- omics at the University of California\, Berkeley. I study topics in labo
- r economics\, the economics of education\, and applied econometrics. My 
- CV is available here .\n\nhttps://econ.ucsb.edu/events/all/2027/care-sem
- inar-chris-walters-university-california-berkeley
+DESCRIPTION:Speaker: Chris Walters\, University California\, Berkeley\nHo
+ sted by: Mitchell Hoffman\n\nI am a professor in the Department of Econo
+ mics at the University of California\, Berkeley. I study topics in labor
+  economics\, the economics of education\, and applied econometrics. My C
+ V is available here.\n\nhttps://econ.ucsb.edu/events/all/2027/care-semin
+ ar-chris-walters-university-california-berkeley
 URL:https://econ.ucsb.edu/events/all/2027/care-seminar-chris-walters-univ
  ersity-california-berkeley
 CATEGORIES:CARE
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
