@@ -1,5 +1,35 @@
 [
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/amel-nicolas-herrera-la-rotta-university-california-santa-barbara",
+  "title": "AMEL: Nicolas Herrera la Rotta, University of California, Santa Barbara",
+  "start_utc": "2026-09-25T18:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Nicolas Herrera la Rotta, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "2fba0aaa690c23ee"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/amel-donovan-rasamoelison-university-california-santa-barbara",
+  "title": "AMEL: Donovan Rasamoelison, University of California, Santa Barbara",
+  "start_utc": "2026-10-02T18:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Donovan Rasamoelison, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "4347ddcd1522d2d8"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-yihong-liu-university-california-santa-barbara",
   "title": "CARE Seminar: Yihong Liu, University of California, Santa Barbara",
   "start_utc": "2026-10-07T22:30:00Z",
@@ -34,8 +64,8 @@
   "content_hash": "99de551e223fabaa"
  },
  {
-  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-mauricio-colladom-university-california-santa-barbara",
-  "title": "CARE Seminar: Mauricio Colladom University of California, Santa Barbara",
+  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-mauricio-collado-university-california-santa-barbara",
+  "title": "CARE Seminar: Mauricio Collado University of California, Santa Barbara",
   "start_utc": "2026-10-21T22:30:00Z",
   "series": "CARE",
   "location": "North Hall 2111",
@@ -47,8 +77,23 @@
   "bio": "",
   "abstract": "",
   "minutes": 90,
-  "seq": 2,
-  "content_hash": "32f38da9e5c16910"
+  "seq": 0,
+  "content_hash": "61fae19d7228ec6e"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/amel-reetika-sindhi-university-california-santa-barbara",
+  "title": "AMEL: Reetika Sindhi, University of California, Santa Barbara",
+  "start_utc": "2026-10-23T18:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Reetika Sindhi, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "9c5bbef25c5ac923"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-university-southern-california",
@@ -64,6 +109,21 @@
   "minutes": 90,
   "seq": 2,
   "content_hash": "fbd3f620e5e81bc6"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/amel-kajari-saha-university-california-santa-barbara",
+  "title": "AMEL: Kajari Saha, University of California, Santa Barbara",
+  "start_utc": "2026-10-30T18:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Kajari Saha, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "8da919ce65657364"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-yale-som",
@@ -100,6 +160,21 @@
   "content_hash": "bd26cc2e5172972a"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/amel-yihong-liu-university-california-santa-barbara",
+  "title": "AMEL: Yihong Liu, University of California, Santa Barbara",
+  "start_utc": "2026-11-06T19:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Yihong Liu, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "3f7ead456dd7163b"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-ori-heffetz-cornell-university",
   "title": "TEC Seminar: Ori Heffetz, Cornell University",
   "start_utc": "2026-11-10T20:30:00Z",
@@ -132,6 +207,21 @@
   "minutes": 90,
   "seq": 2,
   "content_hash": "268dce175fa0bec4"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/amel-anna-pede-university-california-santa-barbara",
+  "title": "AMEL: Anna Pede, University of California, Santa Barbara",
+  "start_utc": "2026-11-13T19:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Anna Pede, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "aeb0dc00772deca3"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-tech",
@@ -185,6 +275,21 @@
   "content_hash": "ceab3644261e87be"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/amel-camila-paleo-university-california-santa-barbara",
+  "title": "AMEL: Camila Paleo, University of California, Santa Barbara",
+  "start_utc": "2026-11-20T19:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Camila Paleo, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "a291f83b97b67893"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-paulo-natenzon-washington-university-saint-louis",
   "title": "TEC Seminar: Paulo Natenzon, Washington University in Saint Louis",
   "start_utc": "2026-12-01T20:30:00Z",
@@ -217,6 +322,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "c5825c0e9cd5e33a"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/amel-matias-strehl-pessina-university-california-santa-barbara",
+  "title": "AMEL: Matias Strehl Pessina, University of California, Santa Barbara",
+  "start_utc": "2026-12-04T19:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Matias Strehl Pessina, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "85282412c2cfb618"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-yana-gallen-university-chicago",

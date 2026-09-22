@@ -9,8 +9,44 @@ X-WR-TIMEZONE:America/Los_Angeles
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:c21658c018a362ccc8c8@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
+DTSTART:20260925T183000Z
+DTEND:20260925T200000Z
+SUMMARY:Other Events: Nicolas Herrera la Rotta\, University of California
+ \, Santa Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Nicolas Herrera la Rotta\, University of California\
+ , Santa Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/amel-nicolas-he
+ rrera-la-rotta-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/amel-nicolas-herrera-la-rotta-u
+ niversity-california-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:66c02bbfa6c741fc8cbb@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
+DTSTART:20261002T183000Z
+DTEND:20261002T200000Z
+SUMMARY:Other Events: Donovan Rasamoelison\, University of California\, S
+ anta Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Donovan Rasamoelison\, University of California\, Sa
+ nta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/amel-donovan-rasamo
+ elison-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/amel-donovan-rasamoelison-unive
+ rsity-california-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:3f9e5b4eada725c9eb83@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261007T223000Z
 DTEND:20261008T000000Z
 SUMMARY:CARE Seminar: Yihong Liu\, University of California\, Santa Barba
@@ -37,7 +73,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:75571ee554746b07c2b5@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261014T223000Z
 DTEND:20261015T000000Z
 SUMMARY:CARE Seminar: Juan Nicolas Herrera\, University of California\, S
@@ -66,8 +102,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:eb75b8894eb55d3cef19@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+UID:0ceae75dc97642e77d03@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
 DTSTART:20261021T223000Z
 DTEND:20261022T000000Z
 SUMMARY:CARE Seminar: Mauricio Collado\, University of California\, Santa
@@ -75,17 +111,35 @@ SUMMARY:CARE Seminar: Mauricio Collado\, University of California\, Santa
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Mauricio Collado\, University of California\, Santa 
  Barbara\nHosted by: Daniel Martin\n\nhttps://econ.ucsb.edu/events/all/20
- 26/care-seminar-mauricio-colladom-university-california-santa-barbara
-URL:https://econ.ucsb.edu/events/all/2026/care-seminar-mauricio-colladom-
- university-california-santa-barbara
+ 26/care-seminar-mauricio-collado-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/care-seminar-mauricio-collado-u
+ niversity-california-santa-barbara
 CATEGORIES:CARE
-SEQUENCE:2
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8dbd1b4854185ebfc627@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
+DTSTART:20261023T183000Z
+DTEND:20261023T200000Z
+SUMMARY:Other Events: Reetika Sindhi\, University of California\, Santa B
+ arbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Reetika Sindhi\, University of California\, Santa Ba
+ rbara\n\nhttps://econ.ucsb.edu/events/all/2026/amel-reetika-sindhi-unive
+ rsity-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/amel-reetika-sindhi-university-
+ california-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ff769b9f0c50bad7b141@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261029T223000Z
 DTEND:20261030T000000Z
 SUMMARY:MACRO Seminar: Diego Daruich\, University of Southern California 
@@ -106,8 +160,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:65009c04f4244998a97c@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
+DTSTART:20261030T183000Z
+DTEND:20261030T200000Z
+SUMMARY:Other Events: Kajari Saha\, University of California\, Santa Barb
+ ara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Kajari Saha\, University of California\, Santa Barba
+ ra\n\nhttps://econ.ucsb.edu/events/all/2026/amel-kajari-saha-university-
+ california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/amel-kajari-saha-university-cal
+ ifornia-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:bfa1006b11d915f05e68@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261104T233000Z
 DTEND:20261105T010000Z
 SUMMARY:CARE Seminar: Barbara Biasi\, Yale SOM
@@ -127,7 +199,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa5d7b5b9d445086e44a@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261105T233000Z
 DTEND:20261106T010000Z
 SUMMARY:MACRO Seminar: Fahad Sale h\, University of Florida
@@ -145,8 +217,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:390aed7f499a7b6d842c@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
+DTSTART:20261106T193000Z
+DTEND:20261106T210000Z
+SUMMARY:Other Events: Yihong Liu\, University of California\, Santa Barba
+ ra
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Yihong Liu\, University of California\, Santa Barbar
+ a\n\nhttps://econ.ucsb.edu/events/all/2026/amel-yihong-liu-university-ca
+ lifornia-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/amel-yihong-liu-university-cali
+ fornia-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:3527763d8bae26908fc8@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261110T203000Z
 DTEND:20261110T220000Z
 SUMMARY:TEC Seminar: Ori Heffetz\, Cornell University
@@ -184,7 +274,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c0c723cc43957daea988@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261112T233000Z
 DTEND:20261113T010000Z
 SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University
@@ -208,8 +298,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:cc1d29e5b9661e6e366f@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
+DTSTART:20261113T193000Z
+DTEND:20261113T210000Z
+SUMMARY:Other Events: Anna Pede\, University of California\, Santa Barbar
+ a
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Anna Pede\, University of California\, Santa Barbara
+ \n\nhttps://econ.ucsb.edu/events/all/2026/amel-anna-pede-university-cali
+ fornia-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/amel-anna-pede-university-calif
+ ornia-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:0904854bba00b9e45edf@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261117T203000Z
 DTEND:20261117T220000Z
 SUMMARY:TEC Seminar: Kirby Nielsen\, Cal Tech
@@ -226,7 +334,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:990f3935b346ef024a3b@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261118T233000Z
 DTEND:20261119T010000Z
 SUMMARY:CARE Seminar: Felipe Lobel\, Duke
@@ -247,7 +355,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ab7fa195f00737358adf@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261119T233000Z
 DTEND:20261120T010000Z
 SUMMARY:MACRO Seminar: Jeremy Pearce\, Federal Reserve Bank of New York
@@ -268,8 +376,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:eef1de7a5007c3282def@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
+DTSTART:20261120T193000Z
+DTEND:20261120T210000Z
+SUMMARY:Other Events: Camila Paleo\, University of California\, Santa Bar
+ bara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Camila Paleo\, University of California\, Santa Barb
+ ara\n\nhttps://econ.ucsb.edu/events/all/2026/amel-camila-paleo-universit
+ y-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/amel-camila-paleo-university-ca
+ lifornia-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:8d1b3a8165a4f122bb42@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261201T203000Z
 DTEND:20261201T220000Z
 SUMMARY:TEC Seminar: Paulo Natenzon\, Washington University in Saint Loui
@@ -287,7 +413,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d5983d11b8bb087115fe@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20261202T233000Z
 DTEND:20261203T010000Z
 SUMMARY:CARE Seminar: Eleonora Patacchini
@@ -303,8 +429,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:18ccaf690eaf607173c9@econ.ucsb.edu
+DTSTAMP:20260922T173206Z
+DTSTART:20261204T193000Z
+DTEND:20261204T210000Z
+SUMMARY:Other Events: Matias Strehl Pessina\, University of California\, 
+ Santa Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Matias Strehl Pessina\, University of California\, S
+ anta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/amel-matias-strehl
+ -pessina-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/amel-matias-strehl-pessina-univ
+ ersity-california-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:4ab52fa5a2ae798fdf2e@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270113T233000Z
 DTEND:20270114T010000Z
 SUMMARY:CARE Seminar: Yana Gallen\, University of Chicago
@@ -327,7 +471,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5bfb5ccf61ec1b61e9@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270114T233000Z
 DTEND:20270115T010000Z
 SUMMARY:MACRO Seminar: Jeremy Greenwood\, University of Pennsylvania
@@ -365,7 +509,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:789c22222a7a9b027613@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270203T233000Z
 DTEND:20270204T010000Z
 SUMMARY:CARE Seminar: Eric Chyn\, University of Texas at Austin
@@ -393,7 +537,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:35fa0b5ee2a37e81c31b@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270204T233000Z
 DTEND:20270205T010000Z
 SUMMARY:MACRO Seminar: Adrien Bilal\, Stanford
@@ -410,7 +554,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e48a82d560a8e91d99e2@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270210T233000Z
 DTEND:20270211T010000Z
 SUMMARY:CARE Seminar: Nicole Maestas\, Harvard Medical
@@ -427,7 +571,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:75f6f5a63b361faf4aa9@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270304T233000Z
 DTEND:20270305T010000Z
 SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey\, London School of Economics
@@ -452,7 +596,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a11193874ce0d505967d@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270310T233000Z
 DTEND:20270311T010000Z
 SUMMARY:CARE Seminar: Ben Handel\, UC Berkeley
@@ -490,7 +634,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:295a37cd6854d6f2be80@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270331T223000Z
 DTEND:20270401T000000Z
 SUMMARY:CARE Seminar: Rebekah Dix\, Stanford
@@ -513,7 +657,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7f354c0b601f3fbb2048@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270407T223000Z
 DTEND:20270408T000000Z
 SUMMARY:CARE Seminar: Audrey Guo\, Santa Clara University
@@ -534,7 +678,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a76c866098715cd747fa@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270414T223000Z
 DTEND:20270415T000000Z
 SUMMARY:CARE Seminar: Leonardo Bursztyn\, University of Chicago
@@ -565,7 +709,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f5e9e6d8bef902ea4676@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270505T223000Z
 DTEND:20270506T000000Z
 SUMMARY:CARE Seminar: Cody Tuttle\, University of Texas at Austin
@@ -584,7 +728,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1ed4fa25ac688595dbcb@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270519T223000Z
 DTEND:20270520T000000Z
 SUMMARY:CARE Seminar: Guo Xu\, Berkeley Haas
@@ -607,7 +751,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e56cd189db53b4479f2c@econ.ucsb.edu
-DTSTAMP:20260921T160647Z
+DTSTAMP:20260922T173206Z
 DTSTART:20270526T223000Z
 DTEND:20270527T000000Z
 SUMMARY:CARE Seminar: Chris Walters\, University California\, Berkeley
