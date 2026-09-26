@@ -15,6 +15,21 @@
   "content_hash": "2fba0aaa690c23ee"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kajari-saha-university-california-santa-barbara",
+  "title": "Job Market Practice Talk: Kajari Saha, University of California, Santa Barbara",
+  "start_utc": "2026-10-01T22:30:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2111",
+  "speaker": "Kajari Saha, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "cc66e745cd6f57e0"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/amel-donovan-rasamoelison-university-california-santa-barbara",
   "title": "AMEL: Donovan Rasamoelison, University of California, Santa Barbara",
   "start_utc": "2026-10-02T18:30:00Z",
@@ -79,21 +94,6 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "61fae19d7228ec6e"
- },
- {
-  "url": "https://econ.ucsb.edu/events/all/2026/amel-reetika-sindhi-university-california-santa-barbara",
-  "title": "AMEL: Reetika Sindhi, University of California, Santa Barbara",
-  "start_utc": "2026-10-23T18:30:00Z",
-  "series": "OTHER",
-  "location": "North Hall 2111",
-  "speaker": "Reetika Sindhi, University of California, Santa Barbara",
-  "talk_title": "",
-  "hosted_by": [],
-  "bio": "",
-  "abstract": "",
-  "minutes": 90,
-  "seq": 0,
-  "content_hash": "9c5bbef25c5ac923"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-university-southern-california",
@@ -337,6 +337,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "85282412c2cfb618"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/amel-reetika-sindhi-university-california-santa-barbara",
+  "title": "AMEL: Reetika Sindhi, University of California, Santa Barbara",
+  "start_utc": "2027-01-08T19:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Reetika Sindhi, University of California, Santa Barbara",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "a4787ac201601eea"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-yana-gallen-university-chicago",

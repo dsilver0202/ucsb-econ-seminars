@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UCSB Economics Seminars (unofficial)//scrape.py//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSB Econ Graduate Events
+X-WR-CALDESC:Graduate student events and workshops
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:0890bea7dd2c8b43847a@econ.ucsb.edu
+DTSTAMP:20260926T165314Z
+DTSTART:20261001T223000Z
+DTEND:20261002T000000Z
+SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
+ arbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Kajari Saha\, University of California\, Santa Barba
+ ra\n\nhttps://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kaj
+ ari-saha-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kajari
+ -saha-university-california-santa-barbara
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
