@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20260927T173212Z
+DTSTAMP:20260928T200021Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
@@ -21,6 +21,96 @@ DESCRIPTION:Speaker: Kajari Saha\, University of California\, Santa Barba
  ari-saha-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kajari
  -saha-university-california-santa-barbara
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe882721bc981f0d7ba@econ.ucsb.edu
+DTSTAMP:20260928T200021Z
+DTSTART:20261008T223000Z
+DTEND:20261009T000000Z
+SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
+ \, Santa Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Matias Strehl-Pessina\, University of California\, S
+ anta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-
+ matias-strehl-pessina-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-matias-strehl
+ -pessina-university-california-santa-barbara
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
+DTSTAMP:20260928T200021Z
+DTSTART:20261013T223000Z
+DTEND:20261014T000000Z
+SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
+ Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Camila Paleo\, University of California\, Santa Barb
+ ara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-camila-pa
+ leo-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-camila-paleo-
+ university-california-santa-barbara
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
+DTSTAMP:20260928T200021Z
+DTSTART:20261015T223000Z
+DTEND:20261016T000000Z
+SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
+ a Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Reetika Sindhi\, University of California\, Santa Ba
+ rbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-reetika
+ -sindhi-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-reetika-sindh
+ i-university-california-santa-barbara
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4525f480e09577d97162@econ.ucsb.edu
+DTSTAMP:20260928T200021Z
+DTSTART:20261020T223000Z
+DTEND:20261021T000000Z
+SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
+ , Santa Barbara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Donovan Rasamoelison\, University of California\, Sa
+ nta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-d
+ onovan-rasamoelison-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-donovan-rasam
+ oelison-university-california-santa-barbara
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:606d4b60edddc1a75ea2@econ.ucsb.edu
+DTSTAMP:20260928T200021Z
+DTSTART:20261022T223000Z
+DTEND:20261023T000000Z
+SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
+ bara
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Anna Pede\, University of California\, Santa Barbara
+ \n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-un
+ iversity-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-uni
+ versity-california-santa-barbara
 CATEGORIES:GRADUATE
 SEQUENCE:0
 STATUS:CONFIRMED
