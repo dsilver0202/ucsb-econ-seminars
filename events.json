@@ -21,13 +21,13 @@
   "series": "GRADUATE",
   "location": "North Hall 2111",
   "speaker": "Kajari Saha, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Weather Shocks, Credit Access and Intimate Partner Violence in India\"",
   "hosted_by": [],
-  "bio": "",
-  "abstract": "",
+  "bio": "Kajari Saha is a Ph.D. candidate in Economics at UC Santa Barbara, working at the intersection of development economics and gender. Her research examines how women's welfare, their decisions and agency are shaped by climate change, government policies, marriage market institutions and norms. She combines causal inference methods with administrative and survey data to help guide the design of more effective policies. Her job market paper, “Weather Shocks, Credit Access and Intimate Partner Violence (IPV) in India,” links geocoded weather data with nationally representative survey data on women’s self-reported experiences of IPV to show that exposure to drought and extreme heat during the primary agricultural growing season increases IPV among women in rural India. Consistent with an income channel, access to formal finance mitigates the effect of drought on IPV. At the district level, the composition of credit matters: agricultural lending - particularly credit provided directly to farmers - significantly attenuates the effect of drought on IPV, while indirect, agribusiness-linked agricultural credit and non-agricultural credit do not. Finally, the substantially larger effects of wet-bulb heat extremes relative to dry-bulb heat extremes are consistent with a more immediate, heat-induced physiological stress channel. This paper was presented at the 2025 Agriculture and Applied Economics Association (AAEA) Conference. Beyond her job market paper, Kajari's ongoing research examin",
+  "abstract": "This study examines how weather shocks affect women’s exposure to intimate partner violence (IPV) in rural India. I link geocoded weather data to women’s reports of IPV from the 2015–16 and 2019–21 rounds of India’s National Family Health Survey. Exposure to drought and extreme heat during the primary growing season significantly increases IPV. Growing-season drought raises overall IPV by 11.3\\% and physical IPV by 11.8\\%, while heat has smaller but significant effects. Consistent with an income channel, access to formal finance mitigates the effect of drought on IPV. At the household level, access to bank accounts attenuates the drought–IPV relationship. At the district level, the composition of credit matters: agricultural lending - particularly credit provided directly to farmers - significantly attenuates the effect of drought on IPV, while indirect, agribusiness-linked agricultural credit and non-agricultural credit do not. Finally, the substantially larger effects of wet-bulb heat extremes relative to dry-bulb heat extremes are consistent with a more immediate, heat-induced physiological stress channel. JEL Classification Codes: J12, J16, O13, O16, Q56",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "cc66e745cd6f57e0"
+  "seq": 1,
+  "content_hash": "0ca4d908209f1f85"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/amel-donovan-rasamoelison-university-california-santa-barbara",
@@ -36,13 +36,13 @@
   "series": "OTHER",
   "location": "North Hall 2111",
   "speaker": "Donovan Rasamoelison, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Screening and Compliance Documentation as Complements? Effects on Fraud and Administrative Burden\"",
   "hosted_by": [],
-  "bio": "",
-  "abstract": "",
+  "bio": "Donovan Rasamoelison is a PhD candidate in Economics at the University of California, Santa Barbara. His research interests broadly span labor economics, public economics, and applied microeconomics, with a particular focus on using economic theory and econometric methods to study government programs, public policies, and their implications for economic welfare. His current research examines the behavioral and welfare consequences of fraud-prevention mechanisms in public programs, such as eligibility screening and documentation requirements. In particular, he studies how these requirements may discourage firms from claiming benefits due to the administrative burden, while less stringent requirements may create incentives for firms to misreport their claims.",
+  "abstract": "This paper investigates whether compliance documentation offer incremental fraud deterrence beyond initial ex-ante screening in public programs by leveraging a policy feature of the Paycheck Protection Program - a loan-size threshold that waived compliance documentation requirements for loan forgiveness. On one hand, the waiver may encourage firms with true loan eligibility below the threshold to opportunistically inflate their loan requests up to the threshold. On the other hand, firms with true loan amounts above the threshold may strategically reduce their loans to avoid the administrative burden of compliance. Quantitatively, opportunistic overclaiming was limited, and the loan-reducing effect outweighed the loan-increasing effect, resulting in a net welfare gain of $0.03 per dollar borrowed from the documentation waiver. More broadly, when screening is in place, a higher probability of random audit can substitute for universal compliance documentation to limit fraud. Documentation requirements may impose substantial compliance burdens while providing limited marginal fraud deterrence beyond the initial screening process. JEL Classification Codes: D04, D21, D22, D60, H81, H83",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "4347ddcd1522d2d8"
+  "seq": 1,
+  "content_hash": "e6a3126898e41cac"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-yihong-liu-university-california-santa-barbara",
@@ -51,15 +51,15 @@
   "series": "OTHER",
   "location": "North Hall 2111",
   "speaker": "Yihong Liu, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Matched Triple Differences: A Framework for Covariate Adjustment\"",
   "hosted_by": [
    "Daniel Martin"
   ],
   "bio": "Yihong Liu is a fifth-year Ph.D. student in Economics at UCSB. He earned his B.A. in Economics from Shanghai University of Finance and Economics and his M.A. in Economics from Duke University. His research primarily focuses on environmental economics, resource economics, and econometrics. His current research focuses on the estimation of dynamic games in resource economics, and robust inference in two-step estimation procedures, including matching difference-in-differences and matching triple-differences designs. In his spare time, he enjoys watching UCSB Gauchos’ basketball games and Shanghai Shenhua’s soccer matches.",
-  "abstract": "",
+  "abstract": "Identification in triple-differences (DDD) designs is often justified by a conditional parallel gaps assumption, under which units with similar observed covariates are expected to exhibit similar deviations from parallel trends. In this setting, the common empirical estimation strategy takes one of the two forms: adding the covariates, or their interactions with time indicators, to a three-way fixed effects (3WFE) regression. We formally study both practices and show that, in general, neither consistently estimates the average treatment effect on the treated (ATT). Our diagnosis has two parts. First, the OLS estimands of both 3WFE specifications fail to satisfy the covariate balancing condition that is sufficient for them to equal the ATT. Second, we characterize the additional restrictive assumptions for each OLS estimand to equal the ATT. To address this limitation, we propose a \\emph{matched triple-differences} framework that achieves the sufficient covariate balance for consistent estimation. Within this framework, we construct a class of consistent matching estimators, establish their asymptotic normality, and provide a consistent variance estimator accounting for the variability introduced by matching. The framework accommodates a general class of matching procedures, including nearest-neighbor matching and kernel matching. Our empirical application to \\cite{Cai_2016_AEJ} shows that our proposed matching estimators can yield estimates and qualitative conclusions that differ from those obtained from the 3WFE regression. Keywords: Triple-Differences; Difference-in-Differences-Differences; Parallel Gaps; Matching JEL Classification: C14, C21, C23",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "2afb212b11ca1d1d"
+  "seq": 1,
+  "content_hash": "1401769b2361f511"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-matias-strehl-pessina-university-california-santa-barbara",
@@ -68,13 +68,13 @@
   "series": "GRADUATE",
   "location": "North Hall 2111",
   "speaker": "Matias Strehl-Pessina, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Can Targeted VAT Exemptions Make VAT Less Regressive? Evidence from a Welfare-Program Reform in Uruguay\"",
   "hosted_by": [],
-  "bio": "",
-  "abstract": "",
+  "bio": "Matias Strehl-Pessina is a Ph.D. candidate in Economics at the University of California, Santa Barbara. His research is in public economics, development economics, and political economy, with a focus on taxation, tax incidence, tax compliance, inequality, redistribution, and public policy. His job market paper studies a targeted VAT exemption for low-income households in Uruguay delivered through a welfare program debit card. Using administrative program records and detailed retail price data, he examines whether targeted VAT exemptions reach low-income beneficiaries or are partly captured by retailers through higher posted prices. He finds that price responses are limited and highly concentrated in small stores that represent a low share of program purchases, suggesting that targeted VAT exemptions can be an effective and efficient way of addressing VAT regressivity compared to traditional food exemptions. More broadly, his research examines how the tax and transfer system redistributes resources in practice, and how individuals and firms respond to the incentives created by policy design and enforcement.",
+  "abstract": "VAT taxes are a major source of public revenue, especially in Latin America, but they are often regressive. Traditional VAT exemptions for basic goods are costly, poorly targeted, and may be partly captured by firms through higher retail prices. This paper studies an alternative policy design: a targeted VAT rebate for low-income households beneficiaries of a welfare program. I ask whether participating retailers responded by increasing posted prices, thereby capturing part of the intended benefit. Combining administrative program records with scanner retail data, I use a difference-in-differences design comparing stores with different pre-reform exposure to program-card sales. I find that posted prices increased by about 3 to 4 percent only in stores highly dependent on program sales, which represent a small share of total program purchases. For most program purchases, prices did not increase. The results suggest that targeted VAT exemptions can reduce VAT regressivity while avoiding fiscal spending on higher-income households and minimizing retailer capture, though market conditions remain important for incidence. JEL Clasification Codes: H21, H22, H23, I38, L81, O12",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "888ac0100fd79a00"
+  "seq": 1,
+  "content_hash": "d0b796c409dcdd9e"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-camila-paleo-university-california-santa-barbara",
@@ -83,13 +83,13 @@
   "series": "GRADUATE",
   "location": "North Hall 2111",
   "speaker": "Camila Paleo, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Temporary Jobs, Lasting Credit? Evidence from Uruguay's Public Works Program\"",
   "hosted_by": [],
-  "bio": "",
-  "abstract": "",
+  "bio": "I am a PhD candidate in Economics at the University of California, Santa Barbara, where I am affiliated with the Broom Center for Demography and the Center for Latin American and Iberian Research (CLAIR). My research is in the fields of labor, public, and health economics, with an interest in developing countries. I study how people, households, and firms respond to incentives and public policies, with a focus on vulnerable populations and the unintended consequences of welfare policies. In my job market paper, I study how a public works program that provides temporary employment affects financial well-being. Using lottery-based assignment and linked administrative data, I show that the program increases formal credit use but also raises repayment risk after participants exit the program. These effects persist for 31 months after program exit, showing that public works programs can affect welfare through financial markets, but credit expansion without sustained earnings may expose vulnerable borrowers to repayment difficulties.",
+  "abstract": "Public works programs are common in developing countries, but evidence on their long-run effects remains limited. We estimate the effects of Uruguay's Oportunidad Laboral, a temporary public employment program, on participants' financial well-being. Leveraging lottery-based assignment and linked administrative records from the Central Bank of Uruguay, we show that participation sharply increases formal employment and earnings during the program, with no persistent formal-sector labor market effects after exit. In contrast, formal credit use rises persistently: by 8 percentage points during participation and by 8.4 percentage points in the 15-month post-program period, consistent with temporary formal employment relaxing barriers to financial inclusion. However, credit expansion also increases repayment risk. Delinquency rises by 2.4 percentage points during the program and by 10.7 percentage points afterward, with effects persisting 31 months after exit. Effects are larger for transgender applicants, smaller in high-unemployment municipalities, and delinquency effects are concentrated among new borrowers. The results show that public works programs can affect welfare through financial markets, but credit expansion without sustained earnings may increase financial vulnerability. JEL Classification Codes: G51, I38, J68",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "d55c0f30e5ed9151"
+  "seq": 1,
+  "content_hash": "2448442d7cc2623a"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-juan-nicolas-herrera-university-california-santa-barbara",
@@ -98,15 +98,15 @@
   "series": "OTHER",
   "location": "North Hall 2111",
   "speaker": "Juan Nicolas Herrera, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Value-Added Tax Incidence in Housing Markets\"",
   "hosted_by": [
    "Daniel Martin"
   ],
   "bio": "Juan Nicolas Herrera earned his Bachelor’s in Economics jointly from Universidad del Rosario in Colombia and the Toulouse School of Economics in France. He also holds a Master’s in Public Policy and Development from the Paris School of Economics and a Master of Arts in Economics from the University of California, Santa Barbara (UCSB). Prior to joining UCSB, he was a Research Fellow in the Research Department of the Inter-American Development Bank. During his graduate studies, he served as an instructor for undergraduate courses in public economics and statistics and worked as a research assistant for Professor Alisa Tazhitdinova. His research interests include public economics, housing markets, labor economics, and applied econometrics. His current research focuses on the incidence of taxation in housing markets.",
-  "abstract": "",
+  "abstract": "We study the VAT incidence in the housing market, exploiting a 2016 reform inChile that introduced a 19% tax on sales by developers while exempting resales by in-dividual homeowners. Using rich administrative data covering nearly the universe ofresidential transactions, we estimate a difference-in-differences design that leveragesthe differential tax treatment across seller types. Apartment prices per square meterrose by approximately 11.8% within three years, with consumers bearing 75% of theeffective tax rate. This increase combines two margins: an 8.5% rise in nominal pricesand a 3.2% decline in unit sizes, a form ofhousing shrinkflationvisible in constructionpermits before any price response. Despite the large tax, transaction volumes did notdecline. Purchase contracts surged by 33% before implementation and fell by a com-parable amount immediately after, indicating pure re-timing rather than a permanentdemand response. The tax raised revenue without reducing market activity, but at thecost of higher prices and smaller apartments for buyers. JEL Classification Codes: H22, H25, R21, R31",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "e8ceaf18fa7adb53"
+  "seq": 1,
+  "content_hash": "2251e20b5073885e"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-reetika-sindhi-university-california-santa-barbara",
@@ -115,13 +115,13 @@
   "series": "GRADUATE",
   "location": "North Hall 2111",
   "speaker": "Reetika Sindhi, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"The Long Shadow of Communal Violence: Childhood Exposure and Later-Life Mental Health\"",
   "hosted_by": [],
-  "bio": "",
-  "abstract": "",
+  "bio": "Reetika Sindhi is a Ph.D. Candidate in Economics at the University of California, Santa Barbara and is on the 2026–2027 academic job market. Her research lies at the intersection of family, human capital, and conflict, with a broader focus on how socioeconomic environments and public policy shape individual well-being and inequality. Her job market paper, The Long Shadow of Communal Violence: Childhood Exposure and Later-Life Mental Health, examines the long-run mental health consequences of childhood exposure to Hindu–Muslim riots in India.",
+  "abstract": "We study the long-run relationship between childhood exposure to communal violence and women’s mental health in India. Using a newly constructed crosswalk spanning seven decades, we link historical Hindu--Muslim riot locations to respondents’ childhood districts in the Longitudinal Ageing Study in India (LASI). Exploiting variation in exposure across childhood districts and birth cohorts, we find that exposure to at least one riot between birth and age~14 is associated with a 2.4 percentage point higher probability of major depressive disorder in later life, or 29 percent of the sample mean. Greater cumulative exposure is similarly associated with worse later-life mental health. The association is strongest for exposure at ages 0--4 and 10--14, consistent with differences in vulnerability across developmental stages. Childhood riot exposure is also associated with a higher likelihood of child marriage, pointing to changes in life-course trajectories as a potential channel. These findings show that even localized, short-lived episodes of communal violence can have mental-health consequences that persist for decades. JEL Classification Code: D74, I12, I31, J12, J14, J16, N35",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "1a0e419de5f9d2dd"
+  "seq": 1,
+  "content_hash": "0db1781a9e6573a1"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-donovan-rasamoelison-university-california-santa-barbara",
@@ -133,10 +133,10 @@
   "talk_title": "",
   "hosted_by": [],
   "bio": "",
-  "abstract": "",
+  "abstract": "This paper investigates whether compliance documentation offers incremental fraud deterrence in the presence of initial ex-ante screening in public programs by leveraging a policy feature of the Paycheck Protection Program - a loan-size threshold that waived compliance documentation requirements for loan forgiveness. On one hand, the waiver may encourage firms with true loan eligibility below the threshold to opportunistically inflate their loan requests up to the threshold. On the other hand, firms with true loan amounts above the threshold may strategically reduce their loans to avoid the administrative burden of compliance. Quantitatively, opportunistic overclaiming was limited and the loan-reducing effect outweighed the loan-increasing effect, resulting in a net welfare gain of $0.03 per dollar borrowed from the documentation waiver. These results indicate that compliance documentation requirements impose substantial burdens while providing limited marginal fraud deterrence in the presence of initial screening.",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "1b0c63e7387ff56f"
+  "seq": 1,
+  "content_hash": "39b0b7fe5389a706"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-mauricio-collado-university-california-santa-barbara",
@@ -145,15 +145,15 @@
   "series": "OTHER",
   "location": "North Hall 2111",
   "speaker": "Mauricio Collado, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Quota Baskets Versus Fish Baskets in Fisheries\"",
   "hosted_by": [
    "Daniel Martin"
   ],
-  "bio": "",
-  "abstract": "Because managing stocks individually is costly, many fisheries bundle multiple stocks and manage them with a single instrument. I study when such bundling is desirable and whether it should take the form of a shared quota or a shared landing fee, extending the constant-escapement framework of Reed (1979) and Weitzman (2002) to a multispecies fishery under ecological uncertainty. The fundamental condition for a well-designed basket is equalizing marginal profits across species, a condition that combines biological productivity, harvesting costs, and prices. Under this criterion, I find that the tax basket outperforms the quota basket. However, two qualifications refine this result: (i) both instruments coincide and are first-best when marginal profits are equalized at each species’ optimal escapement in a deterministic setting; and (ii) as the number of species in the group increases, the quota’s uncertainty loss is diversified away, reducing the average per-species welfare gap. Yet increasing the basket size has a second cost: the mismatch from pooling heterogeneous species grows with the number of species for both instruments. Larger baskets are not always better. Bundling improves on species-specific management only when the monitoring costs it saves exceed this pooling loss. JEL Classification: Q22, Q28, Q58, D81",
+  "bio": "I am a PhD candidate in Environmental Economics at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. I study how regulators should design environmental and resource policy instruments (taxes, quotas, and bundles of them) when information about the underlying system is limited and outcomes are uncertain, with applications to renewable and non-renewable resources. In these cases, regulators cannot finely target behavior, goods, or bads. My research asks how relatively coarse instruments can still improve environmental and economic outcomes under uncertainty.",
+  "abstract": "Because managing stocks individually is costly, many fisheries bundle multiple stocks and manage them with a single instrument. I study when such bundling is desirable and whether it should take the form of a shared quota or a shared landing fee, extending the constant-escapement framework of Reed (1979) and Weitzman (2002) to a multispecies fishery under ecological uncertainty. The fundamental condition for a well-designed basket is equalizing marginal profits across species, a condition that combines biological productivity, harvesting costs, and prices. Under this criterion, I find that the tax basket outperforms the quota basket. However, two qualifications refine this result: (i) both instruments coincide and are first-best when marginal profits are equalized at each species' optimal escapement in a deterministic setting; and (ii) as the number of species in the group increases, the quota's uncertainty loss is diversified away, reducing the average per-species welfare gap. Yet increasing the basket size has a second cost: the mismatch from pooling heterogeneous species grows with the number of species for both instruments. Larger baskets are not always better. Bundling improves on species-specific management only when the monitoring costs it saves exceed this pooling loss. JEL Classification Codes: Q22, Q28, Q58, D81",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "d0cf5ec1ce4a7d04"
+  "seq": 1,
+  "content_hash": "e0b886de6cdf0ede"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-university-california-santa-barbara",
@@ -162,13 +162,13 @@
   "series": "GRADUATE",
   "location": "North Hall 2111",
   "speaker": "Anna Pede, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Fire and Punishment: Enforcement incentives and fire use in the Brazilian Amazon\"",
   "hosted_by": [],
-  "bio": "",
-  "abstract": "",
+  "bio": "Anna Pede is a Ph.D. Candidate in environmental economics studying environmental policy in the tropics, focusing on illegal deforestation, fire, and natural resource extraction. Her research combines causal inference and remotely sensed data to investigate: (1) How do regulated agents respond to environmental monitoring and enforcement, and when do these responses generate unintended consequences? (2) What are the environmental and health costs of illegal land-use change, including fire use and small-scale mining? (3) How do land tenure arrangements and community-level institutions shape the effectiveness of forest conservation policy? Her job market paper, \"Fire and Punishment: Enforcement Incentives and Fire Use in the Brazilian Amazon,\" is the first to show that imperfect monitoring of illegal deforestation inadvertently pushes illegal deforestation practices towards fire, a clearing technology with multiple additional negative externalities. Her research is supported by a Russell E. Train Education for Nature Fellowship from the World Wildlife Fund (WWF). Before coming to the Bren School, Anna earned an MSc and BA in Economics from the University of São Paulo, where she studied the land-use impacts of the Amazon Soy Moratorium and held a research fellowship with Instituto Escolhas' Economics and Environment Chair.",
+  "abstract": "Incomplete monitoring of illegal behavior may cause violators to reoptimize their criminal activities. I study how satellite monitoring of deforestation impacts illegal land-clearing behavior in the Brazilian Amazon. I argue that by detecting primarily mechanical clearings, the introduction of near-real-time satellite monitoring favored a technological substitution towards the use of fire. Using cloud cover as an instrument for satellite-based detection, I find that municipalities under more intensive surveillance experienced a statistically significant substitution from mechanical to fire-based clearing. My findings help explain why Amazon fires have persisted despite the overall decline in deforestation starting from 2005. Keywords: Forest fires, deforestation, environmental law enforcement JEL Classification Codes: Q51, Q57, Q58",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "11adb15a07fd32c7"
+  "seq": 1,
+  "content_hash": "cce287706c2aa3f3"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-university-southern-california",

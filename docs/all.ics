@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:c21658c018a362ccc8c8@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20260925T183000Z
 DTEND:20260925T200000Z
 SUMMARY:Other Events: Nicolas Herrera la Rotta\, University of California
@@ -28,227 +28,376 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
- arbara
+ arbara - Weather Shocks\, Credit Access and Intimate Partner Violence in
+  India
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Kajari Saha\, University of California\, Santa Barba
- ra\n\nhttps://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kaj
- ari-saha-university-california-santa-barbara
+ ra\nTitle: "Weather Shocks\, Credit Access and Intimate Partner Violence
+  in India"\n\nThis study examines how weather shocks affect women’s ex
+ posure to intimate partner violence (IPV) in rural India. I link geocode
+ d weather data to women’s reports of IPV from the 2015–16 and 2019
+ –21 rounds of India’s National Family Health Survey. Exposure to dro
+ ught and extreme heat during the primary growing season significantly in
+ creases IPV. Growing-season drought raises overall IPV by 11.3\\% and ph
+ ysical IPV by 11.8\\%\, while heat has smaller but significant effects. 
+ Consistent with an income channel\, access to formal finance mitigates t
+ he effect of drought on IPV. At the household level\, access to bank acc
+ ounts attenuates the drought–IPV relationship. At the district level\,
+  the composition of credit matters: agricultural lending - particularly 
+ credit provided directly to farmers - significantly attenuates the effec
+ t of drought on IPV\, while indirect\, agribusiness-linked agricultural 
+ credit and non-agricultural credit do not. Finally\, the substantially l
+ arger effects of wet-bulb heat extremes relative to dry-bulb heat extrem
+ es are consistent with a more immediate\, heat-induced physiological str
+ ess channel. JEL Classification Codes: J12\, J16\, O13\, O16\, Q56\n\nht
+ tps://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kajari-saha
+ -university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kajari
  -saha-university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:66c02bbfa6c741fc8cbb@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261002T183000Z
 DTEND:20261002T200000Z
 SUMMARY:Other Events: Donovan Rasamoelison\, University of California\, S
- anta Barbara
+ anta Barbara - Screening and Compliance Documentation as Complements? Ef
+ fects on Fraud and Administrative Burden
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Donovan Rasamoelison\, University of California\, Sa
- nta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/amel-donovan-rasamo
- elison-university-california-santa-barbara
+ nta Barbara\nTitle: "Screening and Compliance Documentation as Complemen
+ ts? Effects on Fraud and Administrative Burden"\n\nThis paper investigat
+ es whether compliance documentation offer incremental fraud deterrence b
+ eyond initial ex-ante screening in public programs by leveraging a polic
+ y feature of the Paycheck Protection Program - a loan-size threshold tha
+ t waived compliance documentation requirements for loan forgiveness. On 
+ one hand\, the waiver may encourage firms with true loan eligibility bel
+ ow the threshold to opportunistically inflate their loan requests up to 
+ the threshold. On the other hand\, firms with true loan amounts above th
+ e threshold may strategically reduce their loans to avoid the administra
+ tive burden of compliance. Quantitatively\, opportunistic overclaiming w
+ as limited\, and the loan-reducing effect outweighed the loan-increasing
+  effect\, resulting in a net welfare gain of $0.03 per dollar borrowed f
+ rom the documentation waiver. More broadly\, when screening is in place\
+ , a higher probability of random audit can substitute for universal comp
+ liance documentation to limit fraud. Documentation requirements may impo
+ se substantial compliance burdens while providing limited marginal fraud
+  deterrence beyond the initial screening process. JEL Classification Cod
+ es: D04\, D21\, D22\, D60\, H81\, H83\n\nhttps://econ.ucsb.edu/events/al
+ l/2026/amel-donovan-rasamoelison-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/amel-donovan-rasamoelison-unive
  rsity-california-santa-barbara
 CATEGORIES:OTHER
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:32eb24e68c6395c116cc@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261007T223000Z
 DTEND:20261008T000000Z
 SUMMARY:Other Events: Yihong Liu\, University of California\, Santa Barba
- ra
+ ra - Matched Triple Differences: A Framework for Covariate Adjustment
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Yihong Liu\, University of California\, Santa Barbar
- a\nHosted by: Daniel Martin\n\nYihong Liu is a fifth-year Ph.D. student 
- in Economics at UCSB. He earned his B.A. in Economics from Shanghai Univ
- ersity of Finance and Economics and his M.A. in Economics from Duke Univ
- ersity. His research primarily focuses on environmental economics\, reso
- urce economics\, and econometrics. His current research focuses on the e
- stimation of dynamic games in resource economics\, and robust inference 
- in two-step estimation procedures\, including matching difference-in-dif
- ferences and matching triple-differences designs. In his spare time\, he
-  enjoys watching UCSB Gauchos’ basketball games and Shanghai Shenhua
- ’s soccer matches.\n\nhttps://econ.ucsb.edu/events/all/2026/practice-j
- ob-talk-yihong-liu-university-california-santa-barbara
+ a\nTitle: "Matched Triple Differences: A Framework for Covariate Adjustm
+ ent"\nHosted by: Daniel Martin\n\nIdentification in triple-differences (
+ DDD) designs is often justified by a conditional parallel gaps assumptio
+ n\, under which units with similar observed covariates are expected to e
+ xhibit similar deviations from parallel trends. In this setting\, the co
+ mmon empirical estimation strategy takes one of the two forms: adding th
+ e covariates\, or their interactions with time indicators\, to a three-w
+ ay fixed effects (3WFE) regression. We formally study both practices and
+  show that\, in general\, neither consistently estimates the average tre
+ atment effect on the treated (ATT). Our diagnosis has two parts. First\,
+  the OLS estimands of both 3WFE specifications fail to satisfy the covar
+ iate balancing condition that is sufficient for them to equal the ATT. S
+ econd\, we characterize the additional restrictive assumptions for each 
+ OLS estimand to equal the ATT. To address this limitation\, we propose a
+  \\emph{matched triple-differences} framework that achieves the sufficie
+ nt covariate balance for consistent estimation. Within this framework\, 
+ we construct a class of consistent matching estimators\, establish their
+  asymptotic normality\, and provide a consistent variance estimator acco
+ unting for the variability introduced by matching. The framework accommo
+ dates a general class of matching procedures\, including nearest-neighbo
+ r matching and kernel matching. Our empirical application to \\cite{Cai_
+ 2016_AEJ} shows that our proposed matching estimators can yield estimate
+ s and qualitative conclusions that differ from those obtained from the 3
+ WFE regression. Keywords: Triple-Differences\; Difference-in-Differences
+ -Differences\; Parallel Gaps\; Matching JEL Classification: C14\, C21\, 
+ C23\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-yihong-li
+ u-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-yihong-liu-un
  iversity-california-santa-barbara
 CATEGORIES:OTHER
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe882721bc981f0d7ba@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261008T223000Z
 DTEND:20261009T000000Z
 SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
- \, Santa Barbara
+ \, Santa Barbara - Can Targeted VAT Exemptions Make VAT Less Regressive?
+  Evidence from a Welfare-Program Reform in Uruguay
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Matias Strehl-Pessina\, University of California\, S
- anta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-
- matias-strehl-pessina-university-california-santa-barbara
+ anta Barbara\nTitle: "Can Targeted VAT Exemptions Make VAT Less Regressi
+ ve? Evidence from a Welfare-Program Reform in Uruguay"\n\nVAT taxes are 
+ a major source of public revenue\, especially in Latin America\, but the
+ y are often regressive. Traditional VAT exemptions for basic goods are c
+ ostly\, poorly targeted\, and may be partly captured by firms through hi
+ gher retail prices. This paper studies an alternative policy design: a t
+ argeted VAT rebate for low-income households beneficiaries of a welfare 
+ program. I ask whether participating retailers responded by increasing p
+ osted prices\, thereby capturing part of the intended benefit. Combining
+  administrative program records with scanner retail data\, I use a diffe
+ rence-in-differences design comparing stores with different pre-reform e
+ xposure to program-card sales. I find that posted prices increased by ab
+ out 3 to 4 percent only in stores highly dependent on program sales\, wh
+ ich represent a small share of total program purchases. For most program
+  purchases\, prices did not increase. The results suggest that targeted 
+ VAT exemptions can reduce VAT regressivity while avoiding fiscal spendin
+ g on higher-income households and minimizing retailer capture\, though m
+ arket conditions remain important for incidence. JEL Clasification Codes
+ : H21\, H22\, H23\, I38\, L81\, O12\n\nhttps://econ.ucsb.edu/events/all/
+ 2026/practice-job-talk-matias-strehl-pessina-university-california-santa
+ -barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-matias-strehl
  -pessina-university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261013T223000Z
 DTEND:20261014T000000Z
 SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
- Barbara
+ Barbara - Temporary Jobs\, Lasting Credit? Evidence from Uruguay's Publi
+ c Works Program
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Camila Paleo\, University of California\, Santa Barb
- ara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-camila-pa
- leo-university-california-santa-barbara
+ ara\nTitle: "Temporary Jobs\, Lasting Credit? Evidence from Uruguay's Pu
+ blic Works Program"\n\nPublic works programs are common in developing co
+ untries\, but evidence on their long-run effects remains limited. We est
+ imate the effects of Uruguay's Oportunidad Laboral\, a temporary public 
+ employment program\, on participants' financial well-being. Leveraging l
+ ottery-based assignment and linked administrative records from the Centr
+ al Bank of Uruguay\, we show that participation sharply increases formal
+  employment and earnings during the program\, with no persistent formal-
+ sector labor market effects after exit. In contrast\, formal credit use 
+ rises persistently: by 8 percentage points during participation and by 8
+ .4 percentage points in the 15-month post-program period\, consistent wi
+ th temporary formal employment relaxing barriers to financial inclusion.
+  However\, credit expansion also increases repayment risk. Delinquency r
+ ises by 2.4 percentage points during the program and by 10.7 percentage 
+ points afterward\, with effects persisting 31 months after exit. Effects
+  are larger for transgender applicants\, smaller in high-unemployment mu
+ nicipalities\, and delinquency effects are concentrated among new borrow
+ ers. The results show that public works programs can affect welfare thro
+ ugh financial markets\, but credit expansion without sustained earnings 
+ may increase financial vulnerability. JEL Classification Codes: G51\, I3
+ 8\, J68\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-camil
+ a-paleo-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-camila-paleo-
  university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f3bb9256a6594c739760@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261014T223000Z
 DTEND:20261015T000000Z
 SUMMARY:Other Events: Juan Nicolas Herrera\, University of California\, S
- anta Barbara
+ anta Barbara - Value-Added Tax Incidence in Housing Markets
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Juan Nicolas Herrera\, University of California\, Sa
- nta Barbara\nHosted by: Daniel Martin\n\nJuan Nicolas Herrera earned his
-  Bachelor’s in Economics jointly from Universidad del Rosario in Colom
- bia and the Toulouse School of Economics in France. He also holds a Mast
- er’s in Public Policy and Development from the Paris School of Economi
- cs and a Master of Arts in Economics from the University of California\,
-  Santa Barbara (UCSB). Prior to joining UCSB\, he was a Research Fellow 
- in the Research Department of the Inter-American Development Bank. Durin
- g his graduate studies\, he served as an instructor for undergraduate co
- urses in public economics and statistics and worked as a research assist
- ant for Professor Alisa Tazhitdinova. His research interests include pub
- lic economics\, housing markets\, labor economics\, and applied economet
- rics. His current research focuses on the incidence of taxation in housi
- ng markets.\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-j
- uan-nicolas-herrera-university-california-santa-barbara
+ nta Barbara\nTitle: "Value-Added Tax Incidence in Housing Markets"\nHost
+ ed by: Daniel Martin\n\nWe study the VAT incidence in the housing market
+ \, exploiting a 2016 reform inChile that introduced a 19% tax on sales b
+ y developers while exempting resales by in-dividual homeowners. Using ri
+ ch administrative data covering nearly the universe ofresidential transa
+ ctions\, we estimate a difference-in-differences design that leveragesth
+ e differential tax treatment across seller types. Apartment prices per s
+ quare meterrose by approximately 11.8% within three years\, with consume
+ rs bearing 75% of theeffective tax rate. This increase combines two marg
+ ins: an 8.5% rise in nominal pricesand a 3.2% decline in unit sizes\, a 
+ form ofhousing shrinkflationvisible in constructionpermits before any pr
+ ice response. Despite the large tax\, transaction volumes did notdecline
+ . Purchase contracts surged by 33% before implementation and fell by a c
+ om-parable amount immediately after\, indicating pure re-timing rather t
+ han a permanentdemand response. The tax raised revenue without reducing 
+ market activity\, but at thecost of higher prices and smaller apartments
+  for buyers. JEL Classification Codes: H22\, H25\, R21\, R31\n\nhttps://
+ econ.ucsb.edu/events/all/2026/practice-job-talk-juan-nicolas-herrera-uni
+ versity-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-juan-nicolas-
  herrera-university-california-santa-barbara
 CATEGORIES:OTHER
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261015T223000Z
 DTEND:20261016T000000Z
 SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
- a Barbara
+ a Barbara - The Long Shadow of Communal Violence: Childhood Exposure and
+  Later-Life Mental Health
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Reetika Sindhi\, University of California\, Santa Ba
- rbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-reetika
- -sindhi-university-california-santa-barbara
+ rbara\nTitle: "The Long Shadow of Communal Violence: Childhood Exposure 
+ and Later-Life Mental Health"\n\nWe study the long-run relationship betw
+ een childhood exposure to communal violence and women’s mental health 
+ in India. Using a newly constructed crosswalk spanning seven decades\, w
+ e link historical Hindu--Muslim riot locations to respondents’ childho
+ od districts in the Longitudinal Ageing Study in India (LASI). Exploitin
+ g variation in exposure across childhood districts and birth cohorts\, w
+ e find that exposure to at least one riot between birth and age~14 is as
+ sociated with a 2.4 percentage point higher probability of major depress
+ ive disorder in later life\, or 29 percent of the sample mean. Greater c
+ umulative exposure is similarly associated with worse later-life mental 
+ health. The association is strongest for exposure at ages 0--4 and 10--1
+ 4\, consistent with differences in vulnerability across developmental st
+ ages. Childhood riot exposure is also associated with a higher likelihoo
+ d of child marriage\, pointing to changes in life-course trajectories as
+  a potential channel. These findings show that even localized\, short-li
+ ved episodes of communal violence can have mental-health consequences th
+ at persist for decades. JEL Classification Code: D74\, I12\, I31\, J12\,
+  J14\, J16\, N35\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-t
+ alk-reetika-sindhi-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-reetika-sindh
  i-university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4525f480e09577d97162@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261020T223000Z
 DTEND:20261021T000000Z
 SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
  , Santa Barbara
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Donovan Rasamoelison\, University of California\, Sa
- nta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-d
- onovan-rasamoelison-university-california-santa-barbara
+ nta Barbara\n\nThis paper investigates whether compliance documentation 
+ offers incremental fraud deterrence in the presence of initial ex-ante s
+ creening in public programs by leveraging a policy feature of the Payche
+ ck Protection Program - a loan-size threshold that waived compliance doc
+ umentation requirements for loan forgiveness. On one hand\, the waiver m
+ ay encourage firms with true loan eligibility below the threshold to opp
+ ortunistically inflate their loan requests up to the threshold. On the o
+ ther hand\, firms with true loan amounts above the threshold may strateg
+ ically reduce their loans to avoid the administrative burden of complian
+ ce. Quantitatively\, opportunistic overclaiming was limited and the loan
+ -reducing effect outweighed the loan-increasing effect\, resulting in a 
+ net welfare gain of $0.03 per dollar borrowed from the documentation wai
+ ver. These results indicate that compliance documentation requirements i
+ mpose substantial burdens while providing limited marginal fraud deterre
+ nce in the presence of initial screening.\n\nhttps://econ.ucsb.edu/event
+ s/all/2026/practice-job-talk-donovan-rasamoelison-university-california-
+ santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-donovan-rasam
  oelison-university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e66c4de8ecc42704a23f@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261021T223000Z
 DTEND:20261022T000000Z
 SUMMARY:Other Events: Mauricio Collado\, University of California\, Santa
-  Barbara
+  Barbara - Quota Baskets Versus Fish Baskets in Fisheries
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Mauricio Collado\, University of California\, Santa 
- Barbara\nHosted by: Daniel Martin\n\nBecause managing stocks individuall
- y is costly\, many fisheries bundle multiple stocks and manage them with
-  a single instrument. I study when such bundling is desirable and whethe
- r it should take the form of a shared quota or a shared landing fee\, ex
- tending the constant-escapement framework of Reed (1979) and Weitzman (2
- 002) to a multispecies fishery under ecological uncertainty. The fundame
- ntal condition for a well-designed basket is equalizing marginal profits
-  across species\, a condition that combines biological productivity\, ha
- rvesting costs\, and prices. Under this criterion\, I find that the tax 
- basket outperforms the quota basket. However\, two qualifications refine
-  this result: (i) both instruments coincide and are first-best when marg
- inal profits are equalized at each species’ optimal escapement in a de
- terministic setting\; and (ii) as the number of species in the group inc
- reases\, the quota’s uncertainty loss is diversified away\, reducing t
- he average per-species welfare gap. Yet increasing the basket size has a
-  second cost: the mismatch from pooling heterogeneous species grows with
-  the number of species for both instruments. Larger baskets are not alwa
- ys better. Bundling improves on species-specific management only when th
- e monitoring costs it saves exceed this pooling loss. JEL Classification
- : Q22\, Q28\, Q58\, D81\n\nhttps://econ.ucsb.edu/events/all/2026/practic
- e-job-talk-mauricio-collado-university-california-santa-barbara
+ Barbara\nTitle: "Quota Baskets Versus Fish Baskets in Fisheries"\nHosted
+  by: Daniel Martin\n\nBecause managing stocks individually is costly\, m
+ any fisheries bundle multiple stocks and manage them with a single instr
+ ument. I study when such bundling is desirable and whether it should tak
+ e the form of a shared quota or a shared landing fee\, extending the con
+ stant-escapement framework of Reed (1979) and Weitzman (2002) to a multi
+ species fishery under ecological uncertainty. The fundamental condition 
+ for a well-designed basket is equalizing marginal profits across species
+ \, a condition that combines biological productivity\, harvesting costs\
+ , and prices. Under this criterion\, I find that the tax basket outperfo
+ rms the quota basket. However\, two qualifications refine this result: (
+ i) both instruments coincide and are first-best when marginal profits ar
+ e equalized at each species' optimal escapement in a deterministic setti
+ ng\; and (ii) as the number of species in the group increases\, the quot
+ a's uncertainty loss is diversified away\, reducing the average per-spec
+ ies welfare gap. Yet increasing the basket size has a second cost: the m
+ ismatch from pooling heterogeneous species grows with the number of spec
+ ies for both instruments. Larger baskets are not always better. Bundling
+  improves on species-specific management only when the monitoring costs 
+ it saves exceed this pooling loss. JEL Classification Codes: Q22\, Q28\,
+  Q58\, D81\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-ma
+ uricio-collado-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-mauricio-coll
  ado-university-california-santa-barbara
 CATEGORIES:OTHER
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:606d4b60edddc1a75ea2@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261022T223000Z
 DTEND:20261023T000000Z
 SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
- bara
+ bara - Fire and Punishment: Enforcement incentives and fire use in the B
+ razilian Amazon
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Anna Pede\, University of California\, Santa Barbara
- \n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-un
- iversity-california-santa-barbara
+ \nTitle: "Fire and Punishment: Enforcement incentives and fire use in th
+ e Brazilian Amazon"\n\nIncomplete monitoring of illegal behavior may cau
+ se violators to reoptimize their criminal activities. I study how satell
+ ite monitoring of deforestation impacts illegal land-clearing behavior i
+ n the Brazilian Amazon. I argue that by detecting primarily mechanical c
+ learings\, the introduction of near-real-time satellite monitoring favor
+ ed a technological substitution towards the use of fire. Using cloud cov
+ er as an instrument for satellite-based detection\, I find that municipa
+ lities under more intensive surveillance experienced a statistically sig
+ nificant substitution from mechanical to fire-based clearing. My finding
+ s help explain why Amazon fires have persisted despite the overall decli
+ ne in deforestation starting from 2005. Keywords: Forest fires\, defores
+ tation\, environmental law enforcement JEL Classification Codes: Q51\, Q
+ 57\, Q58\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-anna
+ -pede-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-uni
  versity-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ff769b9f0c50bad7b141@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261029T223000Z
 DTEND:20261030T000000Z
 SUMMARY:MACRO Seminar: Diego Daruich\, University of Southern California 
@@ -270,7 +419,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:65009c04f4244998a97c@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261030T183000Z
 DTEND:20261030T200000Z
 SUMMARY:Other Events: Kajari Saha\, University of California\, Santa Barb
@@ -288,7 +437,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bfa1006b11d915f05e68@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261104T233000Z
 DTEND:20261105T010000Z
 SUMMARY:CARE Seminar: Barbara Biasi\, Yale SOM
@@ -308,7 +457,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa5d7b5b9d445086e44a@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261105T233000Z
 DTEND:20261106T010000Z
 SUMMARY:MACRO Seminar: Fahad Sale h\, University of Florida
@@ -327,7 +476,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:390aed7f499a7b6d842c@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261106T193000Z
 DTEND:20261106T210000Z
 SUMMARY:Other Events: Yihong Liu\, University of California\, Santa Barba
@@ -345,7 +494,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3527763d8bae26908fc8@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261110T203000Z
 DTEND:20261110T220000Z
 SUMMARY:TEC Seminar: Ori Heffetz\, Cornell University
@@ -383,7 +532,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c0c723cc43957daea988@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261112T233000Z
 DTEND:20261113T010000Z
 SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University
@@ -408,7 +557,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cc1d29e5b9661e6e366f@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261113T193000Z
 DTEND:20261113T210000Z
 SUMMARY:Other Events: Anna Pede\, University of California\, Santa Barbar
@@ -426,7 +575,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0904854bba00b9e45edf@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261117T203000Z
 DTEND:20261117T220000Z
 SUMMARY:TEC Seminar: Kirby Nielsen\, Cal Tech
@@ -443,7 +592,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:990f3935b346ef024a3b@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261118T233000Z
 DTEND:20261119T010000Z
 SUMMARY:CARE Seminar: Felipe Lobel\, Duke
@@ -464,7 +613,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ab7fa195f00737358adf@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261119T233000Z
 DTEND:20261120T010000Z
 SUMMARY:MACRO Seminar: Jeremy Pearce\, Federal Reserve Bank of New York
@@ -486,7 +635,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eef1de7a5007c3282def@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261120T193000Z
 DTEND:20261120T210000Z
 SUMMARY:Other Events: Camila Paleo\, University of California\, Santa Bar
@@ -504,7 +653,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8d1b3a8165a4f122bb42@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261201T203000Z
 DTEND:20261201T220000Z
 SUMMARY:TEC Seminar: Paulo Natenzon\, Washington University in Saint Loui
@@ -522,7 +671,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d5983d11b8bb087115fe@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261202T233000Z
 DTEND:20261203T010000Z
 SUMMARY:CARE Seminar: Eleonora Patacchini
@@ -539,7 +688,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:18ccaf690eaf607173c9@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261204T193000Z
 DTEND:20261204T210000Z
 SUMMARY:Other Events: Matias Strehl Pessina\, University of California\, 
@@ -557,7 +706,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0c9a56018b5c080ec240@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270108T193000Z
 DTEND:20270108T210000Z
 SUMMARY:Other Events: Reetika Sindhi\, University of California\, Santa B
@@ -575,7 +724,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4ab52fa5a2ae798fdf2e@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270113T233000Z
 DTEND:20270114T010000Z
 SUMMARY:CARE Seminar: Yana Gallen\, University of Chicago
@@ -598,7 +747,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5bfb5ccf61ec1b61e9@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270114T233000Z
 DTEND:20270115T010000Z
 SUMMARY:MACRO Seminar: Jeremy Greenwood\, University of Pennsylvania
@@ -636,7 +785,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:789c22222a7a9b027613@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270203T233000Z
 DTEND:20270204T010000Z
 SUMMARY:CARE Seminar: Eric Chyn\, University of Texas at Austin
@@ -664,7 +813,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:35fa0b5ee2a37e81c31b@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270204T233000Z
 DTEND:20270205T010000Z
 SUMMARY:MACRO Seminar: Adrien Bilal\, Stanford
@@ -681,7 +830,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e48a82d560a8e91d99e2@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270210T233000Z
 DTEND:20270211T010000Z
 SUMMARY:CARE Seminar: Nicole Maestas\, Harvard Medical
@@ -698,7 +847,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:75f6f5a63b361faf4aa9@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270304T233000Z
 DTEND:20270305T010000Z
 SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey\, London School of Economics
@@ -723,7 +872,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a11193874ce0d505967d@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270310T233000Z
 DTEND:20270311T010000Z
 SUMMARY:CARE Seminar: Ben Handel\, UC Berkeley
@@ -761,7 +910,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:295a37cd6854d6f2be80@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270331T223000Z
 DTEND:20270401T000000Z
 SUMMARY:CARE Seminar: Rebekah Dix\, Stanford
@@ -784,7 +933,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7f354c0b601f3fbb2048@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270407T223000Z
 DTEND:20270408T000000Z
 SUMMARY:CARE Seminar: Audrey Guo\, Santa Clara University
@@ -805,7 +954,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a76c866098715cd747fa@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270414T223000Z
 DTEND:20270415T000000Z
 SUMMARY:CARE Seminar: Leonardo Bursztyn\, University of Chicago
@@ -836,7 +985,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f5e9e6d8bef902ea4676@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270505T223000Z
 DTEND:20270506T000000Z
 SUMMARY:CARE Seminar: Cody Tuttle\, University of Texas at Austin
@@ -855,7 +1004,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1ed4fa25ac688595dbcb@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270519T223000Z
 DTEND:20270520T000000Z
 SUMMARY:CARE Seminar: Guo Xu\, Berkeley Haas
@@ -878,7 +1027,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e56cd189db53b4479f2c@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20270526T223000Z
 DTEND:20270527T000000Z
 SUMMARY:CARE Seminar: Chris Walters\, University California\, Berkeley

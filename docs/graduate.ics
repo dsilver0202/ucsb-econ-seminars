@@ -10,109 +10,217 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
- arbara
+ arbara - Weather Shocks\, Credit Access and Intimate Partner Violence in
+  India
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Kajari Saha\, University of California\, Santa Barba
- ra\n\nhttps://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kaj
- ari-saha-university-california-santa-barbara
+ ra\nTitle: "Weather Shocks\, Credit Access and Intimate Partner Violence
+  in India"\n\nThis study examines how weather shocks affect women’s ex
+ posure to intimate partner violence (IPV) in rural India. I link geocode
+ d weather data to women’s reports of IPV from the 2015–16 and 2019
+ –21 rounds of India’s National Family Health Survey. Exposure to dro
+ ught and extreme heat during the primary growing season significantly in
+ creases IPV. Growing-season drought raises overall IPV by 11.3\\% and ph
+ ysical IPV by 11.8\\%\, while heat has smaller but significant effects. 
+ Consistent with an income channel\, access to formal finance mitigates t
+ he effect of drought on IPV. At the household level\, access to bank acc
+ ounts attenuates the drought–IPV relationship. At the district level\,
+  the composition of credit matters: agricultural lending - particularly 
+ credit provided directly to farmers - significantly attenuates the effec
+ t of drought on IPV\, while indirect\, agribusiness-linked agricultural 
+ credit and non-agricultural credit do not. Finally\, the substantially l
+ arger effects of wet-bulb heat extremes relative to dry-bulb heat extrem
+ es are consistent with a more immediate\, heat-induced physiological str
+ ess channel. JEL Classification Codes: J12\, J16\, O13\, O16\, Q56\n\nht
+ tps://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kajari-saha
+ -university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/job-market-practice-talk-kajari
  -saha-university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe882721bc981f0d7ba@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261008T223000Z
 DTEND:20261009T000000Z
 SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
- \, Santa Barbara
+ \, Santa Barbara - Can Targeted VAT Exemptions Make VAT Less Regressive?
+  Evidence from a Welfare-Program Reform in Uruguay
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Matias Strehl-Pessina\, University of California\, S
- anta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-
- matias-strehl-pessina-university-california-santa-barbara
+ anta Barbara\nTitle: "Can Targeted VAT Exemptions Make VAT Less Regressi
+ ve? Evidence from a Welfare-Program Reform in Uruguay"\n\nVAT taxes are 
+ a major source of public revenue\, especially in Latin America\, but the
+ y are often regressive. Traditional VAT exemptions for basic goods are c
+ ostly\, poorly targeted\, and may be partly captured by firms through hi
+ gher retail prices. This paper studies an alternative policy design: a t
+ argeted VAT rebate for low-income households beneficiaries of a welfare 
+ program. I ask whether participating retailers responded by increasing p
+ osted prices\, thereby capturing part of the intended benefit. Combining
+  administrative program records with scanner retail data\, I use a diffe
+ rence-in-differences design comparing stores with different pre-reform e
+ xposure to program-card sales. I find that posted prices increased by ab
+ out 3 to 4 percent only in stores highly dependent on program sales\, wh
+ ich represent a small share of total program purchases. For most program
+  purchases\, prices did not increase. The results suggest that targeted 
+ VAT exemptions can reduce VAT regressivity while avoiding fiscal spendin
+ g on higher-income households and minimizing retailer capture\, though m
+ arket conditions remain important for incidence. JEL Clasification Codes
+ : H21\, H22\, H23\, I38\, L81\, O12\n\nhttps://econ.ucsb.edu/events/all/
+ 2026/practice-job-talk-matias-strehl-pessina-university-california-santa
+ -barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-matias-strehl
  -pessina-university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261013T223000Z
 DTEND:20261014T000000Z
 SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
- Barbara
+ Barbara - Temporary Jobs\, Lasting Credit? Evidence from Uruguay's Publi
+ c Works Program
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Camila Paleo\, University of California\, Santa Barb
- ara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-camila-pa
- leo-university-california-santa-barbara
+ ara\nTitle: "Temporary Jobs\, Lasting Credit? Evidence from Uruguay's Pu
+ blic Works Program"\n\nPublic works programs are common in developing co
+ untries\, but evidence on their long-run effects remains limited. We est
+ imate the effects of Uruguay's Oportunidad Laboral\, a temporary public 
+ employment program\, on participants' financial well-being. Leveraging l
+ ottery-based assignment and linked administrative records from the Centr
+ al Bank of Uruguay\, we show that participation sharply increases formal
+  employment and earnings during the program\, with no persistent formal-
+ sector labor market effects after exit. In contrast\, formal credit use 
+ rises persistently: by 8 percentage points during participation and by 8
+ .4 percentage points in the 15-month post-program period\, consistent wi
+ th temporary formal employment relaxing barriers to financial inclusion.
+  However\, credit expansion also increases repayment risk. Delinquency r
+ ises by 2.4 percentage points during the program and by 10.7 percentage 
+ points afterward\, with effects persisting 31 months after exit. Effects
+  are larger for transgender applicants\, smaller in high-unemployment mu
+ nicipalities\, and delinquency effects are concentrated among new borrow
+ ers. The results show that public works programs can affect welfare thro
+ ugh financial markets\, but credit expansion without sustained earnings 
+ may increase financial vulnerability. JEL Classification Codes: G51\, I3
+ 8\, J68\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-camil
+ a-paleo-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-camila-paleo-
  university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261015T223000Z
 DTEND:20261016T000000Z
 SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
- a Barbara
+ a Barbara - The Long Shadow of Communal Violence: Childhood Exposure and
+  Later-Life Mental Health
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Reetika Sindhi\, University of California\, Santa Ba
- rbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-reetika
- -sindhi-university-california-santa-barbara
+ rbara\nTitle: "The Long Shadow of Communal Violence: Childhood Exposure 
+ and Later-Life Mental Health"\n\nWe study the long-run relationship betw
+ een childhood exposure to communal violence and women’s mental health 
+ in India. Using a newly constructed crosswalk spanning seven decades\, w
+ e link historical Hindu--Muslim riot locations to respondents’ childho
+ od districts in the Longitudinal Ageing Study in India (LASI). Exploitin
+ g variation in exposure across childhood districts and birth cohorts\, w
+ e find that exposure to at least one riot between birth and age~14 is as
+ sociated with a 2.4 percentage point higher probability of major depress
+ ive disorder in later life\, or 29 percent of the sample mean. Greater c
+ umulative exposure is similarly associated with worse later-life mental 
+ health. The association is strongest for exposure at ages 0--4 and 10--1
+ 4\, consistent with differences in vulnerability across developmental st
+ ages. Childhood riot exposure is also associated with a higher likelihoo
+ d of child marriage\, pointing to changes in life-course trajectories as
+  a potential channel. These findings show that even localized\, short-li
+ ved episodes of communal violence can have mental-health consequences th
+ at persist for decades. JEL Classification Code: D74\, I12\, I31\, J12\,
+  J14\, J16\, N35\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-t
+ alk-reetika-sindhi-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-reetika-sindh
  i-university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4525f480e09577d97162@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261020T223000Z
 DTEND:20261021T000000Z
 SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
  , Santa Barbara
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Donovan Rasamoelison\, University of California\, Sa
- nta Barbara\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-d
- onovan-rasamoelison-university-california-santa-barbara
+ nta Barbara\n\nThis paper investigates whether compliance documentation 
+ offers incremental fraud deterrence in the presence of initial ex-ante s
+ creening in public programs by leveraging a policy feature of the Payche
+ ck Protection Program - a loan-size threshold that waived compliance doc
+ umentation requirements for loan forgiveness. On one hand\, the waiver m
+ ay encourage firms with true loan eligibility below the threshold to opp
+ ortunistically inflate their loan requests up to the threshold. On the o
+ ther hand\, firms with true loan amounts above the threshold may strateg
+ ically reduce their loans to avoid the administrative burden of complian
+ ce. Quantitatively\, opportunistic overclaiming was limited and the loan
+ -reducing effect outweighed the loan-increasing effect\, resulting in a 
+ net welfare gain of $0.03 per dollar borrowed from the documentation wai
+ ver. These results indicate that compliance documentation requirements i
+ mpose substantial burdens while providing limited marginal fraud deterre
+ nce in the presence of initial screening.\n\nhttps://econ.ucsb.edu/event
+ s/all/2026/practice-job-talk-donovan-rasamoelison-university-california-
+ santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-donovan-rasam
  oelison-university-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:606d4b60edddc1a75ea2@econ.ucsb.edu
-DTSTAMP:20260928T200021Z
+DTSTAMP:20260929T182836Z
 DTSTART:20261022T223000Z
 DTEND:20261023T000000Z
 SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
- bara
+ bara - Fire and Punishment: Enforcement incentives and fire use in the B
+ razilian Amazon
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Anna Pede\, University of California\, Santa Barbara
- \n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-un
- iversity-california-santa-barbara
+ \nTitle: "Fire and Punishment: Enforcement incentives and fire use in th
+ e Brazilian Amazon"\n\nIncomplete monitoring of illegal behavior may cau
+ se violators to reoptimize their criminal activities. I study how satell
+ ite monitoring of deforestation impacts illegal land-clearing behavior i
+ n the Brazilian Amazon. I argue that by detecting primarily mechanical c
+ learings\, the introduction of near-real-time satellite monitoring favor
+ ed a technological substitution towards the use of fire. Using cloud cov
+ er as an instrument for satellite-based detection\, I find that municipa
+ lities under more intensive surveillance experienced a statistically sig
+ nificant substitution from mechanical to fire-based clearing. My finding
+ s help explain why Amazon fires have persisted despite the overall decli
+ ne in deforestation starting from 2005. Keywords: Forest fires\, defores
+ tation\, environmental law enforcement JEL Classification Codes: Q51\, Q
+ 57\, Q58\n\nhttps://econ.ucsb.edu/events/all/2026/practice-job-talk-anna
+ -pede-university-california-santa-barbara
 URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-uni
  versity-california-santa-barbara
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
