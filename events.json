@@ -186,6 +186,23 @@
   "content_hash": "cce287706c2aa3f3"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-emiliano-huet-vaughn-pomona-college",
+  "title": "CARE Seminar: Emiliano Huet-Vaughn, Pomona College",
+  "start_utc": "2026-10-28T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Emiliano Huet-Vaughn, Pomona College",
+  "talk_title": "",
+  "hosted_by": [
+   "Youssef Benzarti"
+  ],
+  "bio": "Emiliano Huet-Vaughn is an Associate Professor of Economics at Pomona College, a Faculty Affiliate at UC Berkeley/UCLA's California Policy Lab, an IZA Research Fellow, and an Affiliated Scholar at CUNY's Stone Center on Socio-Economic Inequality. His work has been published in leading academic journals such as The Review of Economic Studies, American Economic Journal: Economic Policy, The Review of Economics and Statistics, American Economic Journal: Microeconomics and the Journal of Public Economics, and, has been featured in The New York Times, The Wall Street Journal, The Financial Times, CNN, the Economic Report of the President and before the U.S. Congress. His research interests include public economics, behavioral economics, political economy, and labor economics, with special interest in tax policy, worker labor supply, government labor policy, choice complexity, electoral and extra-electoral political influence, pay transparency, the behavioral foundations of individual decision making, government benefit acquisition, and gender and competition. His work uses experiments in the lab and field as well as quasi-experimental methods. He received his Ph.D. in Economics from UC Berkeley. He also attended the London School of Economics (Masters in Economics & Philosophy) and Washington University in St. Louis (Bachelors in Economics and Philosophy-Neuroscience-Psychology). Before Pomona College, he worked at UCLA and Middlebury College.",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "6ed661b065a5af72"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-university-southern-california",
   "title": "MACRO Seminar: Diego Daruich, University of Southern California",
   "start_utc": "2026-10-29T22:30:00Z",
