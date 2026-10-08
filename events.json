@@ -546,6 +546,23 @@
   "content_hash": "865d0b5ab76b2939"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-melanie-guldi-university-central-florida",
+  "title": "CARE Seminar: Melanie Guldi, University of Central Florida",
+  "start_utc": "2027-03-03T23:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Melanie Guldi, University of Central Florida",
+  "talk_title": "",
+  "hosted_by": [
+   "Shelly Lundberg"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "2ed59c0f62fcdba9"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2027/macro-seminar-jane-olmstead-rumsey-london-school-economics",
   "title": "MACRO Seminar: Jane Olmstead-Rumsey, London School of Economics",
   "start_utc": "2027-03-04T23:30:00Z",
@@ -629,6 +646,23 @@
   "minutes": 90,
   "seq": 2,
   "content_hash": "88b17aaad2a55187"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-chris-whaley-brown-public-health",
+  "title": "CARE Seminar: Chris Whaley, Brown - Public Health",
+  "start_utc": "2027-04-28T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Chris Whaley, Brown - Public Health",
+  "talk_title": "",
+  "hosted_by": [
+   "H. E. (Ted) Frech, III"
+  ],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "2253ee2889178daa"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-cody-tuttle-university-texas-austin",
