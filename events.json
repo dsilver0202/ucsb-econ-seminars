@@ -446,6 +446,23 @@
   "content_hash": "85282412c2cfb618"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2027/macro-seminar-yang-gao-university-auckland",
+  "title": "MACRO Seminar: Yang Gao, University of Auckland",
+  "start_utc": "2027-01-07T23:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Yang Gao, University of Auckland",
+  "talk_title": "",
+  "hosted_by": [
+   "Yueyuan Ma"
+  ],
+  "bio": "Yang Gao is a lecturer in the Department of Economics at the University of Auckland Business School, New Zealand. She holds a Ph.D. in Economics from the University of California, Santa Barbara. Her research interests lie in macroeconomics, environmental economics, and energy economics, with related interests in firm dynamics and finance. Her current work studies the macroeconomic and welfare implications of climate change and climate and energy policies, with a particular focus on how market frictions shape policy outcomes. Her work combines quantitative macroeconomic modeling with econometric analyses of micro- and macro-level data and theoretical analysis.",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "dac9dd43c61d5214"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2027/amel-reetika-sindhi-university-california-santa-barbara",
   "title": "AMEL: Reetika Sindhi, University of California, Santa Barbara",
   "start_utc": "2027-01-08T19:30:00Z",

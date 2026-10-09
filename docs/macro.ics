@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:ff769b9f0c50bad7b141@econ.ucsb.edu
-DTSTAMP:20261008T190933Z
+DTSTAMP:20261009T184013Z
 DTSTART:20261029T223000Z
 DTEND:20261030T000000Z
 SUMMARY:MACRO Seminar: Diego Daruich\, University of Southern California 
@@ -32,7 +32,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa5d7b5b9d445086e44a@econ.ucsb.edu
-DTSTAMP:20261008T190933Z
+DTSTAMP:20261009T184013Z
 DTSTART:20261105T233000Z
 DTEND:20261106T010000Z
 SUMMARY:MACRO Seminar: Fahad Sale h\, University of Florida
@@ -51,7 +51,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c0c723cc43957daea988@econ.ucsb.edu
-DTSTAMP:20261008T190933Z
+DTSTAMP:20261009T184013Z
 DTSTART:20261112T233000Z
 DTEND:20261113T010000Z
 SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University
@@ -76,7 +76,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ab7fa195f00737358adf@econ.ucsb.edu
-DTSTAMP:20261008T190933Z
+DTSTAMP:20261009T184013Z
 DTSTART:20261119T233000Z
 DTEND:20261120T010000Z
 SUMMARY:MACRO Seminar: Jeremy Pearce\, Federal Reserve Bank of New York
@@ -97,8 +97,34 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:8ffd4669ee7dc498ec3f@econ.ucsb.edu
+DTSTAMP:20261009T184013Z
+DTSTART:20270107T233000Z
+DTEND:20270108T010000Z
+SUMMARY:MACRO Seminar: Yang Gao\, University of Auckland
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Yang Gao\, University of Auckland\nHosted by: Yueyua
+ n Ma\n\nYang Gao is a lecturer in the Department of Economics at the Uni
+ versity of Auckland Business School\, New Zealand. She holds a Ph.D. in 
+ Economics from the University of California\, Santa Barbara. Her researc
+ h interests lie in macroeconomics\, environmental economics\, and energy
+  economics\, with related interests in firm dynamics and finance. Her cu
+ rrent work studies the macroeconomic and welfare implications of climate
+  change and climate and energy policies\, with a particular focus on how
+  market frictions shape policy outcomes. Her work combines quantitative 
+ macroeconomic modeling with econometric analyses of micro- and macro-lev
+ el data and theoretical analysis.\n\nhttps://econ.ucsb.edu/events/all/20
+ 27/macro-seminar-yang-gao-university-auckland
+URL:https://econ.ucsb.edu/events/all/2027/macro-seminar-yang-gao-universi
+ ty-auckland
+CATEGORIES:MACRO
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:ae5bfb5ccf61ec1b61e9@econ.ucsb.edu
-DTSTAMP:20261008T190933Z
+DTSTAMP:20261009T184013Z
 DTSTART:20270114T233000Z
 DTEND:20270115T010000Z
 SUMMARY:MACRO Seminar: Jeremy Greenwood\, University of Pennsylvania
@@ -136,7 +162,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:35fa0b5ee2a37e81c31b@econ.ucsb.edu
-DTSTAMP:20261008T190933Z
+DTSTAMP:20261009T184013Z
 DTSTART:20270204T233000Z
 DTEND:20270205T010000Z
 SUMMARY:MACRO Seminar: Adrien Bilal\, Stanford
@@ -153,7 +179,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:75f6f5a63b361faf4aa9@econ.ucsb.edu
-DTSTAMP:20261008T190933Z
+DTSTAMP:20261009T184013Z
 DTSTART:20270304T233000Z
 DTEND:20270305T010000Z
 SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey\, London School of Economics
