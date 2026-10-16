@@ -145,13 +145,13 @@
   "series": "GRADUATE",
   "location": "North Hall 2111",
   "speaker": "Donovan Rasamoelison, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "“More Paperwork, Less Fraud? The Welfare Impact of Compliance Documentation Beyond Screening”",
   "hosted_by": [],
   "bio": "",
-  "abstract": "This paper investigates whether compliance documentation offers incremental fraud deterrence in the presence of initial ex-ante screening in public programs by leveraging a policy feature of the Paycheck Protection Program - a loan-size threshold that waived compliance documentation requirements for loan forgiveness. On one hand, the waiver may encourage firms with true loan eligibility below the threshold to opportunistically inflate their loan requests up to the threshold. On the other hand, firms with true loan amounts above the threshold may strategically reduce their loans to avoid the administrative burden of compliance. Quantitatively, opportunistic overclaiming was limited and the loan-reducing effect outweighed the loan-increasing effect, resulting in a net welfare gain of $0.03 per dollar borrowed from the documentation waiver. These results indicate that compliance documentation requirements impose substantial burdens while providing limited marginal fraud deterrence in the presence of initial screening.",
+  "abstract": "This paper investigates whether compliance documentation offers incremental fraud deterrence in the presence of initial ex-ante screening by leveraging a policy feature of the Paycheck Protection Program - a loan-size threshold that waived compliance documentation requirements for loan forgiveness. On the one hand, the waiver may encourage firms with true loan eligibility below the threshold to opportunistically inflate their loan requests up to the threshold. On the other hand, firms with true loan amounts above the threshold may strategically reduce their loans to avoid the administrative burden of compliance. Quantitatively, opportunistic overclaiming was limited and the loan-reducing effect outweighed the loan-increasing effect, resulting in a net welfare gain of $0.03 per dollar borrowed from the documentation waiver. These results indicate that compliance documentation requirements impose substantial burden while providing limited marginal fraud deterrence in the presence of initial screening.",
   "minutes": 90,
-  "seq": 1,
-  "content_hash": "39b0b7fe5389a706"
+  "seq": 2,
+  "content_hash": "b2fff364bbbfc2c5"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-mauricio-collado-university-california-santa-barbara",
