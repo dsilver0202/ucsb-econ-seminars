@@ -212,10 +212,10 @@
   "talk_title": "\"The Macroeconomics of Intergenerational Mental Health Dynamics\"",
   "hosted_by": [],
   "bio": "I am an Assistant Professor at University of Southern California (Marshall). My research focuses on Macroeconomics and Labor Economics, with a particular interest in human capital, education and labor market policies.​",
-  "abstract": "",
+  "abstract": "We develop a quantitative macroeconomic theory of child mental health. The theory is grounded in child psychiatry, formalized in a life-cycle general equilibrium model with heterogeneous agents and endogenous child development, and disciplined using micro data on the mental health of children and parents. Mental illness reduces the time parents have available because of rumination. It also distorts their expectations through negative thinking and directly lowers the productivity of their investments in children. Mental health is transmitted in both directions: parental illness lowers child mental health and skills, and child illness worsens parental mental health. Both directions are costly. Curing a child's mental illness is worth \\$164,000 to the parent, and curing a parent's mental illness is worth \\$86,000 to the child. In general equilibrium with a balanced government budget, subsidizing treatment for children is the most effective policy for child mental health, but it reduces welfare once its cost is financed. Subsidizing treatment for parents increases welfare but does little for child mental health. Finally, we use the model to quantify the effects of removing social media on mental health and welfare.",
   "minutes": 90,
-  "seq": 2,
-  "content_hash": "fbd3f620e5e81bc6"
+  "seq": 3,
+  "content_hash": "9754f015535fe600"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/amel-kajari-saha-university-california-santa-barbara",
