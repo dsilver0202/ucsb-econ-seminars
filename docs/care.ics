@@ -10,65 +10,77 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:09011386b4db0cfb55d9@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261028T223000Z
 DTEND:20261029T000000Z
-SUMMARY:CARE Seminar: Emiliano Huet-Vaughn\, Pomona College
+SUMMARY:CARE Seminar: Emiliano Huet-Vaughn\, Pomona College - The Asymmet
+ ric Effect of Wage Floors: A Natural Experiment with a Rising and Fallin
+ g Minimum Wage" Joint Work with Jon Piqueras at the Universidad Carlos I
+ II de Madrid
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Emiliano Huet-Vaughn\, Pomona College\nHosted by: Yo
- ussef Benzarti\n\nEmiliano Huet-Vaughn is an Associate Professor of Econ
- omics at Pomona College\, a Faculty Affiliate at UC Berkeley/UCLA's Cali
- fornia Policy Lab\, an IZA Research Fellow\, and an Affiliated Scholar a
- t CUNY's Stone Center on Socio-Economic Inequality. His work has been pu
- blished in leading academic journals such as The Review of Economic Stud
- ies\, American Economic Journal: Economic Policy\, The Review of Economi
- cs and Statistics\, American Economic Journal: Microeconomics and the Jo
- urnal of Public Economics\, and\, has been featured in The New York Time
- s\, The Wall Street Journal\, The Financial Times\, CNN\, the Economic R
- eport of the President and before the U.S. Congress. His research intere
- sts include public economics\, behavioral economics\, political economy\
- , and labor economics\, with special interest in tax policy\, worker lab
- or supply\, government labor policy\, choice complexity\, electoral and 
- extra-electoral political influence\, pay transparency\, the behavioral 
- foundations of individual decision making\, government benefit acquisiti
- on\, and gender and competition. His work uses experiments in the lab an
- d field as well as quasi-experimental methods. He received his Ph.D. in 
- Economics from UC Berkeley. He also attended the London School of Econom
- ics (Masters in Economics & Philosophy) and Washington University in St.
-  Louis (Bachelors in Economics and Philosophy-Neuroscience-Psychology). 
- Before Pomona College\, he worked at UCLA and Middlebury College.\n\nhtt
- ps://econ.ucsb.edu/events/all/2026/care-seminar-emiliano-huet-vaughn-pom
- ona-college
+DESCRIPTION:Speaker: Emiliano Huet-Vaughn\, Pomona College\nTitle: "The A
+ symmetric Effect of Wage Floors: A Natural Experiment with a Rising and 
+ Falling Minimum Wage" Joint Work with Jon Piqueras at the Universidad Ca
+ rlos III de Madrid\nHosted by: Youssef Benzarti\n\nExploiting a unique n
+ atural experiment\, we study the asymmetric effects of a large increase 
+ and equivalent decrease to a binding minimum wage. Earnings in a leading
+  low-wage industry rise when the minimum wage increases\, but do not fal
+ l when it is lowered. The gains persist five years after policy revocati
+ on\, providing novel evidence of earnings hysteresis from temporary labo
+ r policy. Persistence remains during high inflation\, contrary to the vi
+ ew that relative wage gains should erode. Our evidence highlights the br
+ oader role of labor policy in shaping workers’ pay\, extending beyond 
+ the limits of enforcement and legal incentives.\n\nhttps://econ.ucsb.edu
+ /events/all/2026/care-seminar-emiliano-huet-vaughn-pomona-college
 URL:https://econ.ucsb.edu/events/all/2026/care-seminar-emiliano-huet-vaug
  hn-pomona-college
 CATEGORIES:CARE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bfa1006b11d915f05e68@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261104T233000Z
 DTEND:20261105T010000Z
-SUMMARY:CARE Seminar: Barbara Biasi\, Yale SOM
+SUMMARY:CARE Seminar: Barbara Biasi\, Yale SOM - Teaching for College and
+  Teaching for Work: Curriculum and Economic Opportunity in Community Col
+ leges*
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Barbara Biasi\, Yale SOM\nHosted by: Mitchell Hoffma
- n\n\nI am an (untenured) Associate Professor of Economics at the Yale Sc
- hool of Management. I am also a Faculty Research Fellow at NBER and a Re
- search Affiliate at CEPR\, IZA\, and CESifo. I am a labor economist and 
- most of my work is related to education.\n\nhttps://econ.ucsb.edu/events
- /all/2026/care-seminar-barbara-biasi-yale-som
+DESCRIPTION:Speaker: Barbara Biasi\, Yale SOM\nTitle: "Teaching for Colle
+ ge and Teaching for Work: Curriculum and Economic Opportunity in Communi
+ ty Colleges*"\nHosted by: Mitchell Hoffman\n\nCommunity colleges serve t
+ he dual mission of preparing students for transfer to four-year colleges
+  and for entry into the labor market\, with returns that vary widely acr
+ oss students and programs. This paper studies how these returns depend o
+ n what students are taught. We link 605\,915 syllabi from 40 Texas commu
+ nity colleges to administrative student records to estimate the effects 
+ of course content on educational attainment and earnings. Our design use
+ s variation in current content conditional on prior content and instruct
+ or identity to account for student selection into courses. For students 
+ in academic programs\, content aligned with equivalent fouryear courses 
+ increases transfer and bachelor’s degree completion. General alignment
+  with local labor demand diverts students from the transfer pathway\, re
+ ducing both outcomes. Holding this general alignment fixed\, stronger pr
+ eparation for occupations related to students’ fields of study improve
+ s academic students’ attainment. For vocational students\, general ali
+ gnment with local labor demand does not improve outcomes\, but stronger 
+ preparation for occupations related to their programs raises earnings. T
+ hese findings identify curriculum as a determinant of community-college 
+ returns and emphasize the importance of alignment between curriculum and
+  students’ educational and occupational pathways.\n\nhttps://econ.ucsb
+ .edu/events/all/2026/care-seminar-barbara-biasi-yale-som
 URL:https://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-yale
  -som
 CATEGORIES:CARE
-SEQUENCE:2
+SEQUENCE:3
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:990f3935b346ef024a3b@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261118T233000Z
 DTEND:20261119T010000Z
 SUMMARY:CARE Seminar: Felipe Lobel\, Duke
@@ -89,7 +101,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d5983d11b8bb087115fe@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261202T233000Z
 DTEND:20261203T010000Z
 SUMMARY:CARE Seminar: Eleonora Patacchini
@@ -106,7 +118,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4ab52fa5a2ae798fdf2e@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270113T233000Z
 DTEND:20270114T010000Z
 SUMMARY:CARE Seminar: Yana Gallen\, University of Chicago
@@ -129,7 +141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:789c22222a7a9b027613@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270203T233000Z
 DTEND:20270204T010000Z
 SUMMARY:CARE Seminar: Eric Chyn\, University of Texas at Austin
@@ -157,7 +169,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e48a82d560a8e91d99e2@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270210T233000Z
 DTEND:20270211T010000Z
 SUMMARY:CARE Seminar: Nicole Maestas\, Harvard Medical
@@ -174,7 +186,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:16c507fed92ebd63e6ca@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270303T233000Z
 DTEND:20270304T010000Z
 SUMMARY:CARE Seminar: Melanie Guldi\, University of Central Florida
@@ -191,7 +203,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a11193874ce0d505967d@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270310T233000Z
 DTEND:20270311T010000Z
 SUMMARY:CARE Seminar: Ben Handel\, UC Berkeley
@@ -229,7 +241,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:295a37cd6854d6f2be80@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270331T223000Z
 DTEND:20270401T000000Z
 SUMMARY:CARE Seminar: Rebekah Dix\, Stanford
@@ -252,7 +264,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7f354c0b601f3fbb2048@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270407T223000Z
 DTEND:20270408T000000Z
 SUMMARY:CARE Seminar: Audrey Guo\, Santa Clara University
@@ -273,7 +285,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a76c866098715cd747fa@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270414T223000Z
 DTEND:20270415T000000Z
 SUMMARY:CARE Seminar: Leonardo Bursztyn\, University of Chicago
@@ -304,7 +316,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9d9cf319990f3312d9a3@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270428T223000Z
 DTEND:20270429T000000Z
 SUMMARY:CARE Seminar: Chris Whaley\, Brown - Public Health
@@ -321,7 +333,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f5e9e6d8bef902ea4676@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270505T223000Z
 DTEND:20270506T000000Z
 SUMMARY:CARE Seminar: Cody Tuttle\, University of Texas at Austin
@@ -340,7 +352,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1ed4fa25ac688595dbcb@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270519T223000Z
 DTEND:20270520T000000Z
 SUMMARY:CARE Seminar: Guo Xu\, Berkeley Haas
@@ -363,7 +375,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e56cd189db53b4479f2c@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270526T223000Z
 DTEND:20270527T000000Z
 SUMMARY:CARE Seminar: Chris Walters\, University California\, Berkeley

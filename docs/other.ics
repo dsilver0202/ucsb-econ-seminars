@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:c21658c018a362ccc8c8@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20260925T183000Z
 DTEND:20260925T200000Z
 SUMMARY:Other Events: Nicolas Herrera la Rotta\, University of California
@@ -28,7 +28,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:66c02bbfa6c741fc8cbb@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261002T183000Z
 DTEND:20261002T200000Z
 SUMMARY:Other Events: Donovan Rasamoelison\, University of California\, S
@@ -65,7 +65,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:32eb24e68c6395c116cc@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261007T223000Z
 DTEND:20261008T000000Z
 SUMMARY:Other Events: Yihong Liu\, University of California\, Santa Barba
@@ -108,7 +108,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f3bb9256a6594c739760@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261014T223000Z
 DTEND:20261015T000000Z
 SUMMARY:Other Events: Juan Nicolas Herrera\, University of California\, S
@@ -143,7 +143,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e66c4de8ecc42704a23f@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261021T223000Z
 DTEND:20261022T000000Z
 SUMMARY:Other Events: Mauricio Collado\, University of California\, Santa
@@ -180,8 +180,31 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:75018c85ff60b7b73ca6@econ.ucsb.edu
+DTSTAMP:20261019T190307Z
+DTSTART:20261022T193000Z
+DTEND:20261022T210000Z
+SUMMARY:Other Events: Matt Lang\, University of California\, Santa Barbar
+ a - Improving Your Slides With AI--Find out how to quickly improve your 
+ existing slides or create a new set of slides using AI. All you'll need 
+ is a computer with PowerPoint and an account with ChatGPT or Claude
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Matt Lang\, University of California\, Santa Barbara
+ \nTitle: "Improving Your Slides With AI--Find out how to quickly improve
+  your existing slides or create a new set of slides using AI. All you'll
+  need is a computer with PowerPoint and an account with ChatGPT or Claud
+ e"\n\nhttps://econ.ucsb.edu/events/all/2026/workshop-event-matt-lang-uni
+ versity-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/workshop-event-matt-lang-univer
+ sity-california-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:65009c04f4244998a97c@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261030T183000Z
 DTEND:20261030T200000Z
 SUMMARY:Other Events: Kajari Saha\, University of California\, Santa Barb
@@ -199,7 +222,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:390aed7f499a7b6d842c@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261106T193000Z
 DTEND:20261106T210000Z
 SUMMARY:Other Events: Yihong Liu\, University of California\, Santa Barba
@@ -216,8 +239,32 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:739e781c7eb013f0197d@econ.ucsb.edu
+DTSTAMP:20261019T190307Z
+DTSTART:20261112T203000Z
+DTEND:20261112T220000Z
+SUMMARY:Other Events: Chris Lee\, University of California\, Santa Barbar
+ a - How to prompt ChatGPT or Claude to build an interactive teaching aid
+ \, such as a Solow growth model students that can adjust with sliders\, 
+ and then publish it as a link you can share with your class. No coding i
+ s required
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Chris Lee\, University of California\, Santa Barbara
+ \nTitle: "How to prompt ChatGPT or Claude to build an interactive teachi
+ ng aid\, such as a Solow growth model students that can adjust with slid
+ ers\, and then publish it as a link you can share with your class. No co
+ ding is required"\n\nhttps://econ.ucsb.edu/events/all/2026/workshop-even
+ t-chris-lee-university-california-santa-barbara
+URL:https://econ.ucsb.edu/events/all/2026/workshop-event-chris-lee-univer
+ sity-california-santa-barbara
+CATEGORIES:OTHER
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:cc1d29e5b9661e6e366f@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261113T193000Z
 DTEND:20261113T210000Z
 SUMMARY:Other Events: Anna Pede\, University of California\, Santa Barbar
@@ -235,7 +282,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eef1de7a5007c3282def@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261120T193000Z
 DTEND:20261120T210000Z
 SUMMARY:Other Events: Camila Paleo\, University of California\, Santa Bar
@@ -253,7 +300,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:18ccaf690eaf607173c9@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20261204T193000Z
 DTEND:20261204T210000Z
 SUMMARY:Other Events: Matias Strehl Pessina\, University of California\, 
@@ -271,7 +318,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0c9a56018b5c080ec240@econ.ucsb.edu
-DTSTAMP:20261018T162215Z
+DTSTAMP:20261019T190307Z
 DTSTART:20270108T193000Z
 DTEND:20270108T210000Z
 SUMMARY:Other Events: Reetika Sindhi\, University of California\, Santa B

@@ -171,6 +171,21 @@
   "content_hash": "e0b886de6cdf0ede"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/workshop-event-matt-lang-university-california-santa-barbara",
+  "title": "Workshop Event: Matt Lang, University of California, Santa Barbara",
+  "start_utc": "2026-10-22T19:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Matt Lang, University of California, Santa Barbara",
+  "talk_title": "\"Improving Your Slides With AI--Find out how to quickly improve your existing slides or create a new set of slides using AI. All you'll need is a computer with PowerPoint and an account with ChatGPT or Claude\"",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "54012dc6e76ab738"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-university-california-santa-barbara",
   "title": "Practice Job Talk: Anna Pede, University of California, Santa Barbara",
   "start_utc": "2026-10-22T22:30:00Z",
@@ -192,15 +207,15 @@
   "series": "CARE",
   "location": "North Hall 2111",
   "speaker": "Emiliano Huet-Vaughn, Pomona College",
-  "talk_title": "",
+  "talk_title": "\"The Asymmetric Effect of Wage Floors: A Natural Experiment with a Rising and Falling Minimum Wage\" Joint Work with Jon Piqueras at the Universidad Carlos III de Madrid",
   "hosted_by": [
    "Youssef Benzarti"
   ],
   "bio": "Emiliano Huet-Vaughn is an Associate Professor of Economics at Pomona College, a Faculty Affiliate at UC Berkeley/UCLA's California Policy Lab, an IZA Research Fellow, and an Affiliated Scholar at CUNY's Stone Center on Socio-Economic Inequality. His work has been published in leading academic journals such as The Review of Economic Studies, American Economic Journal: Economic Policy, The Review of Economics and Statistics, American Economic Journal: Microeconomics and the Journal of Public Economics, and, has been featured in The New York Times, The Wall Street Journal, The Financial Times, CNN, the Economic Report of the President and before the U.S. Congress. His research interests include public economics, behavioral economics, political economy, and labor economics, with special interest in tax policy, worker labor supply, government labor policy, choice complexity, electoral and extra-electoral political influence, pay transparency, the behavioral foundations of individual decision making, government benefit acquisition, and gender and competition. His work uses experiments in the lab and field as well as quasi-experimental methods. He received his Ph.D. in Economics from UC Berkeley. He also attended the London School of Economics (Masters in Economics & Philosophy) and Washington University in St. Louis (Bachelors in Economics and Philosophy-Neuroscience-Psychology). Before Pomona College, he worked at UCLA and Middlebury College.",
-  "abstract": "",
+  "abstract": "Exploiting a unique natural experiment, we study the asymmetric effects of a large increase and equivalent decrease to a binding minimum wage. Earnings in a leading low-wage industry rise when the minimum wage increases, but do not fall when it is lowered. The gains persist five years after policy revocation, providing novel evidence of earnings hysteresis from temporary labor policy. Persistence remains during high inflation, contrary to the view that relative wage gains should erode. Our evidence highlights the broader role of labor policy in shaping workers’ pay, extending beyond the limits of enforcement and legal incentives.",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "6ed661b065a5af72"
+  "seq": 1,
+  "content_hash": "9e017d3937c3b312"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-university-southern-california",
@@ -239,15 +254,15 @@
   "series": "CARE",
   "location": "North Hall 2111",
   "speaker": "Barbara Biasi, Yale SOM",
-  "talk_title": "",
+  "talk_title": "\"Teaching for College and Teaching for Work: Curriculum and Economic Opportunity in Community Colleges*\"",
   "hosted_by": [
    "Mitchell Hoffman"
   ],
   "bio": "I am an (untenured) Associate Professor of Economics at the Yale School of Management. I am also a Faculty Research Fellow at NBER and a Research Affiliate at CEPR, IZA, and CESifo. I am a labor economist and most of my work is related to education.",
-  "abstract": "",
+  "abstract": "Community colleges serve the dual mission of preparing students for transfer to four-year colleges and for entry into the labor market, with returns that vary widely across students and programs. This paper studies how these returns depend on what students are taught. We link 605,915 syllabi from 40 Texas community colleges to administrative student records to estimate the effects of course content on educational attainment and earnings. Our design uses variation in current content conditional on prior content and instructor identity to account for student selection into courses. For students in academic programs, content aligned with equivalent fouryear courses increases transfer and bachelor’s degree completion. General alignment with local labor demand diverts students from the transfer pathway, reducing both outcomes. Holding this general alignment fixed, stronger preparation for occupations related to students’ fields of study improves academic students’ attainment. For vocational students, general alignment with local labor demand does not improve outcomes, but stronger preparation for occupations related to their programs raises earnings. These findings identify curriculum as a determinant of community-college returns and emphasize the importance of alignment between curriculum and students’ educational and occupational pathways.",
   "minutes": 90,
-  "seq": 2,
-  "content_hash": "f524bfb577ba43cd"
+  "seq": 3,
+  "content_hash": "deead811e7457f10"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-saleh-university-florida",
@@ -297,6 +312,21 @@
   "minutes": 90,
   "seq": 2,
   "content_hash": "e8b2c2b01bfda31d"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/workshop-event-chris-lee-university-california-santa-barbara",
+  "title": "Workshop Event: Chris Lee, University of California, Santa Barbara",
+  "start_utc": "2026-11-12T20:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Chris Lee, University of California, Santa Barbara",
+  "talk_title": "\"How to prompt ChatGPT or Claude to build an interactive teaching aid, such as a Solow growth model students that can adjust with sliders, and then publish it as a link you can share with your class. No coding is required\"",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "4ed231caabec305d"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-australian-national-university",
