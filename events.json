@@ -249,7 +249,7 @@
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-yale-som",
-  "title": "CARE Seminar: Barbara Biasi, Yale SOM)",
+  "title": "CARE Seminar: Barbara Biasi, Yale SOM",
   "start_utc": "2026-11-04T23:30:00Z",
   "series": "CARE",
   "location": "North Hall 2111",
@@ -261,8 +261,8 @@
   "bio": "I am an (untenured) Associate Professor of Economics at the Yale School of Management. I am also a Faculty Research Fellow at NBER and a Research Affiliate at CEPR, IZA, and CESifo. I am a labor economist and most of my work is related to education.",
   "abstract": "Community colleges serve the dual mission of preparing students for transfer to four-year colleges and for entry into the labor market, with returns that vary widely across students and programs. This paper studies how these returns depend on what students are taught. We link 605,915 syllabi from 40 Texas community colleges to administrative student records to estimate the effects of course content on educational attainment and earnings. Our design uses variation in current content conditional on prior content and instructor identity to account for student selection into courses. For students in academic programs, content aligned with equivalent fouryear courses increases transfer and bachelor’s degree completion. General alignment with local labor demand diverts students from the transfer pathway, reducing both outcomes. Holding this general alignment fixed, stronger preparation for occupations related to students’ fields of study improves academic students’ attainment. For vocational students, general alignment with local labor demand does not improve outcomes, but stronger preparation for occupations related to their programs raises earnings. These findings identify curriculum as a determinant of community-college returns and emphasize the importance of alignment between curriculum and students’ educational and occupational pathways.",
   "minutes": 90,
-  "seq": 3,
-  "content_hash": "deead811e7457f10"
+  "seq": 4,
+  "content_hash": "33f3ed944d70a285"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-saleh-university-florida",
@@ -288,13 +288,13 @@
   "series": "OTHER",
   "location": "North Hall 2111",
   "speaker": "Yihong Liu, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Matched Triple-Differences: A Framework for Covariate Adjustment\"",
   "hosted_by": [],
   "bio": "",
-  "abstract": "",
+  "abstract": "This paper studies how covariate adjustment should be conducted in triple-differences designs. The leading empirical approach is linear regression adjustment, which augments the triple-differences regression with covariates. Under the conditional parallel gap assumption, we first derive a covariate balancing condition that a weighting estimator should satisfy to consistently estimate the average treatment effect on the treated (ATT). Expressing estimators from commonly used linear regression adjustments as weighting estimators reveals that they generally fail to satisfy this balancing condition and are therefore inconsistent for the ATT. To address this limitation, we propose a matched triple-differences framework that achieves the required covariate balance through matching. Within this framework, we construct a consistent matched triple-differences estimator, establish its asymptotic normality, and provide a consistent variance estimator. The framework accommodates a general class of matching procedures, including nearest-neighbor matching and kernel matching. JEL Classification Codes: C14, C21, C23",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "3f7ead456dd7163b"
+  "seq": 1,
+  "content_hash": "162e88b1d1da432d"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-ori-heffetz-cornell-university",
