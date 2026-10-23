@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UCSB Economics Seminars (unofficial)//scrape.py//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSB Econ MACROLAEF
+X-WR-CALDESC:Department events
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d6d58795e2d9e20f619b@econ.ucsb.edu
+DTSTAMP:20261023T174417Z
+DTSTART:20261029T223000Z
+DTEND:20261030T000000Z
+SUMMARY:Other Events: Diego Daruich\, University of Southern California -
+  The Macroeconomics of Intergenerational Mental Health Dynamics
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Diego Daruich\, University of Southern California\nT
+ itle: "The Macroeconomics of Intergenerational Mental Health Dynamics"\n
+ \nWe develop a quantitative macroeconomic theory of child mental health.
+  The theory is grounded in child psychiatry\, formalized in a life-cycle
+  general equilibrium model with heterogeneous agents and endogenous chil
+ d development\, and disciplined using micro data on the mental health of
+  children and parents. Mental illness reduces the time parents have avai
+ lable because of rumination. It also distorts their expectations through
+  negative thinking and directly lowers the productivity of their investm
+ ents in children. Mental health is transmitted in both directions: paren
+ tal illness lowers child mental health and skills\, and child illness wo
+ rsens parental mental health. Both directions are costly. Curing a child
+ 's mental illness is worth \\$164\,000 to the parent\, and curing a pare
+ nt's mental illness is worth \\$86\,000 to the child. In general equilib
+ rium with a balanced government budget\, subsidizing treatment for child
+ ren is the most effective policy for child mental health\, but it reduce
+ s welfare once its cost is financed. Subsidizing treatment for parents i
+ ncreases welfare but does little for child mental health. Finally\, we u
+ se the model to quantify the effects of removing social media on mental 
+ health and welfare.\n\nhttps://econ.ucsb.edu/events/all/2026/macrolaef-s
+ eminar-diego-daruich-university-southern-california
+URL:https://econ.ucsb.edu/events/all/2026/macrolaef-seminar-diego-daruich
+ -university-southern-california
+CATEGORIES:MACROLAEF
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

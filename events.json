@@ -218,10 +218,10 @@
   "content_hash": "9e017d3937c3b312"
  },
  {
-  "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-diego-daruich-university-southern-california",
-  "title": "MACRO Seminar: Diego Daruich, University of Southern California",
+  "url": "https://econ.ucsb.edu/events/all/2026/macrolaef-seminar-diego-daruich-university-southern-california",
+  "title": "MACRO/LAEF Seminar: Diego Daruich, University of Southern California",
   "start_utc": "2026-10-29T22:30:00Z",
-  "series": "MACRO",
+  "series": "MACROLAEF",
   "location": "North Hall 2111",
   "speaker": "Diego Daruich, University of Southern California",
   "talk_title": "\"The Macroeconomics of Intergenerational Mental Health Dynamics\"",
@@ -229,8 +229,8 @@
   "bio": "I am an Assistant Professor at University of Southern California (Marshall). My research focuses on Macroeconomics and Labor Economics, with a particular interest in human capital, education and labor market policies.​",
   "abstract": "We develop a quantitative macroeconomic theory of child mental health. The theory is grounded in child psychiatry, formalized in a life-cycle general equilibrium model with heterogeneous agents and endogenous child development, and disciplined using micro data on the mental health of children and parents. Mental illness reduces the time parents have available because of rumination. It also distorts their expectations through negative thinking and directly lowers the productivity of their investments in children. Mental health is transmitted in both directions: parental illness lowers child mental health and skills, and child illness worsens parental mental health. Both directions are costly. Curing a child's mental illness is worth \\$164,000 to the parent, and curing a parent's mental illness is worth \\$86,000 to the child. In general equilibrium with a balanced government budget, subsidizing treatment for children is the most effective policy for child mental health, but it reduces welfare once its cost is financed. Subsidizing treatment for parents increases welfare but does little for child mental health. Finally, we use the model to quantify the effects of removing social media on mental health and welfare.",
   "minutes": 90,
-  "seq": 3,
-  "content_hash": "9754f015535fe600"
+  "seq": 0,
+  "content_hash": "fbf3057eb13b6159"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/amel-kajari-saha-university-california-santa-barbara",
@@ -239,13 +239,13 @@
   "series": "OTHER",
   "location": "North Hall 2111",
   "speaker": "Kajari Saha, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\" Weather Shocks, Credit Access and Intimate Partner Violence in India \"",
   "hosted_by": [],
-  "bio": "",
-  "abstract": "",
+  "bio": "Kajari Saha is a Ph.D. candidate in Economics at UC Santa Barbara, working at the intersection of development economics and gender. Her research examines how women's welfare, their decisions and agency are shaped by climate change, government policies, marriage market institutions and norms. She combines causal inference methods with administrative and survey data to help guide the design of more effective policies. Her job market paper, “Weather Shocks, Credit Access and Intimate Partner Violence (IPV) in India,” links geocoded weather data with nationally representative survey data on women’s self-reported experiences of IPV to show that exposure to drought and extreme heat during the primary agricultural growing season increases IPV among women in rural India. Consistent with an income channel, access to formal finance mitigates the effect of drought on IPV. At the district level, the composition of credit matters: agricultural lending - particularly credit provided directly to farmers - significantly attenuates the effect of drought on IPV, while indirect, agribusiness-linked agricultural credit and non-agricultural credit do not. Finally, the substantially larger effects of wet-bulb heat extremes relative to dry-bulb heat extremes are consistent with a more immediate, heat-induced physiological stress channel. This paper was presented at the 2025 Agriculture and Applied Economics Association (AAEA) Conference. Beyond her job market paper, Kajari's ongoing research examin",
+  "abstract": "This study examines how weather shocks affect women’s exposure to intimate partner violence (IPV) in rural India. I link geocoded weather data to women’s reports of IPV from the 2015–16 and 2019–21 rounds of India’s National Family Health Survey. Exposure to drought and extreme heat during the primary growing season significantly increases IPV. Growing-season drought raises overall IPV by 11.3\\% and physical IPV by 11.8\\%, while heat has smaller but significant effects. Consistent with an income channel, access to formal finance mitigates the effect of drought on IPV. At the household level, access to bank accounts attenuates the drought–IPV relationship. At the district level, the composition of credit matters: agricultural lending - particularly credit provided directly to farmers - significantly attenuates the effect of drought on IPV, while indirect, agribusiness-linked agricultural credit and non-agricultural credit do not. Finally, the substantially larger effects of wet-bulb heat extremes relative to dry-bulb heat extremes are consistent with a more immediate, heat-induced physiological stress channel. JEL Classification Codes: J12, J16, O13, O16, Q56",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "8da919ce65657364"
+  "seq": 1,
+  "content_hash": "b06b468d509ff2c5"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-barbara-biasi-yale-som",
@@ -318,15 +318,15 @@
   "title": "Workshop Event: Chris Lee, University of California, Santa Barbara",
   "start_utc": "2026-11-12T20:30:00Z",
   "series": "CONFERENCES",
-  "location": "North Hall 2111",
+  "location": "North Hall 2212",
   "speaker": "Chris Lee, University of California, Santa Barbara",
   "talk_title": "\"How to prompt ChatGPT or Claude to build an interactive teaching aid, such as a Solow growth model students that can adjust with sliders, and then publish it as a link you can share with your class. No coding is required\"",
   "hosted_by": [],
   "bio": "",
   "abstract": "",
   "minutes": 480,
-  "seq": 1,
-  "content_hash": "4e37b2e9786514e4"
+  "seq": 2,
+  "content_hash": "ff22d6f6ef24277a"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-australian-national-university",

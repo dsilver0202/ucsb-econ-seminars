@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:739e781c7eb013f0197d@econ.ucsb.edu
-DTSTAMP:20261022T175158Z
+DTSTAMP:20261023T174417Z
 DTSTART:20261112T203000Z
 DTEND:20261113T043000Z
 SUMMARY:Conferences: Chris Lee\, University of California\, Santa Barbara
@@ -18,7 +18,7 @@ SUMMARY:Conferences: Chris Lee\, University of California\, Santa Barbara
  , such as a Solow growth model students that can adjust with sliders\, a
  nd then publish it as a link you can share with your class. No coding is
   required
-LOCATION:North Hall 2111
+LOCATION:North Hall 2212
 DESCRIPTION:Speaker: Chris Lee\, University of California\, Santa Barbara
  \nTitle: "How to prompt ChatGPT or Claude to build an interactive teachi
  ng aid\, such as a Solow growth model students that can adjust with slid
@@ -28,7 +28,7 @@ DESCRIPTION:Speaker: Chris Lee\, University of California\, Santa Barbara
 URL:https://econ.ucsb.edu/events/all/2026/workshop-event-chris-lee-univer
  sity-california-santa-barbara
 CATEGORIES:CONFERENCES
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
