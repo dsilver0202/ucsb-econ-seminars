@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20261025T165845Z
+DTSTAMP:20261026T190224Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe882721bc981f0d7ba@econ.ucsb.edu
-DTSTAMP:20261025T165845Z
+DTSTAMP:20261026T190224Z
 DTSTART:20261008T223000Z
 DTEND:20261009T000000Z
 SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
@@ -85,7 +85,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:56d17f18cefd2d281c9e@econ.ucsb.edu
-DTSTAMP:20261025T165845Z
+DTSTAMP:20261026T190224Z
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
 SUMMARY:Graduate Events: UCSB Graduate Open House and Prospective Graduat
@@ -102,7 +102,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
-DTSTAMP:20261025T165845Z
+DTSTAMP:20261026T190224Z
 DTSTART:20261013T223000Z
 DTEND:20261014T000000Z
 SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
@@ -141,7 +141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
-DTSTAMP:20261025T165845Z
+DTSTAMP:20261026T190224Z
 DTSTART:20261015T223000Z
 DTEND:20261016T000000Z
 SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
@@ -178,7 +178,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4525f480e09577d97162@econ.ucsb.edu
-DTSTAMP:20261025T165845Z
+DTSTAMP:20261026T190224Z
 DTSTART:20261020T223000Z
 DTEND:20261021T000000Z
 SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
@@ -213,7 +213,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:606d4b60edddc1a75ea2@econ.ucsb.edu
-DTSTAMP:20261025T165845Z
+DTSTAMP:20261026T190224Z
 DTSTART:20261022T223000Z
 DTEND:20261023T000000Z
 SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
@@ -240,6 +240,53 @@ URL:https://econ.ucsb.edu/events/all/2026/practice-job-talk-anna-pede-uni
  versity-california-santa-barbara
 CATEGORIES:GRADUATE
 SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:695624000182a6c167e9@econ.ucsb.edu
+DTSTAMP:20261026T190224Z
+DTSTART:20261113T210000Z
+DTEND:20261113T223000Z
+SUMMARY:Graduate Events: Ricardo Jose Ramos Fontes\, University of Califo
+ rnia\, Santa Barbara - “Droughts\, Dirty Energy\, and Health”
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Ricardo Jose Ramos Fontes\, University of California
+ \, Santa Barbara\nTitle: “Droughts\, Dirty Energy\, and Health”\n\nH
+ ydropower-dependent electricity systems are increasingly exposed to drou
+ ght risk. This paper studies one consequence of that exposure in Brazil:
+  when droughts reduce the availability of hydropower\, the system operat
+ ors increase electricity generation from fossil fuels\, and the resultin
+ g air pollution exposure raises urgent respiratory morbidity. We combine
+  data on plant-level generation\, hydrological conditions\, and ERA5 win
+ d fields with hospitalization records from the public health system SUS.
+  We first show that droughts reduce hydro inflows and reservoir storage 
+ and that lower hydropower generation increases generation from coal\, oi
+ l\, and natural gas. We construct a drought-predicted transported fossil
+  generation exposure measure by combining predicted thermal dispatch wit
+ h source-receptor weights based on distance and wind alignment. We then 
+ estimate how increases in power generation from fossil fuels affect urge
+ nt hospitalizations in nearby areas. We find that exposure to drought-in
+ duced power generation from fossil fuels is associated with higher urgen
+ t respiratory morbidity. Perhaps surprisingly\, we find that even power 
+ generation from natural gas is associated with large and significant inc
+ reases in hospitalization rates due to respiratory conditions. Finally\,
+  after the expansion of wind and solar generation in the previous decade
+ \, the fossil dispatch response to hydropower scarcity became weaker\; a
+  counterfactual analysis suggests that this weaker response reduced drou
+ ght-induced ramp-up of generation from fossil fuels and may have averted
+  several hundred urgent respiratory admissions. Keywords: Drought\, Hydr
+ opower\, Electricity generation\, Fossil fuels\, Respiratory health\, Br
+ azil. JEL Classification Codes: I15\, O13\, Q41\, Q42\, Q53 Event Detail
+ s Ricardo will be presenting his Advancement to Candidacy paper\, “Dro
+ ughts\, Dirty Energy\, and Health”. To access the Advancement paper\, 
+ you must have an active UCSB NetID and password.\n\nhttps://econ.ucsb.ed
+ u/events/all/2026/advancement-candidacy-presentation-droughts-dirty-ener
+ gy-and-health-ricardo-jose
+URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
+ ion-droughts-dirty-energy-and-health-ricardo-jose
+CATEGORIES:GRADUATE
+SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

@@ -218,6 +218,21 @@
   "content_hash": "9e017d3937c3b312"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kim-sarnoff-caltech",
+  "title": "TEC Seminar: Kim Sarnoff, Caltech",
+  "start_utc": "2026-10-29T19:30:00Z",
+  "series": "TEC",
+  "location": "North Hall 2111",
+  "speaker": "Kim Sarnoff, Caltech",
+  "talk_title": "“ The structure of sequential updating”",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "Many real-world inference problems unfold over time: employers learn about workers’ ability across tasks, consumers evaluate products through repeated use, and policymakers revise beliefs about the economy as they observe new data. For a Bayesian, beliefs evolve according to the principle of posterior sufficiency: the posterior summarizes past information, so all one needs for the next update is the current belief. Despite its theoretical and practical import, experimental work on dynamic updating has largely neglected this property. This paper experimentally tests posterior sufficiency and studies mechanisms for its violation. Three main results emerge. First, sufficiency fails almost universally. Second, these violations can be explained with non-Bayesian responses to two features of sequences: the order in which information arrives and the raw count of signals. Third, violations of sufficiency are larger in magnitude than belief distortions in static updating problems.",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "b86b3d9bccd24647"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/macrolaef-seminar-diego-daruich-university-southern-california",
   "title": "MACRO/LAEF Seminar: Diego Daruich, University of Southern California",
   "start_utc": "2026-10-29T22:30:00Z",
@@ -359,6 +374,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "aeb0dc00772deca3"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-droughts-dirty-energy-and-health-ricardo-jose",
+  "title": "Advancement to Candidacy Presentation: “Droughts, Dirty Energy, and Health”, Ricardo Jose Ramos Fontes",
+  "start_utc": "2026-11-13T21:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2111",
+  "speaker": "Ricardo Jose Ramos Fontes, University of California, Santa Barbara",
+  "talk_title": "“Droughts, Dirty Energy, and Health”",
+  "hosted_by": [],
+  "bio": "Ricardo Jose Ramos Fontes is a Ph.D. student in Economics at the University of California, Santa Barbara (UCSB), where he also received a Master’s degree in Economics. Prior to joining UCSB, Ricardo received a Bachelor’s degree in Economics from University of São Paulo (USP) and a Master's degree in Economics from the Brazilian School of Economics and Finance, Getúlio Vargas Foundation (FGV EPGE). His research interests span applied microeconomics, industrial organization, and environmental and resource economics. Using economic theory and empirical methods, he studies how climate change, regulation, and market incentives shape natural-resource allocation and markets. His current interests include energy and water systems, agriculture, natural-resource markets and supply chains, and urban economics.",
+  "abstract": "Hydropower-dependent electricity systems are increasingly exposed to drought risk. This paper studies one consequence of that exposure in Brazil: when droughts reduce the availability of hydropower, the system operators increase electricity generation from fossil fuels, and the resulting air pollution exposure raises urgent respiratory morbidity. We combine data on plant-level generation, hydrological conditions, and ERA5 wind fields with hospitalization records from the public health system SUS. We first show that droughts reduce hydro inflows and reservoir storage and that lower hydropower generation increases generation from coal, oil, and natural gas. We construct a drought-predicted transported fossil generation exposure measure by combining predicted thermal dispatch with source-receptor weights based on distance and wind alignment. We then estimate how increases in power generation from fossil fuels affect urgent hospitalizations in nearby areas. We find that exposure to drought-induced power generation from fossil fuels is associated with higher urgent respiratory morbidity. Perhaps surprisingly, we find that even power generation from natural gas is associated with large and significant increases in hospitalization rates due to respiratory conditions. Finally, after the expansion of wind and solar generation in the previous decade, the fossil dispatch response to hydropower scarcity became weaker; a counterfactual analysis suggests that this weaker response reduced drought-induced ramp-up of generation from fossil fuels and may have averted several hundred urgent respiratory admissions. Keywords: Drought, Hydropower, Electricity generation, Fossil fuels, Respiratory health, Brazil. JEL Classification Codes: I15, O13, Q41, Q42, Q53 Event Details Ricardo will be presenting his Advancement to Candidacy paper, “Droughts, Dirty Energy, and Health”. To access the Advancement paper, you must have an active UCSB NetID and password.",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "1ab89054a03d7bd0"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-tech",
