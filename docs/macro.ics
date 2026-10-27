@@ -10,26 +10,35 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fa5d7b5b9d445086e44a@econ.ucsb.edu
-DTSTAMP:20261026T190224Z
+DTSTAMP:20261027T183408Z
 DTSTART:20261105T233000Z
 DTEND:20261106T010000Z
-SUMMARY:MACRO Seminar: Fahad Sale h\, University of Florida
+SUMMARY:MACRO Seminar: Fahad Sale h\, University of Florida - The Economi
+ cs of Regulating Tokenized Securities
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Fahad Sale h\, University of Florida\nHosted by: Rod
-  Garratt\n\nMy research examines economic questions associated with bloc
- kchain and cryptoassets. For additional details\, please see my website:
-  www.fahadsaleh.com\n\nhttps://econ.ucsb.edu/events/all/2026/macro-semin
- ar-fahad-saleh-university-florida
+DESCRIPTION:Speaker: Fahad Sale h\, University of Florida\nTitle: "The Ec
+ onomics of Regulating Tokenized Securities"\nHosted by: Rod Garratt\n\nW
+ e develop an economic model to study the effect of regulation on tokeniz
+ ed securities markets. Tokenizing a security does not exempt it from sec
+ urities laws\, so in our framework token issuers must choose a complianc
+ e policy that restricts trading. We characterize the resulting trade-off
+  between regulatory stringency and financial market outcomes\, and we de
+ rive three main results. First\, tighter regulation reduces the liquidit
+ y of the tokenized market. Second\, tokenization is not commercially via
+ ble for sufficiently strict regulation. Third\, the tightest level of re
+ gulation that tokenization can withstand depends on the characteristics 
+ of the tokenized asset.\n\nhttps://econ.ucsb.edu/events/all/2026/macro-s
+ eminar-fahad-saleh-university-florida
 URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-fahad-saleh-unive
  rsity-florida
 CATEGORIES:MACRO
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c0c723cc43957daea988@econ.ucsb.edu
-DTSTAMP:20261026T190224Z
+DTSTAMP:20261027T183408Z
 DTSTART:20261112T233000Z
 DTEND:20261113T010000Z
 SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University
@@ -54,7 +63,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ab7fa195f00737358adf@econ.ucsb.edu
-DTSTAMP:20261026T190224Z
+DTSTAMP:20261027T183408Z
 DTSTART:20261119T233000Z
 DTEND:20261120T010000Z
 SUMMARY:MACRO Seminar: Jeremy Pearce\, Federal Reserve Bank of New York
@@ -76,7 +85,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8ffd4669ee7dc498ec3f@econ.ucsb.edu
-DTSTAMP:20261026T190224Z
+DTSTAMP:20261027T183408Z
 DTSTART:20270107T233000Z
 DTEND:20270108T010000Z
 SUMMARY:MACRO Seminar: Yang Gao\, University of Auckland
@@ -102,7 +111,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5bfb5ccf61ec1b61e9@econ.ucsb.edu
-DTSTAMP:20261026T190224Z
+DTSTAMP:20261027T183408Z
 DTSTART:20270114T233000Z
 DTEND:20270115T010000Z
 SUMMARY:MACRO Seminar: Jeremy Greenwood\, University of Pennsylvania
@@ -139,25 +148,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:35fa0b5ee2a37e81c31b@econ.ucsb.edu
-DTSTAMP:20261026T190224Z
-DTSTART:20270204T233000Z
-DTEND:20270205T010000Z
-SUMMARY:MACRO Seminar: Adrien Bilal\, Stanford
-LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Adrien Bilal\, Stanford\nHosted by: Simon Margolin\n
- \nhttps://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stanf
- ord
-URL:https://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stan
- ford
-CATEGORIES:MACRO
-SEQUENCE:2
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:75f6f5a63b361faf4aa9@econ.ucsb.edu
-DTSTAMP:20261026T190224Z
+DTSTAMP:20261027T183408Z
 DTSTART:20270304T233000Z
 DTEND:20270305T010000Z
 SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey\, London School of Economics

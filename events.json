@@ -286,15 +286,15 @@
   "series": "MACRO",
   "location": "North Hall 2111",
   "speaker": "Fahad Sale h, University of Florida",
-  "talk_title": "",
+  "talk_title": "\"The Economics of Regulating Tokenized Securities\"",
   "hosted_by": [
    "Rod Garratt"
   ],
   "bio": "My research examines economic questions associated with blockchain and cryptoassets. For additional details, please see my website: www.fahadsaleh.com",
-  "abstract": "",
+  "abstract": "We develop an economic model to study the effect of regulation on tokenized securities markets. Tokenizing a security does not exempt it from securities laws, so in our framework token issuers must choose a compliance policy that restricts trading. We characterize the resulting trade-off between regulatory stringency and financial market outcomes, and we derive three main results. First, tighter regulation reduces the liquidity of the tokenized market. Second, tokenization is not commercially viable for sufficiently strict regulation. Third, the tightest level of regulation that tokenization can withstand depends on the characteristics of the tokenized asset.",
   "minutes": 90,
-  "seq": 1,
-  "content_hash": "bd26cc2e5172972a"
+  "seq": 2,
+  "content_hash": "ecc02a7f2bce26d0"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/amel-yihong-liu-university-california-santa-barbara",
@@ -587,23 +587,6 @@
   "minutes": 90,
   "seq": 2,
   "content_hash": "0fafab64c23c8010"
- },
- {
-  "url": "https://econ.ucsb.edu/events/all/2027/macro-seminar-adrien-bilal-stanford",
-  "title": "MACRO Seminar: Adrien Bilal, Stanford",
-  "start_utc": "2027-02-04T23:30:00Z",
-  "series": "MACRO",
-  "location": "North Hall 2111",
-  "speaker": "Adrien Bilal, Stanford",
-  "talk_title": "",
-  "hosted_by": [
-   "Simon Margolin"
-  ],
-  "bio": "",
-  "abstract": "",
-  "minutes": 90,
-  "seq": 2,
-  "content_hash": "6725598dde0fdb77"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-nicole-maestas-harvard-medical",
