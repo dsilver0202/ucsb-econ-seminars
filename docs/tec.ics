@@ -10,12 +10,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:3bd8809a4ea393160d67@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261029T193000Z
 DTEND:20261029T210000Z
 SUMMARY:TEC Seminar: Kim Sarnoff\, Caltech - “ The structure of sequent
  ial updating”
-LOCATION:North Hall 2111
+LOCATION:North Hall 2113
 DESCRIPTION:Speaker: Kim Sarnoff\, Caltech\nTitle: “ The structure of s
  equential updating”\n\nMany real-world inference problems unfold over 
  time: employers learn about workers’ ability across tasks\, consumers 
@@ -35,13 +35,13 @@ DESCRIPTION:Speaker: Kim Sarnoff\, Caltech\nTitle: “ The structure of s
  arnoff-caltech
 URL:https://econ.ucsb.edu/events/all/2026/tec-seminar-kim-sarnoff-caltech
 CATEGORIES:TEC
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3527763d8bae26908fc8@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261110T203000Z
 DTEND:20261110T220000Z
 SUMMARY:TEC Seminar: Ori Heffetz\, Cornell University - Explaining Mechan
@@ -65,7 +65,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0904854bba00b9e45edf@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261117T203000Z
 DTEND:20261117T220000Z
 SUMMARY:TEC Seminar: Kirby Nielsen\, Cal Tech
@@ -82,7 +82,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8d1b3a8165a4f122bb42@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261201T203000Z
 DTEND:20261201T220000Z
 SUMMARY:TEC Seminar: Paulo Natenzon\, Washington University in Saint Loui

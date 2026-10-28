@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe882721bc981f0d7ba@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261008T223000Z
 DTEND:20261009T000000Z
 SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
@@ -85,7 +85,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:56d17f18cefd2d281c9e@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
 SUMMARY:Graduate Events: UCSB Graduate Open House and Prospective Graduat
@@ -102,7 +102,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261013T223000Z
 DTEND:20261014T000000Z
 SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
@@ -141,7 +141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261015T223000Z
 DTEND:20261016T000000Z
 SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
@@ -178,7 +178,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4525f480e09577d97162@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261020T223000Z
 DTEND:20261021T000000Z
 SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
@@ -213,7 +213,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:606d4b60edddc1a75ea2@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261022T223000Z
 DTEND:20261023T000000Z
 SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
@@ -245,7 +245,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:695624000182a6c167e9@econ.ucsb.edu
-DTSTAMP:20261027T183408Z
+DTSTAMP:20261028T184027Z
 DTSTART:20261113T210000Z
 DTEND:20261113T223000Z
 SUMMARY:Graduate Events: Ricardo Jose Ramos Fontes\, University of Califo
@@ -285,6 +285,43 @@ DESCRIPTION:Speaker: Ricardo Jose Ramos Fontes\, University of California
  gy-and-health-ricardo-jose
 URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
  ion-droughts-dirty-energy-and-health-ricardo-jose
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e3991ffe7feda125dbbf@econ.ucsb.edu
+DTSTAMP:20261028T184027Z
+DTSTART:20261117T180000Z
+DTEND:20261117T193000Z
+SUMMARY:Graduate Events: Ryo Aono\, University of California Santa Barbar
+ a - “Underprovision by Local Governments During Aging”
+LOCATION:North Hall 2113
+DESCRIPTION:Speaker: Ryo Aono\, University of California Santa Barbara\nT
+ itle: “Underprovision by Local Governments During Aging”\n\nLocal go
+ vernments in developed countries increasingly struggle to maintain publi
+ c goods provision as populations age. Using government finance data for 
+ 22 OECD countries from 1995 to 2019\, I find that\, as the dependency ra
+ tio rises\, local governments tend to cut both investment in stock publi
+ c goods and expenditure on flow public goods\, while central governments
+  tend to cut investment slightly and increase flow public goods as well 
+ as social benefits. To explain these patterns\, I build a calibrated OLG
+  model in which central and local governments play a time-consistent Sta
+ ckelberg game over a shared tax base\, under rigid rules for pensions an
+ d grants. Rising pension obligations raise central taxes\, which\, throu
+ gh a vertical tax externality and smaller grants\, constrain local reven
+ ue. With more efficient central tax collection and higher substitutabili
+ ty across tiers for flow than for stock public goods\, the model reprodu
+ ces the observed responses: public goods provision becomes more centrali
+ zed\, and composite provision declines. Moderately lowering the pension 
+ replacement rate and the grant rate improves welfare by stimulating hous
+ ehold savings and improving the efficiency of public resource allocation
+ . JEL Classification Codes: H54\, H55\, H72\, H77\, J11\n\nhttps://econ.
+ ucsb.edu/events/all/2026/advancement-candidacy-presentation-underprovisi
+ on-local-governments-during-aging
+URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
+ ion-underprovision-local-governments-during-aging
 CATEGORIES:GRADUATE
 SEQUENCE:0
 STATUS:CONFIRMED

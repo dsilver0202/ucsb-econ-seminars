@@ -222,15 +222,15 @@
   "title": "TEC Seminar: Kim Sarnoff, Caltech",
   "start_utc": "2026-10-29T19:30:00Z",
   "series": "TEC",
-  "location": "North Hall 2111",
+  "location": "North Hall 2113",
   "speaker": "Kim Sarnoff, Caltech",
   "talk_title": "“ The structure of sequential updating”",
   "hosted_by": [],
   "bio": "",
   "abstract": "Many real-world inference problems unfold over time: employers learn about workers’ ability across tasks, consumers evaluate products through repeated use, and policymakers revise beliefs about the economy as they observe new data. For a Bayesian, beliefs evolve according to the principle of posterior sufficiency: the posterior summarizes past information, so all one needs for the next update is the current belief. Despite its theoretical and practical import, experimental work on dynamic updating has largely neglected this property. This paper experimentally tests posterior sufficiency and studies mechanisms for its violation. Three main results emerge. First, sufficiency fails almost universally. Second, these violations can be explained with non-Bayesian responses to two features of sequences: the order in which information arrives and the raw count of signals. Third, violations of sufficiency are larger in magnitude than belief distortions in static updating problems.",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "b86b3d9bccd24647"
+  "seq": 1,
+  "content_hash": "43fdca883e937b22"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macrolaef-seminar-diego-daruich-university-southern-california",
@@ -389,6 +389,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "1ab89054a03d7bd0"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-underprovision-local-governments-during-aging",
+  "title": "Advancement to Candidacy Presentation: “Underprovision by Local Governments During Aging”, Ryo Aono",
+  "start_utc": "2026-11-17T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2113",
+  "speaker": "Ryo Aono, University of California Santa Barbara",
+  "talk_title": "“Underprovision by Local Governments During Aging”",
+  "hosted_by": [],
+  "bio": "Ryo Aono is a Ph.D. student in Economics at the University of California, Santa Barbara with focus on Macroeconomics. Specifically, he explores the relationship between the government and macroeconomy and the factors contributing to variations in economic growth trajectories among developed countries. Prior to joining UCSB, he had accumulated over ten years of experience in the Government of Japan, specializing in local government finance. He also served as a manager in a local government and as a diplomat at the Consulate General of Japan in San Francisco, providing valuable insights for his research. He earned his bachelor’s degree of Economics from Kyoto University in 2012.",
+  "abstract": "Local governments in developed countries increasingly struggle to maintain public goods provision as populations age. Using government finance data for 22 OECD countries from 1995 to 2019, I find that, as the dependency ratio rises, local governments tend to cut both investment in stock public goods and expenditure on flow public goods, while central governments tend to cut investment slightly and increase flow public goods as well as social benefits. To explain these patterns, I build a calibrated OLG model in which central and local governments play a time-consistent Stackelberg game over a shared tax base, under rigid rules for pensions and grants. Rising pension obligations raise central taxes, which, through a vertical tax externality and smaller grants, constrain local revenue. With more efficient central tax collection and higher substitutability across tiers for flow than for stock public goods, the model reproduces the observed responses: public goods provision becomes more centralized, and composite provision declines. Moderately lowering the pension replacement rate and the grant rate improves welfare by stimulating household savings and improving the efficiency of public resource allocation. JEL Classification Codes: H54, H55, H72, H77, J11",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "40f335d5de8ebb46"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-tech",
