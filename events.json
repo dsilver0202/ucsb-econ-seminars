@@ -218,21 +218,6 @@
   "content_hash": "9e017d3937c3b312"
  },
  {
-  "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kim-sarnoff-caltech",
-  "title": "TEC Seminar: Kim Sarnoff, Caltech",
-  "start_utc": "2026-10-29T19:30:00Z",
-  "series": "TEC",
-  "location": "North Hall 2113",
-  "speaker": "Kim Sarnoff, Caltech",
-  "talk_title": "“ The structure of sequential updating”",
-  "hosted_by": [],
-  "bio": "",
-  "abstract": "Many real-world inference problems unfold over time: employers learn about workers’ ability across tasks, consumers evaluate products through repeated use, and policymakers revise beliefs about the economy as they observe new data. For a Bayesian, beliefs evolve according to the principle of posterior sufficiency: the posterior summarizes past information, so all one needs for the next update is the current belief. Despite its theoretical and practical import, experimental work on dynamic updating has largely neglected this property. This paper experimentally tests posterior sufficiency and studies mechanisms for its violation. Three main results emerge. First, sufficiency fails almost universally. Second, these violations can be explained with non-Bayesian responses to two features of sequences: the order in which information arrives and the raw count of signals. Third, violations of sufficiency are larger in magnitude than belief distortions in static updating problems.",
-  "minutes": 90,
-  "seq": 1,
-  "content_hash": "43fdca883e937b22"
- },
- {
   "url": "https://econ.ucsb.edu/events/all/2026/macrolaef-seminar-diego-daruich-university-southern-california",
   "title": "MACRO/LAEF Seminar: Diego Daruich, University of Southern California",
   "start_utc": "2026-10-29T22:30:00Z",
