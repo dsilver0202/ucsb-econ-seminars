@@ -480,15 +480,15 @@
   "series": "CARE",
   "location": "North Hall 2111",
   "speaker": "Eleonora Patacchini",
-  "talk_title": "",
+  "talk_title": "\"Connections, Job Search, and Worker Selection\"",
   "hosted_by": [
    "Peter Kuhn"
   ],
   "bio": "",
-  "abstract": "",
+  "abstract": "We study how personal connections shape workers' search, employers' selection, and the quality of the resulting matches. We combine comprehensive records of applicants to Brazilian public-sector jobs with employer–employee records spanning 1985–2017, define a connection as a past coworker currently employed at the recruiting establishment, and exploit a 1988 reform that reduced discretion in federal hiring and limited the ability to leverage these pre-existing ties. The reform changes both sides of the matching process: applications shift away from connected employers, workers with greater exposure to connections broaden their search and target lower-paying jobs, and the conditional hiring advantage of connected applicants falls by 17 percent. Connections also provide workers access to relatively valuable jobs. Among unsuccessful applicants, the subsequent wages of connected relative to unconnected workers fall by 12 percent once connections become harder to use. We then distinguish productive information transmission from preferential treatment. Following the reform, lower-quality connected workers disproportionately stop applying, the quality of connected applicants and hires rises, and new hires exhibit lower rates of absenteeism, suspension, and separation, and higher promotion rates. These patterns are consistent with past coworker connections facilitating preferential treatment rather than primarily improving employer screening. The results show that networks affect multiple stages of worker–employer matching and that their consequences for worker selection and match quality depend on the incentives and discretion surrounding referral-based hiring.",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "c5825c0e9cd5e33a"
+  "seq": 1,
+  "content_hash": "cf107ea57335a062"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/amel-matias-strehl-pessina-university-california-santa-barbara",

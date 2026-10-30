@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:09011386b4db0cfb55d9@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20261028T223000Z
 DTEND:20261029T000000Z
 SUMMARY:CARE Seminar: Emiliano Huet-Vaughn\, Pomona College - The Asymmet
@@ -41,7 +41,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bfa1006b11d915f05e68@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20261104T233000Z
 DTEND:20261105T010000Z
 SUMMARY:CARE Seminar: Barbara Biasi\, Yale SOM - Teaching for College and
@@ -80,7 +80,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:990f3935b346ef024a3b@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20261118T233000Z
 DTEND:20261119T010000Z
 SUMMARY:CARE Seminar: Felipe Lobel\, Duke
@@ -101,24 +101,49 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d5983d11b8bb087115fe@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20261202T233000Z
 DTEND:20261203T010000Z
-SUMMARY:CARE Seminar: Eleonora Patacchini
+SUMMARY:CARE Seminar: Eleonora Patacchini - Connections\, Job Search\, an
+ d Worker Selection
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Eleonora Patacchini\nHosted by: Peter Kuhn\n\nhttps:
- //econ.ucsb.edu/events/all/2026/care-seminar-eleonora-patacchini-cornell
- -university
+DESCRIPTION:Speaker: Eleonora Patacchini\nTitle: "Connections\, Job Searc
+ h\, and Worker Selection"\nHosted by: Peter Kuhn\n\nWe study how persona
+ l connections shape workers' search\, employers' selection\, and the qua
+ lity of the resulting matches. We combine comprehensive records of appli
+ cants to Brazilian public-sector jobs with employer–employee records s
+ panning 1985–2017\, define a connection as a past coworker currently e
+ mployed at the recruiting establishment\, and exploit a 1988 reform that
+  reduced discretion in federal hiring and limited the ability to leverag
+ e these pre-existing ties. The reform changes both sides of the matching
+  process: applications shift away from connected employers\, workers wit
+ h greater exposure to connections broaden their search and target lower-
+ paying jobs\, and the conditional hiring advantage of connected applican
+ ts falls by 17 percent. Connections also provide workers access to relat
+ ively valuable jobs. Among unsuccessful applicants\, the subsequent wage
+ s of connected relative to unconnected workers fall by 12 percent once c
+ onnections become harder to use. We then distinguish productive informat
+ ion transmission from preferential treatment. Following the reform\, low
+ er-quality connected workers disproportionately stop applying\, the qual
+ ity of connected applicants and hires rises\, and new hires exhibit lowe
+ r rates of absenteeism\, suspension\, and separation\, and higher promot
+ ion rates. These patterns are consistent with past coworker connections 
+ facilitating preferential treatment rather than primarily improving empl
+ oyer screening. The results show that networks affect multiple stages of
+  worker–employer matching and that their consequences for worker selec
+ tion and match quality depend on the incentives and discretion surroundi
+ ng referral-based hiring.\n\nhttps://econ.ucsb.edu/events/all/2026/care-
+ seminar-eleonora-patacchini-cornell-university
 URL:https://econ.ucsb.edu/events/all/2026/care-seminar-eleonora-patacchin
  i-cornell-university
 CATEGORIES:CARE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4ab52fa5a2ae798fdf2e@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270113T233000Z
 DTEND:20270114T010000Z
 SUMMARY:CARE Seminar: Yana Gallen\, University of Chicago
@@ -141,7 +166,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:789c22222a7a9b027613@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270203T233000Z
 DTEND:20270204T010000Z
 SUMMARY:CARE Seminar: Eric Chyn\, University of Texas at Austin
@@ -169,7 +194,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e48a82d560a8e91d99e2@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270210T233000Z
 DTEND:20270211T010000Z
 SUMMARY:CARE Seminar: Nicole Maestas\, Harvard Medical
@@ -186,7 +211,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:16c507fed92ebd63e6ca@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270303T233000Z
 DTEND:20270304T010000Z
 SUMMARY:CARE Seminar: Melanie Guldi\, University of Central Florida
@@ -203,7 +228,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a11193874ce0d505967d@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270310T233000Z
 DTEND:20270311T010000Z
 SUMMARY:CARE Seminar: Ben Handel\, UC Berkeley
@@ -241,7 +266,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:295a37cd6854d6f2be80@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270331T223000Z
 DTEND:20270401T000000Z
 SUMMARY:CARE Seminar: Rebekah Dix\, Stanford
@@ -264,7 +289,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7f354c0b601f3fbb2048@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270407T223000Z
 DTEND:20270408T000000Z
 SUMMARY:CARE Seminar: Audrey Guo\, Santa Clara University
@@ -285,7 +310,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a76c866098715cd747fa@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270414T223000Z
 DTEND:20270415T000000Z
 SUMMARY:CARE Seminar: Leonardo Bursztyn\, University of Chicago
@@ -316,7 +341,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9d9cf319990f3312d9a3@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270428T223000Z
 DTEND:20270429T000000Z
 SUMMARY:CARE Seminar: Chris Whaley\, Brown - Public Health
@@ -333,7 +358,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f5e9e6d8bef902ea4676@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270505T223000Z
 DTEND:20270506T000000Z
 SUMMARY:CARE Seminar: Cody Tuttle\, University of Texas at Austin
@@ -352,7 +377,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1ed4fa25ac688595dbcb@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270519T223000Z
 DTEND:20270520T000000Z
 SUMMARY:CARE Seminar: Guo Xu\, Berkeley Haas
@@ -375,7 +400,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e56cd189db53b4479f2c@econ.ucsb.edu
-DTSTAMP:20261029T184823Z
+DTSTAMP:20261030T182542Z
 DTSTART:20270526T223000Z
 DTEND:20270527T000000Z
 SUMMARY:CARE Seminar: Chris Walters\, University California\, Berkeley
