@@ -391,6 +391,21 @@
   "content_hash": "40f335d5de8ebb46"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-crossing-line-evidence-spillovers-los-angeles",
+  "title": "Advancement to Candidacy Presentation: “Crossing the Line: Evidence of Spillovers from the Los Angeles Mansion Tax”, Lars Leimkühler, University of California, Santa Barbara",
+  "start_utc": "2026-11-17T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2111",
+  "speaker": "Lars Leimkühler, University of California, Santa Barbara",
+  "talk_title": "“Crossing the Line: Evidence of Spillovers from the Los Angeles Mansion Tax”,",
+  "hosted_by": [],
+  "bio": "Lars Leimkühler is a Ph.D. student in Economics at the University of California, Santa Barbara. His research focuses on taxation, housing markets and urban economics. Currently, Lars is using boundary-based variation to study spillovers from the Los Angeles Mansion Tax. His second-year paper received the department’s Best Second-Year Paper award. Prior to UCSB, Lars graduated with a BA in Economics and Finance from the University of Edinburgh, and an MSc in Economics and Psychology from the Paris School of Economics.",
+  "abstract": "Real estate transfer taxes on high-end housing are increasingly popular revenue generation tools for local governments. Yet, their fiscal promise depends on whether wealthy buyers’ locational preferences are sufficient to keep them inside the taxed jurisdiction, or whether the tax induces relocation to neighboring untaxed jurisdictions. This paper provides the first direct evidence on the spatial scope and magnitude of cross-jurisdictional spillovers by exploiting the implementation of a 4% local transfer tax. Using transaction-level data in a difference-in-differences and spatial RD setting, I find that despite the abundant availability of tax-exempt substitutes nearby, spillovers recover just 6 percentage points of the 34% decline in sales in taxed areas. These spillovers are concentrated within 500 meters of the taxed city’s boundary, decay with increasing distance, and are most pronounced near tax-exempt enclaves such as Beverly Hills and Santa Monica. The resulting fiscal externality is modest. JEL Classification Codes: H71, H73, R21",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "db728eb3ce8fb863"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-tech",
   "title": "TEC Seminar: Kirby Nielsen, Cal Tech",
   "start_utc": "2026-11-17T20:30:00Z",
