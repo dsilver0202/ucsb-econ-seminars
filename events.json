@@ -320,13 +320,13 @@
   "series": "CONFERENCES",
   "location": "North Hall 2212",
   "speaker": "Chris Lee, University of California, Santa Barbara",
-  "talk_title": "\"How to prompt ChatGPT or Claude to build an interactive teaching aid, such as a Solow growth model students that can adjust with sliders, and then publish it as a link you can share with your class. No coding is required\"",
+  "talk_title": "",
   "hosted_by": [],
   "bio": "",
   "abstract": "",
   "minutes": 480,
-  "seq": 2,
-  "content_hash": "ff22d6f6ef24277a"
+  "seq": 3,
+  "content_hash": "c5ef5858d7c63a0c"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-australian-national-university",
@@ -352,13 +352,13 @@
   "series": "OTHER",
   "location": "North Hall 2111",
   "speaker": "Anna Pede, University of California, Santa Barbara",
-  "talk_title": "",
+  "talk_title": "\"Fire and Punishment: Enforcement incentives and fire use in the Brazilian Amazon\"",
   "hosted_by": [],
   "bio": "",
-  "abstract": "",
+  "abstract": "Incomplete monitoring of illegal behavior may cause violators to reoptimize their criminal activities. I study how satellite monitoring of deforestation impacts illegal land-clearing behavior in the Brazilian Amazon. I argue that by detecting primarily mechanical clearings, the introduction of near-real-time satellite monitoring favored a technological substitution towards the use of fire. Using cloud cover as an instrument for satellite-based detection, I find that municipalities under more intensive surveillance experienced a statistically significant substitution from mechanical to fire-based clearing. My findings help explain why Amazon fires have persisted despite the overall decline in deforestation starting from 2005. Keywords: Forest fires, deforestation, environmental law enforcement JEL Classification Codes: Q51, Q57, Q58",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "aeb0dc00772deca3"
+  "seq": 1,
+  "content_hash": "61413719461a9f1a"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-droughts-dirty-energy-and-health-ricardo-jose",
