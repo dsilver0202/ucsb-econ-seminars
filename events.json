@@ -335,15 +335,15 @@
   "series": "MACRO",
   "location": "North Hall 2111",
   "speaker": "Sephorah Mangin, Australian National University",
-  "talk_title": "",
+  "talk_title": "\"Competitive dispersion, markups, and welfare\"",
   "hosted_by": [
    "Peter Rupert"
   ],
   "bio": "Sephorah Mangin is an Associate Professor in Economics. Her research interests include macroeconomics, search theory, labour economics, economic growth, and industrial organisation. She has conducted research at the Becker Friedman Institute at the University of Chicago, and is an Associate Editor at the European Economic Review. Sephorah has published her research in a number of prestigious peer-reviewed journals including the Journal of Economic Theory, the Journal of Monetary Economics, the RAND Journal of Economics, and Econometrica.",
-  "abstract": "",
+  "abstract": "How does the distribution of competition across buyers affect markups and markup dispersion? To answer this question, we introduce the concept of competitive dispersion. Competitive dispersion refers to dispersion in the degree of effective competition for different buyers. We study the effects of competitive dispersion on markups and markup dispersion in a Burdett-Judd search-theoretic model of imperfect competition. We show that greater competitive dispersion can either increase or decrease both the aggregate markup and markup dispersion. When we calibrate the model, we find that the welfare effect of competitive dispersion is quantitatively significant.",
   "minutes": 90,
-  "seq": 2,
-  "content_hash": "268dce175fa0bec4"
+  "seq": 3,
+  "content_hash": "1f23ca63b56d6994"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/amel-anna-pede-university-california-santa-barbara",
@@ -689,6 +689,23 @@
   "content_hash": "6775796e450aefa5"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2027/tec-seminar-ruru-hoong-mit-sloan",
+  "title": "TEC Seminar: Ruru Hoong, MIT Sloan",
+  "start_utc": "2027-04-06T19:30:00Z",
+  "series": "TEC",
+  "location": "North Hall 2111",
+  "speaker": "Ruru Hoong, MIT Sloan",
+  "talk_title": "",
+  "hosted_by": [
+   "Jason Somerville"
+  ],
+  "bio": "Ruru Hoong is an Assistant Professor of Marketing at the MIT Sloan School of Management. Her research examines how organizations should design and integrate new digital technologies, particularly artificial intelligence, into decision-making. She asks not only whether AI improves decisions, but who benefits, on which tasks, and under what organizational conditions---highlighting why the same technology can generate sharply uneven gains across people, tasks, and firms. Hoong also studies how digital technologies shape consumer behavior and welfare. Her research examines how platform and product design affect self-control, engagement, and wellbeing; how consumers choose among and develop preferences for new technologies; and how technological change reshapes what people value more broadly. Across these areas, she combines economic theory with field experiments, large-scale data, and quantitative methods to understand how technologies can be designed and deployed to improve decision quality, organizational performance, and longer-run wellbeing. Hoong’s research has received several honors, including the David A. Wells Prize for Best Dissertation from Harvard University in 2026, the Vithala Rao Best PhD Paper Award at the 2026 AI in Management Conference, an Exemplary Paper Award at the 2026 ACM Conference on Economics and Computation (EC ’26), and Best Conference Paper, Runner-Up, at the 2025 Conference on Information Systems and Technology (CIST). She graduated from Stanford in",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "63d870fe43ed702c"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-audrey-guo-santa-clara-university",
   "title": "CARE Seminar: Audrey Guo, Santa Clara University",
   "start_utc": "2027-04-07T22:30:00Z",
@@ -723,6 +740,40 @@
   "content_hash": "88b17aaad2a55187"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2027/tec-seminar-francesco-fabbri-uc-berkeley",
+  "title": "TEC Seminar: Francesco Fabbri, UC Berkeley",
+  "start_utc": "2027-04-20T19:30:00Z",
+  "series": "TEC",
+  "location": "North Hall 2111",
+  "speaker": "Francesco Fabbri, UC Berkeley",
+  "talk_title": "",
+  "hosted_by": [
+   "Jason Somerville"
+  ],
+  "bio": "I am a microeconomist. My research focuses on information frictions and uncertainty in games and decision problems. ​​I will join the Department of Economics at Columbia University as an Assistant Professor in 2027.​ I completed my PhD in Economics at Princeton University in 2025.",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "088da5fecf0e49dd"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/tec-seminar-francesca-bastianello-university-chicago-booth",
+  "title": "TEC Seminar: Francesca Bastianello, University of Chicago Booth",
+  "start_utc": "2027-04-27T19:30:00Z",
+  "series": "TEC",
+  "location": "North Hall 2111",
+  "speaker": "Francesca Bastianello, University of Chicago Booth",
+  "talk_title": "",
+  "hosted_by": [
+   "Jason Somerville"
+  ],
+  "bio": "Francesca Bastianello’s research interests lie at the intersection of finance, macroeconomics, and behavioral economics. In her research she builds on insights from behavioral economics to develop tractable models of non-rational beliefs, and studies their aggregate financial and macroeconomic implications. Bastianello earned a Ph.D. in Business Economics from Harvard University, and also holds an M.Phil. in Economic Research and a B.A. in Economics from the University of Cambridge, Trinity College.",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "cac94aa8d68d79de"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-chris-whaley-brown-public-health",
   "title": "CARE Seminar: Chris Whaley, Brown - Public Health",
   "start_utc": "2027-04-28T22:30:00Z",
@@ -755,6 +806,23 @@
   "minutes": 90,
   "seq": 2,
   "content_hash": "28e57e7061543706"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/tec-seminar-tristan-gagnon-bartsch-university-iowa",
+  "title": "TEC Seminar: Tristan Gagnon-Bartsch, University of Iowa",
+  "start_utc": "2027-05-11T19:30:00Z",
+  "series": "TEC",
+  "location": "North Hall 2111",
+  "speaker": "Tristan Gagnon-Bartsch, University of Iowa",
+  "talk_title": "",
+  "hosted_by": [
+   "Jason Somerville"
+  ],
+  "bio": "I am an Assistant Professor in the Economics Department at the University of Iowa, Tippie College of Business. I am a behavioral economist working with a mix of economic theory and experiments. Much of my research studies errors in belief formation, how these errors distort markets, and how they might be corrected.",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "afc77da130caf521"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-guo-xu-berkeley-haas",

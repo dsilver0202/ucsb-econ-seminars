@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fa5d7b5b9d445086e44a@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20261105T233000Z
 DTEND:20261106T010000Z
 SUMMARY:MACRO Seminar: Fahad Sale h\, University of Florida - The Economi
@@ -38,32 +38,35 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c0c723cc43957daea988@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20261112T233000Z
 DTEND:20261113T010000Z
-SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University
+SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University -
+  Competitive dispersion\, markups\, and welfare
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Sephorah Mangin\, Australian National University\nHo
- sted by: Peter Rupert\n\nSephorah Mangin is an Associate Professor in Ec
- onomics. Her research interests include macroeconomics\, search theory\,
-  labour economics\, economic growth\, and industrial organisation. She h
- as conducted research at the Becker Friedman Institute at the University
-  of Chicago\, and is an Associate Editor at the European Economic Review
- . Sephorah has published her research in a number of prestigious peer-re
- viewed journals including the Journal of Economic Theory\, the Journal o
- f Monetary Economics\, the RAND Journal of Economics\, and Econometrica.
- \n\nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-
- australian-national-university
+DESCRIPTION:Speaker: Sephorah Mangin\, Australian National University\nTi
+ tle: "Competitive dispersion\, markups\, and welfare"\nHosted by: Peter 
+ Rupert\n\nHow does the distribution of competition across buyers affect 
+ markups and markup dispersion? To answer this question\, we introduce th
+ e concept of competitive dispersion. Competitive dispersion refers to di
+ spersion in the degree of effective competition for different buyers. We
+  study the effects of competitive dispersion on markups and markup dispe
+ rsion in a Burdett-Judd search-theoretic model of imperfect competition.
+  We show that greater competitive dispersion can either increase or decr
+ ease both the aggregate markup and markup dispersion. When we calibrate 
+ the model\, we find that the welfare effect of competitive dispersion is
+  quantitatively significant.\n\nhttps://econ.ucsb.edu/events/all/2026/ma
+ cro-seminar-sephorah-mangin-australian-national-university
 URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-sephorah-mangin-a
  ustralian-national-university
 CATEGORIES:MACRO
-SEQUENCE:2
+SEQUENCE:3
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ab7fa195f00737358adf@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20261119T233000Z
 DTEND:20261120T010000Z
 SUMMARY:MACRO Seminar: Jeremy Pearce\, Federal Reserve Bank of New York
@@ -85,7 +88,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8ffd4669ee7dc498ec3f@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20270107T233000Z
 DTEND:20270108T010000Z
 SUMMARY:MACRO Seminar: Yang Gao\, University of Auckland
@@ -111,7 +114,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5bfb5ccf61ec1b61e9@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20270114T233000Z
 DTEND:20270115T010000Z
 SUMMARY:MACRO Seminar: Jeremy Greenwood\, University of Pennsylvania
@@ -149,7 +152,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:75f6f5a63b361faf4aa9@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20270304T233000Z
 DTEND:20270305T010000Z
 SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey\, London School of Economics

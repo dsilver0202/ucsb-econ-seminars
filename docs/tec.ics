@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:3527763d8bae26908fc8@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20261110T203000Z
 DTEND:20261110T220000Z
 SUMMARY:TEC Seminar: Ori Heffetz\, Cornell University - Explaining Mechan
@@ -34,7 +34,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0904854bba00b9e45edf@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20261117T203000Z
 DTEND:20261117T220000Z
 SUMMARY:TEC Seminar: Kirby Nielsen\, Cal Tech
@@ -51,7 +51,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8d1b3a8165a4f122bb42@econ.ucsb.edu
-DTSTAMP:20261102T221008Z
+DTSTAMP:20261103T195815Z
 DTSTART:20261201T203000Z
 DTEND:20261201T220000Z
 SUMMARY:TEC Seminar: Paulo Natenzon\, Washington University in Saint Loui
@@ -62,6 +62,111 @@ DESCRIPTION:Speaker: Paulo Natenzon\, Washington University in Saint Loui
  tec-seminar-paulo-natenzon-washington-university-saint-louis
 URL:https://econ.ucsb.edu/events/all/2026/tec-seminar-paulo-natenzon-wash
  ington-university-saint-louis
+CATEGORIES:TEC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b5d3a4aeddb93b9e3c2@econ.ucsb.edu
+DTSTAMP:20261103T195815Z
+DTSTART:20270406T193000Z
+DTEND:20270406T210000Z
+SUMMARY:TEC Seminar: Ruru Hoong\, MIT Sloan
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Ruru Hoong\, MIT Sloan\nHosted by: Jason Somerville\
+ n\nRuru Hoong is an Assistant Professor of Marketing at the MIT Sloan Sc
+ hool of Management. Her research examines how organizations should desig
+ n and integrate new digital technologies\, particularly artificial intel
+ ligence\, into decision-making. She asks not only whether AI improves de
+ cisions\, but who benefits\, on which tasks\, and under what organizatio
+ nal conditions---highlighting why the same technology can generate sharp
+ ly uneven gains across people\, tasks\, and firms. Hoong also studies ho
+ w digital technologies shape consumer behavior and welfare. Her research
+  examines how platform and product design affect self-control\, engageme
+ nt\, and wellbeing\; how consumers choose among and develop preferences 
+ for new technologies\; and how technological change reshapes what people
+  value more broadly. Across these areas\, she combines economic theory w
+ ith field experiments\, large-scale data\, and quantitative methods to u
+ nderstand how technologies can be designed and deployed to improve decis
+ ion quality\, organizational performance\, and longer-run wellbeing. Hoo
+ ng’s research has received several honors\, including the David A. Wel
+ ls Prize for Best Dissertation from Harvard University in 2026\, the Vit
+ hala Rao Best PhD Paper Award at the 2026 AI in Management Conference\, 
+ an Exemplary Paper Award at the 2026 ACM Conference on Economics and Com
+ putation (EC ’26)\, and Best Conference Paper\, Runner-Up\, at the 202
+ 5 Conference on Information Systems and Technology (CIST). She graduated
+  from Stanford in\n\nhttps://econ.ucsb.edu/events/all/2027/tec-seminar-r
+ uru-hoong-mit-sloan
+URL:https://econ.ucsb.edu/events/all/2027/tec-seminar-ruru-hoong-mit-sloa
+ n
+CATEGORIES:TEC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c192a0ac50ce24f2a444@econ.ucsb.edu
+DTSTAMP:20261103T195815Z
+DTSTART:20270420T193000Z
+DTEND:20270420T210000Z
+SUMMARY:TEC Seminar: Francesco Fabbri\, UC Berkeley
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Francesco Fabbri\, UC Berkeley\nHosted by: Jason Som
+ erville\n\nI am a microeconomist. My research focuses on information fri
+ ctions and uncertainty in games and decision problems. ​​I will join
+  the Department of Economics at Columbia University as an Assistant Prof
+ essor in 2027.​ I completed my PhD in Economics at Princeton Universit
+ y in 2025.\n\nhttps://econ.ucsb.edu/events/all/2027/tec-seminar-francesc
+ o-fabbri-uc-berkeley
+URL:https://econ.ucsb.edu/events/all/2027/tec-seminar-francesco-fabbri-uc
+ -berkeley
+CATEGORIES:TEC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7a761f422904aadb8a1@econ.ucsb.edu
+DTSTAMP:20261103T195815Z
+DTSTART:20270427T193000Z
+DTEND:20270427T210000Z
+SUMMARY:TEC Seminar: Francesca Bastianello\, University of Chicago Booth
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Francesca Bastianello\, University of Chicago Booth\
+ nHosted by: Jason Somerville\n\nFrancesca Bastianello’s research inter
+ ests lie at the intersection of finance\, macroeconomics\, and behaviora
+ l economics. In her research she builds on insights from behavioral econ
+ omics to develop tractable models of non-rational beliefs\, and studies 
+ their aggregate financial and macroeconomic implications. Bastianello ea
+ rned a Ph.D. in Business Economics from Harvard University\, and also ho
+ lds an M.Phil. in Economic Research and a B.A. in Economics from the Uni
+ versity of Cambridge\, Trinity College.\n\nhttps://econ.ucsb.edu/events/
+ all/2027/tec-seminar-francesca-bastianello-university-chicago-booth
+URL:https://econ.ucsb.edu/events/all/2027/tec-seminar-francesca-bastianel
+ lo-university-chicago-booth
+CATEGORIES:TEC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dcb7ea7da840080d3a4d@econ.ucsb.edu
+DTSTAMP:20261103T195815Z
+DTSTART:20270511T193000Z
+DTEND:20270511T210000Z
+SUMMARY:TEC Seminar: Tristan Gagnon-Bartsch\, University of Iowa
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Tristan Gagnon-Bartsch\, University of Iowa\nHosted 
+ by: Jason Somerville\n\nI am an Assistant Professor in the Economics Dep
+ artment at the University of Iowa\, Tippie College of Business. I am a b
+ ehavioral economist working with a mix of economic theory and experiment
+ s. Much of my research studies errors in belief formation\, how these er
+ rors distort markets\, and how they might be corrected.\n\nhttps://econ.
+ ucsb.edu/events/all/2027/tec-seminar-tristan-gagnon-bartsch-university-i
+ owa
+URL:https://econ.ucsb.edu/events/all/2027/tec-seminar-tristan-gagnon-bart
+ sch-university-iowa
 CATEGORIES:TEC
 SEQUENCE:0
 STATUS:CONFIRMED
