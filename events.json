@@ -297,6 +297,21 @@
   "content_hash": "162e88b1d1da432d"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-randall-wright-university-wisconsin-madison",
+  "title": "MACRO Seminar: Randall Wright, University of Wisconsin, Madison",
+  "start_utc": "2026-11-09T23:30:00Z",
+  "series": "MACRO",
+  "location": "North Hall 2111",
+  "speaker": "Randall Wright, University of Wisconsin, Madison",
+  "talk_title": "\"Money and Banking and Insurance\"",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "69fd02dfef0e6fca"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-ori-heffetz-cornell-university",
   "title": "TEC Seminar: Ori Heffetz, Cornell University",
   "start_utc": "2026-11-10T20:30:00Z",
