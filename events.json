@@ -738,23 +738,6 @@
   "content_hash": "5e628a56685f3593"
  },
  {
-  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-leonardo-bursztyn-university-chicago",
-  "title": "CARE Seminar: Leonardo Bursztyn, University of Chicago",
-  "start_utc": "2027-04-14T22:30:00Z",
-  "series": "CARE",
-  "location": "North Hall 2111",
-  "speaker": "Leonardo Bursztyn, University of Chicago",
-  "talk_title": "",
-  "hosted_by": [
-   "Heather Royer"
-  ],
-  "bio": "Leonardo Bursztyn is the Saieh Family Professor of Economics at the University of Chicago. He is also an Editor of the Journal of Political Economy, the co-director of the Becker Friedman Institute Political Economics Initiative and of the Program in Behavioral Economics Research, and the founder and director of the Normal Lab. His research seeks to better understand how individuals' main economic decisions are shaped by their social environments. His work has examined educational, labor market, financial, consumption, and political decisions, both in developing and developed countries. Leonardo is a Research Associate at the National Bureau of Economic Research (NBER), a fellow at the Bureau for Research and Economic Analysis of Development (BREAD), and an affiliate at the Abdul Latif Jameel Poverty Action Lab (J-PAL) and at the Pearson Institute. He is also the recipient of a 2016 Sloan Research Fellowship. He received his PhD in economics at Harvard University in 2010.",
-  "abstract": "",
-  "minutes": 90,
-  "seq": 2,
-  "content_hash": "88b17aaad2a55187"
- },
- {
   "url": "https://econ.ucsb.edu/events/all/2027/tec-seminar-francesco-fabbri-uc-berkeley",
   "title": "TEC Seminar: Francesco Fabbri, UC Berkeley",
   "start_utc": "2027-04-20T19:30:00Z",
@@ -872,5 +855,22 @@
   "minutes": 90,
   "seq": 2,
   "content_hash": "e17181c846de85eb"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-leonardo-bursztyn-university-chicago",
+  "title": "CARE Seminar: Leonardo Bursztyn, University of Chicago",
+  "start_utc": "2027-06-02T22:30:00Z",
+  "series": "CARE",
+  "location": "North Hall 2111",
+  "speaker": "Leonardo Bursztyn, University of Chicago",
+  "talk_title": "",
+  "hosted_by": [
+   "Heather Royer"
+  ],
+  "bio": "Leonardo Bursztyn is the Saieh Family Professor of Economics at the University of Chicago. He is also an Editor of the Journal of Political Economy, the co-director of the Becker Friedman Institute Political Economics Initiative and of the Program in Behavioral Economics Research, and the founder and director of the Normal Lab. His research seeks to better understand how individuals' main economic decisions are shaped by their social environments. His work has examined educational, labor market, financial, consumption, and political decisions, both in developing and developed countries. Leonardo is a Research Associate at the National Bureau of Economic Research (NBER), a fellow at the Bureau for Research and Economic Analysis of Development (BREAD), and an affiliate at the Abdul Latif Jameel Poverty Action Lab (J-PAL) and at the Pearson Institute. He is also the recipient of a 2016 Sloan Research Fellowship. He received his PhD in economics at Harvard University in 2010.",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 3,
+  "content_hash": "a44ad9a2ccefbda6"
  }
 ]
