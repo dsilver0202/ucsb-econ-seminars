@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fa5d7b5b9d445086e44a@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20261105T233000Z
 DTEND:20261106T010000Z
 SUMMARY:MACRO Seminar: Fahad Sale h\, University of Florida - The Economi
@@ -38,7 +38,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5e679eb52f2a57105ef9@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20261109T233000Z
 DTEND:20261110T010000Z
 SUMMARY:MACRO Seminar: Randall Wright\, University of Wisconsin\, Madison
@@ -56,7 +56,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c0c723cc43957daea988@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20261112T233000Z
 DTEND:20261113T010000Z
 SUMMARY:MACRO Seminar: Sephorah Mangin\, Australian National University -
@@ -84,32 +84,57 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ab7fa195f00737358adf@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20261119T233000Z
 DTEND:20261120T010000Z
 SUMMARY:MACRO Seminar: Jeremy Pearce\, Federal Reserve Bank of New York -
   “Market Concentration and Aggregate Productivity: The Role of Demand
- ”
+ ” Abstract In the typical market\, a few large firms hold their positi
+ ons through advantages in productivity and in demand. Grounded in new fa
+ cts on firms’ marketing expenditures\, we build a model with oligopoli
+ stic firms that invest in demand to complement their productivity and en
+ trench their market power. Because markups rise with market share\, the 
+ return to marketing peaks for firms with significant pre-existing custom
+ er capital. This can create a legacy effect where unproductive firms ret
+ ain large market share through investments in demand. “Good” concent
+ ration is productivity-driven\; “bad” demand-driven concentration ca
+ n persist due to the legacy effect. Aggregate productivity is about 5% b
+ elow the level a planner reaches by correcting the strategic incentive w
+ hile paying the same cost of adjusting demand that firms do. Standard si
+ ze-based policies can backfire by entrenching incumbents.
 LOCATION:North Hall 2111
 DESCRIPTION:Speaker: Jeremy Pearce\, Federal Reserve Bank of New York\nTi
  tle: “Market Concentration and Aggregate Productivity: The Role of Dem
- and”\nHosted by: Yueyuan Ma\n\nI am a Research Economist at the Federa
- l Reserve Bank of New York in Labor and Product Markets. I obtained my P
- h.D. from the University of Chicago. My main research is in macroeconomi
- cs\, with an emphasis on firm dynamics\, productivity\, and economic gro
- wth. For more\, find my research page or my CV. Contact: jeremy.pearce@n
- y.frb.org\n\nhttps://econ.ucsb.edu/events/all/2026/macro-seminar-jeremy-
- pearce-federal-reserve-bank-new-york
+ and” Abstract In the typical market\, a few large firms hold their pos
+ itions through advantages in productivity and in demand. Grounded in new
+  facts on firms’ marketing expenditures\, we build a model with oligop
+ olistic firms that invest in demand to complement their productivity and
+  entrench their market power. Because markups rise with market share\, t
+ he return to marketing peaks for firms with significant pre-existing cus
+ tomer capital. This can create a legacy effect where unproductive firms 
+ retain large market share through investments in demand. “Good” conc
+ entration is productivity-driven\; “bad” demand-driven concentration
+  can persist due to the legacy effect. Aggregate productivity is about 5
+ % below the level a planner reaches by correcting the strategic incentiv
+ e while paying the same cost of adjusting demand that firms do. Standard
+  size-based policies can backfire by entrenching incumbents.\nHosted by:
+  Yueyuan Ma\n\nI am a Research Economist at the Federal Reserve Bank of 
+ New York in Labor and Product Markets. I obtained my Ph.D. from the Univ
+ ersity of Chicago. My main research is in macroeconomics\, with an empha
+ sis on firm dynamics\, productivity\, and economic growth. For more\, fi
+ nd my research page or my CV. Contact: jeremy.pearce@ny.frb.org\n\nhttps
+ ://econ.ucsb.edu/events/all/2026/macro-seminar-jeremy-pearce-federal-res
+ erve-bank-new-york
 URL:https://econ.ucsb.edu/events/all/2026/macro-seminar-jeremy-pearce-fed
  eral-reserve-bank-new-york
 CATEGORIES:MACRO
-SEQUENCE:3
+SEQUENCE:4
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8ffd4669ee7dc498ec3f@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20270107T233000Z
 DTEND:20270108T010000Z
 SUMMARY:MACRO Seminar: Yang Gao\, University of Auckland
@@ -135,7 +160,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5bfb5ccf61ec1b61e9@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20270114T233000Z
 DTEND:20270115T010000Z
 SUMMARY:MACRO Seminar: Jeremy Greenwood\, University of Pennsylvania
@@ -173,7 +198,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:75f6f5a63b361faf4aa9@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20270304T233000Z
 DTEND:20270305T010000Z
 SUMMARY:MACRO Seminar: Jane Olmstead-Rumsey\, London School of Economics

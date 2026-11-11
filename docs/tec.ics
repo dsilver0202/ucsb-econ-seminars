@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:3527763d8bae26908fc8@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20261110T203000Z
 DTEND:20261110T220000Z
 SUMMARY:TEC Seminar: Ori Heffetz\, Cornell University - Explaining Mechan
@@ -34,24 +34,43 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0904854bba00b9e45edf@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20261117T203000Z
 DTEND:20261117T220000Z
-SUMMARY:TEC Seminar: Kirby Nielsen\, Cal Tech
+SUMMARY:TEC Seminar: Kirby Nielsen\, Cal Tech - Learning through the Grap
+ evine: An Experiment on Endogenous Information Transmission" (joint with
+  Marina Agranov)
 LOCATION:North Hall 2111
-DESCRIPTION:Speaker: Kirby Nielsen\, Cal Tech\nHosted by: Jason Somervill
- e\n\nhttps://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal
- -tech
+DESCRIPTION:Speaker: Kirby Nielsen\, Cal Tech\nTitle: "Learning through t
+ he Grapevine: An Experiment on Endogenous Information Transmission" (joi
+ nt with Marina Agranov)\nHosted by: Jason Somerville\n\nWe study informa
+ tion transmission and learning when a Sender can choose the form of info
+ rmation to send: the exogenous signal they received\, their posterior be
+ lief\, or their binary guess of the state. We find that Senders send all
+  three pieces of information at times\, but Senders shift toward sending
+  the posterior rather than the signal they received when their posterior
+ s are extreme. Receivers are more responsive to all forms of information
+  than Senders are to signals and this results in greater learning\, thou
+ gh the type of message that produces this effect varies with the environ
+ ment. We contrast this with an environment where Receivers receive the s
+ ame information sent exogenously\; in this environment\, Receivers are n
+ o more responsive to information than Senders are and subsequently learn
+  no more than Senders learn. Finally\, when Senders have incentive to pe
+ rsuade rather than incentives for accuracy\, Receivers are still more re
+ sponsive to information than Senders are\, but the information they rece
+ ive is less informative as a result of Senders' incentives\, so the Rece
+ iver learning advantage disappears.\n\nhttps://econ.ucsb.edu/events/all/
+ 2026/tec-seminar-kirby-nielsen-cal-tech
 URL:https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-t
  ech
 CATEGORIES:TEC
-SEQUENCE:2
+SEQUENCE:3
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8d1b3a8165a4f122bb42@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20261201T203000Z
 DTEND:20261201T220000Z
 SUMMARY:TEC Seminar: Paulo Natenzon\, Washington University in Saint Loui
@@ -69,7 +88,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9b5d3a4aeddb93b9e3c2@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20270406T193000Z
 DTEND:20270406T210000Z
 SUMMARY:TEC Seminar: Ruru Hoong\, MIT Sloan
@@ -107,7 +126,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c192a0ac50ce24f2a444@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20270420T193000Z
 DTEND:20270420T210000Z
 SUMMARY:TEC Seminar: Francesco Fabbri\, UC Berkeley
@@ -128,7 +147,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a7a761f422904aadb8a1@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20270427T193000Z
 DTEND:20270427T210000Z
 SUMMARY:TEC Seminar: Francesca Bastianello\, University of Chicago Booth
@@ -152,7 +171,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:dcb7ea7da840080d3a4d@econ.ucsb.edu
-DTSTAMP:20261110T201537Z
+DTSTAMP:20261111T200043Z
 DTSTART:20270511T193000Z
 DTEND:20270511T210000Z
 SUMMARY:TEC Seminar: Tristan Gagnon-Bartsch\, University of Iowa

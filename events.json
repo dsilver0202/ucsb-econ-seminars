@@ -427,15 +427,15 @@
   "series": "TEC",
   "location": "North Hall 2111",
   "speaker": "Kirby Nielsen, Cal Tech",
-  "talk_title": "",
+  "talk_title": "\"Learning through the Grapevine: An Experiment on Endogenous Information Transmission\" (joint with Marina Agranov)",
   "hosted_by": [
    "Jason Somerville"
   ],
   "bio": "",
-  "abstract": "",
+  "abstract": "We study information transmission and learning when a Sender can choose the form of information to send: the exogenous signal they received, their posterior belief, or their binary guess of the state. We find that Senders send all three pieces of information at times, but Senders shift toward sending the posterior rather than the signal they received when their posteriors are extreme. Receivers are more responsive to all forms of information than Senders are to signals and this results in greater learning, though the type of message that produces this effect varies with the environment. We contrast this with an environment where Receivers receive the same information sent exogenously; in this environment, Receivers are no more responsive to information than Senders are and subsequently learn no more than Senders learn. Finally, when Senders have incentive to persuade rather than incentives for accuracy, Receivers are still more responsive to information than Senders are, but the information they receive is less informative as a result of Senders' incentives, so the Receiver learning advantage disappears.",
   "minutes": 90,
-  "seq": 2,
-  "content_hash": "dba03b1c10487aff"
+  "seq": 3,
+  "content_hash": "ea5a2f1824b6c234"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-felipe-lobel-duke",
@@ -444,15 +444,15 @@
   "series": "CARE",
   "location": "North Hall 2111",
   "speaker": "Felipe Lobel, Duke",
-  "talk_title": "",
+  "talk_title": "\"Market Power and VAT Incidence Along the Production Network\"",
   "hosted_by": [
    "Youssef Benzarti"
   ],
   "bio": "I combine theory and large administrative data to study how corporate behavior and public policy interact in the presence of market failures. Building on this, my recent work examines business taxation, cash transfers, and housing policy. I am an Assistant Professor of Economics at Duke University, since 2026. I completed my PhD in Economics at UC Berkeley and was a postdoctoral fellow at Columbia and Stanford University.",
-  "abstract": "",
+  "abstract": "We study how VAT cuts propagate through production networks. Using a large reform in Brazil and transaction-level administrative tax data, we trace effects on prices and quantities along the supply chain. Difference-indifferences estimates reveal overshifting in distributor prices, indicating that upstream firms absorb part of the tax cut. We interpret these findings through a model of imperfect competition in a vertically linked network. Structural estimates show that the tax cut compresses upstream markups, amplifying pass-through to consumers. Our results challenge the classical VAT neutrality benchmark and the view that incidence can be summarized by consumer market elasticities alone.",
   "minutes": 90,
-  "seq": 2,
-  "content_hash": "3ee741bd2cdabf22"
+  "seq": 3,
+  "content_hash": "a1a7a65739118613"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/macro-seminar-jeremy-pearce-federal-reserve-bank-new-york",
@@ -461,15 +461,15 @@
   "series": "MACRO",
   "location": "North Hall 2111",
   "speaker": "Jeremy Pearce, Federal Reserve Bank of New York",
-  "talk_title": "“Market Concentration and Aggregate Productivity: The Role of Demand”",
+  "talk_title": "“Market Concentration and Aggregate Productivity: The Role of Demand” Abstract In the typical market, a few large firms hold their positions through advantages in productivity and in demand. Grounded in new facts on firms’ marketing expenditures, we build a model with oligopolistic firms that invest in demand to complement their productivity and entrench their market power. Because markups rise with market share, the return to marketing peaks for firms with significant pre-existing customer capital. This can create a legacy effect where unproductive firms retain large market share through investments in demand. “Good” concentration is productivity-driven; “bad” demand-driven concentration can persist due to the legacy effect. Aggregate productivity is about 5% below the level a planner reaches by correcting the strategic incentive while paying the same cost of adjusting demand that firms do. Standard size-based policies can backfire by entrenching incumbents.",
   "hosted_by": [
    "Yueyuan Ma"
   ],
   "bio": "I am a Research Economist at the Federal Reserve Bank of New York in Labor and Product Markets. I obtained my Ph.D. from the University of Chicago. My main research is in macroeconomics, with an emphasis on firm dynamics, productivity, and economic growth. For more, find my research page or my CV. Contact: jeremy.pearce@ny.frb.org",
   "abstract": "",
   "minutes": 90,
-  "seq": 3,
-  "content_hash": "ca9c42951ae68113"
+  "seq": 4,
+  "content_hash": "2eef72702dbc0c66"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/amel-camila-paleo-university-california-santa-barbara",
