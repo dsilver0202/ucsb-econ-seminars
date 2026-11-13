@@ -470,6 +470,21 @@
   "content_hash": "a291f83b97b67893"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-wealth-inequality-structural-access-kyle-araki",
+  "title": "Advancement to Candidacy Presentation: “Wealth Inequality as Structural Access”, Kyle Araki-Chew, University of California, Santa Barbara",
+  "start_utc": "2026-12-01T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2113",
+  "speaker": "Kyle Araki-Chew, University of California, Santa Barbara",
+  "talk_title": "“Wealth Inequality as Structural Access”",
+  "hosted_by": [],
+  "bio": "Kyle Araki is a fourth-year Ph.D. student in Economics at the University of California, Santa Barbara. He holds a B.S. in Joint Mathematics–Economics from UC San Diego (2023). His current research asks how much of U.S. wealth concentration, and of the gap in returns between rich and poor households, comes from the rules of household saving — the terms of credit and stock-market participation, employer retirement plans, Roth IRAs, and the regulations governing access to private investments — rather than from traits of households. His broader interests include household finance and public economics.",
+  "abstract": "Returns on wealth rise with wealth, and models of the wealth distribution usually attribute this gap to traits of households. This paper asks how much of the gap, and of wealth concentration, comes instead from the rules that decide which savings tools each household can use: the prices of credit, cash and stock ownership, the rules of 401(k)s and Roth IRAs, and the accredited-investor test. I build a model of ex ante identical households whose saving follows imposed rules and whose portfolios are chosen optimally. The model economy lives through the actual 1928–2025 U.S. market history, with each rule on its real calendar, and is fitted to the Survey of Consumer Finances 2016–2025. The prices of access to credit, cash and stocks produce the losses at the indebted bottom of the U.S. return gap and 38–49% of its climb above the median. Private equity in IRAs makes the Roth IRA’s tax benefit top-heavy. A top-1% household’s Roth escapes about 25 times the tax of a 50th–90th household’s; barring private equity from IRAs would cut the top 1%’s share of the benefit from 22% to 9% and leave the middle’s untouched. Yet Roths hold the 2025 top 1% share of financial wealth 0.5–0.8 percentage points lower and add $0.9–1.6 trillion of household wealth, more than half of it in the 50th–90th percentiles, because the contribution cap keeps Roth wealth small at the top. The private-equity access rules move the top 1% share by 0.2 percentage points or less, because one fund’s risk keeps household stakes small. Putting 10% private equity in 401(k) default funds from 2006 would have lowered the top 1% share by 0.3 percentage points and raised tax revenue. JEL Classification Codes: D31, E21, G11, G28, G51, H24",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "3c595bb1fd7aef1b"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-paulo-natenzon-washington-university-saint-louis",
   "title": "TEC Seminar: Paulo Natenzon, Washington University in Saint Louis",
   "start_utc": "2026-12-01T20:30:00Z",

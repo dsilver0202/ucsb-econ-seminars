@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe882721bc981f0d7ba@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261008T223000Z
 DTEND:20261009T000000Z
 SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
@@ -85,7 +85,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:56d17f18cefd2d281c9e@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
 SUMMARY:Graduate Events: UCSB Graduate Open House and Prospective Graduat
@@ -102,7 +102,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261013T223000Z
 DTEND:20261014T000000Z
 SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
@@ -141,7 +141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261015T223000Z
 DTEND:20261016T000000Z
 SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
@@ -178,7 +178,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4525f480e09577d97162@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261020T223000Z
 DTEND:20261021T000000Z
 SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
@@ -213,7 +213,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:606d4b60edddc1a75ea2@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261022T223000Z
 DTEND:20261023T000000Z
 SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
@@ -245,7 +245,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:695624000182a6c167e9@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261113T210000Z
 DTEND:20261113T223000Z
 SUMMARY:Graduate Events: Ricardo Jose Ramos Fontes\, University of Califo
@@ -292,7 +292,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e3991ffe7feda125dbbf@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Graduate Events: Ryo Aono\, University of California Santa Barbar
@@ -329,7 +329,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0f2ce931a83ec5717058@econ.ucsb.edu
-DTSTAMP:20261112T204000Z
+DTSTAMP:20261113T202056Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Graduate Events: Lars Leimkühler\, University of California\, Sa
@@ -357,6 +357,50 @@ DESCRIPTION:Speaker: Lars Leimkühler\, University of California\, Santa
  ndidacy-presentation-crossing-line-evidence-spillovers-los-angeles
 URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
  ion-crossing-line-evidence-spillovers-los-angeles
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3decd17dbf16ab3ff75c@econ.ucsb.edu
+DTSTAMP:20261113T202056Z
+DTSTART:20261201T180000Z
+DTEND:20261201T193000Z
+SUMMARY:Graduate Events: Kyle Araki-Chew\, University of California\, San
+ ta Barbara - “Wealth Inequality as Structural Access”
+LOCATION:North Hall 2113
+DESCRIPTION:Speaker: Kyle Araki-Chew\, University of California\, Santa B
+ arbara\nTitle: “Wealth Inequality as Structural Access”\n\nReturns o
+ n wealth rise with wealth\, and models of the wealth distribution usuall
+ y attribute this gap to traits of households. This paper asks how much o
+ f the gap\, and of wealth concentration\, comes instead from the rules t
+ hat decide which savings tools each household can use: the prices of cre
+ dit\, cash and stock ownership\, the rules of 401(k)s and Roth IRAs\, an
+ d the accredited-investor test. I build a model of ex ante identical hou
+ seholds whose saving follows imposed rules and whose portfolios are chos
+ en optimally. The model economy lives through the actual 1928–2025 U.S
+ . market history\, with each rule on its real calendar\, and is fitted t
+ o the Survey of Consumer Finances 2016–2025. The prices of access to c
+ redit\, cash and stocks produce the losses at the indebted bottom of the
+  U.S. return gap and 38–49% of its climb above the median. Private equ
+ ity in IRAs makes the Roth IRA’s tax benefit top-heavy. A top-1% house
+ hold’s Roth escapes about 25 times the tax of a 50th–90th household
+ ’s\; barring private equity from IRAs would cut the top 1%’s share o
+ f the benefit from 22% to 9% and leave the middle’s untouched. Yet Rot
+ hs hold the 2025 top 1% share of financial wealth 0.5–0.8 percentage p
+ oints lower and add $0.9–1.6 trillion of household wealth\, more than 
+ half of it in the 50th–90th percentiles\, because the contribution cap
+  keeps Roth wealth small at the top. The private-equity access rules mov
+ e the top 1% share by 0.2 percentage points or less\, because one fund
+ ’s risk keeps household stakes small. Putting 10% private equity in 40
+ 1(k) default funds from 2006 would have lowered the top 1% share by 0.3 
+ percentage points and raised tax revenue. JEL Classification Codes: D31\
+ , E21\, G11\, G28\, G51\, H24\n\nhttps://econ.ucsb.edu/events/all/2026/a
+ dvancement-candidacy-presentation-wealth-inequality-structural-access-ky
+ le-araki
+URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
+ ion-wealth-inequality-structural-access-kyle-araki
 CATEGORIES:GRADUATE
 SEQUENCE:0
 STATUS:CONFIRMED
