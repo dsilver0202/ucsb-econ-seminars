@@ -374,21 +374,6 @@
   "content_hash": "1ab89054a03d7bd0"
  },
  {
-  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-underprovision-local-governments-during-aging",
-  "title": "Advancement to Candidacy Presentation: “Underprovision by Local Governments During Aging”, Ryo Aono",
-  "start_utc": "2026-11-17T18:00:00Z",
-  "series": "GRADUATE",
-  "location": "North Hall 2113",
-  "speaker": "Ryo Aono, University of California Santa Barbara",
-  "talk_title": "“Underprovision by Local Governments During Aging”",
-  "hosted_by": [],
-  "bio": "Ryo Aono is a Ph.D. student in Economics at the University of California, Santa Barbara with focus on Macroeconomics. Specifically, he explores the relationship between the government and macroeconomy and the factors contributing to variations in economic growth trajectories among developed countries. Prior to joining UCSB, he had accumulated over ten years of experience in the Government of Japan, specializing in local government finance. He also served as a manager in a local government and as a diplomat at the Consulate General of Japan in San Francisco, providing valuable insights for his research. He earned his bachelor’s degree of Economics from Kyoto University in 2012.",
-  "abstract": "Local governments in developed countries increasingly struggle to maintain public goods provision as populations age. Using government finance data for 22 OECD countries from 1995 to 2019, I find that, as the dependency ratio rises, local governments tend to cut both investment in stock public goods and expenditure on flow public goods, while central governments tend to cut investment slightly and increase flow public goods as well as social benefits. To explain these patterns, I build a calibrated OLG model in which central and local governments play a time-consistent Stackelberg game over a shared tax base, under rigid rules for pensions and grants. Rising pension obligations raise central taxes, which, through a vertical tax externality and smaller grants, constrain local revenue. With more efficient central tax collection and higher substitutability across tiers for flow than for stock public goods, the model reproduces the observed responses: public goods provision becomes more centralized, and composite provision declines. Moderately lowering the pension replacement rate and the grant rate improves welfare by stimulating household savings and improving the efficiency of public resource allocation. JEL Classification Codes: H54, H55, H72, H77, J11",
-  "minutes": 90,
-  "seq": 0,
-  "content_hash": "40f335d5de8ebb46"
- },
- {
   "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-crossing-line-evidence-spillovers-los-angeles",
   "title": "Advancement to Candidacy Presentation: “Crossing the Line: Evidence of Spillovers from the Los Angeles Mansion Tax”, Lars Leimkühler, University of California, Santa Barbara",
   "start_utc": "2026-11-17T18:00:00Z",
@@ -402,6 +387,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "db728eb3ce8fb863"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-underprovision-local-governments-during-aging",
+  "title": "Advancement to Candidacy Presentation: “Underprovision by Local Governments During Aging”, Ryo Aono",
+  "start_utc": "2026-11-17T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2113",
+  "speaker": "Ryo Aono, University of California Santa Barbara",
+  "talk_title": "“Underprovision by Local Governments During Aging”",
+  "hosted_by": [],
+  "bio": "Ryo Aono is a Ph.D. student in Economics at the University of California, Santa Barbara with focus on Macroeconomics. Specifically, he explores the relationship between the government and macroeconomy and the factors contributing to variations in economic growth trajectories among developed countries. Prior to joining UCSB, he had accumulated over ten years of experience in the Government of Japan, specializing in local government finance. He also served as a manager in a local government and as a diplomat at the Consulate General of Japan in San Francisco, providing valuable insights for his research. He earned his bachelor’s degree of Economics from Kyoto University in 2012.",
+  "abstract": "Local governments in developed countries increasingly struggle to maintain public goods provision as populations age. Using government finance data for 22 OECD countries from 1995 to 2019, I find that, as the dependency ratio rises, local governments tend to cut both investment in stock public goods and expenditure on flow public goods, while central governments tend to cut investment slightly and increase flow public goods as well as social benefits. To explain these patterns, I build a calibrated OLG model in which central and local governments play a time-consistent Stackelberg game over a shared tax base, under rigid rules for pensions and grants. Rising pension obligations raise central taxes, which, through a vertical tax externality and smaller grants, constrain local revenue. With more efficient central tax collection and higher substitutability across tiers for flow than for stock public goods, the model reproduces the observed responses: public goods provision becomes more centralized, and composite provision declines. Moderately lowering the pension replacement rate and the grant rate improves welfare by stimulating household savings and improving the efficiency of public resource allocation. JEL Classification Codes: H54, H55, H72, H77, J11",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "40f335d5de8ebb46"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-tech",
