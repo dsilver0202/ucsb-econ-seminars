@@ -374,21 +374,6 @@
   "content_hash": "1ab89054a03d7bd0"
  },
  {
-  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-crossing-line-evidence-spillovers-los-angeles",
-  "title": "Advancement to Candidacy Presentation: “Crossing the Line: Evidence of Spillovers from the Los Angeles Mansion Tax”, Lars Leimkühler, University of California, Santa Barbara",
-  "start_utc": "2026-11-17T18:00:00Z",
-  "series": "GRADUATE",
-  "location": "North Hall 2111",
-  "speaker": "Lars Leimkühler, University of California, Santa Barbara",
-  "talk_title": "“Crossing the Line: Evidence of Spillovers from the Los Angeles Mansion Tax”,",
-  "hosted_by": [],
-  "bio": "Lars Leimkühler is a Ph.D. student in Economics at the University of California, Santa Barbara. His research focuses on taxation, housing markets and urban economics. Currently, Lars is using boundary-based variation to study spillovers from the Los Angeles Mansion Tax. His second-year paper received the department’s Best Second-Year Paper award. Prior to UCSB, Lars graduated with a BA in Economics and Finance from the University of Edinburgh, and an MSc in Economics and Psychology from the Paris School of Economics.",
-  "abstract": "Real estate transfer taxes on high-end housing are increasingly popular revenue generation tools for local governments. Yet, their fiscal promise depends on whether wealthy buyers’ locational preferences are sufficient to keep them inside the taxed jurisdiction, or whether the tax induces relocation to neighboring untaxed jurisdictions. This paper provides the first direct evidence on the spatial scope and magnitude of cross-jurisdictional spillovers by exploiting the implementation of a 4% local transfer tax. Using transaction-level data in a difference-in-differences and spatial RD setting, I find that despite the abundant availability of tax-exempt substitutes nearby, spillovers recover just 6 percentage points of the 34% decline in sales in taxed areas. These spillovers are concentrated within 500 meters of the taxed city’s boundary, decay with increasing distance, and are most pronounced near tax-exempt enclaves such as Beverly Hills and Santa Monica. The resulting fiscal externality is modest. JEL Classification Codes: H71, H73, R21",
-  "minutes": 90,
-  "seq": 0,
-  "content_hash": "db728eb3ce8fb863"
- },
- {
   "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-underprovision-local-governments-during-aging",
   "title": "Advancement to Candidacy Presentation: “Underprovision by Local Governments During Aging”, Ryo Aono",
   "start_utc": "2026-11-17T18:00:00Z",
@@ -402,6 +387,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "40f335d5de8ebb46"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-crossing-line-evidence-spillovers-los-angeles",
+  "title": "Advancement to Candidacy Presentation: “Crossing the Line: Evidence of Spillovers from the Los Angeles Mansion Tax”, Lars Leimkühler, University of California, Santa Barbara",
+  "start_utc": "2026-11-17T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2111",
+  "speaker": "Lars Leimkühler, University of California, Santa Barbara",
+  "talk_title": "“Crossing the Line: Evidence of Spillovers from the Los Angeles Mansion Tax”,",
+  "hosted_by": [],
+  "bio": "Lars Leimkühler is a Ph.D. student in Economics at the University of California, Santa Barbara. His research focuses on taxation, housing markets and urban economics. Currently, Lars is using boundary-based variation to study spillovers from the Los Angeles Mansion Tax. His second-year paper received the department’s Best Second-Year Paper award. Prior to UCSB, Lars graduated with a BA in Economics and Finance from the University of Edinburgh, and an MSc in Economics and Psychology from the Paris School of Economics.",
+  "abstract": "Real estate transfer taxes on high-end housing are increasingly popular revenue generation tools for local governments. Yet, their fiscal promise depends on whether wealthy buyers’ locational preferences are sufficient to keep them inside the taxed jurisdiction, or whether the tax induces relocation to neighboring untaxed jurisdictions. This paper provides the first direct evidence on the spatial scope and magnitude of cross-jurisdictional spillovers by exploiting the implementation of a 4% local transfer tax. Using transaction-level data in a difference-in-differences and spatial RD setting, I find that despite the abundant availability of tax-exempt substitutes nearby, spillovers recover just 6 percentage points of the 34% decline in sales in taxed areas. These spillovers are concentrated within 500 meters of the taxed city’s boundary, decay with increasing distance, and are most pronounced near tax-exempt enclaves such as Beverly Hills and Santa Monica. The resulting fiscal externality is modest. JEL Classification Codes: H71, H73, R21",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "db728eb3ce8fb863"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-kirby-nielsen-cal-tech",
@@ -470,6 +470,36 @@
   "content_hash": "a291f83b97b67893"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-business-tax-vat-firm-boundaries-business-groups",
+  "title": "Advancement to Candidacy Presentation: “From Business Tax to VAT: Firm Boundaries in Business Groups”, Yu Xu, University of California, Santa Barbara",
+  "start_utc": "2026-11-30T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2212",
+  "speaker": "Yu Xu, University of California, Santa Barbara",
+  "talk_title": "“From Business Tax to VAT: Firm Boundaries in Business Groups”",
+  "hosted_by": [],
+  "bio": "Yu Xu is a Ph.D. student in Economics at the University of California, Santa Barbara, specializing in Applied Microeconomics. Specifically, his research interests include firm development and networks, organizational economics, and public finance. Currently, his research focuses on how China's value-added tax (VAT) reforms affect firm organizational structures and firm growth. Prior to joining UCSB, he earned a B.A. in Economics from Chongqing Technology and Business University and an M.A. in Economics with Distinction from Central European University.",
+  "abstract": "China’s business tax fell on every sale between two legal entities, including sales between a firm and its own subsidiaries. We study how manufacturing groups responded when the business tax on transport and six modern services was replaced by a value-added tax in 2012–2013. Using the subsidiary lists of 793 listed manufacturing firms matched to the business registry, we find that groups moved more of these services into subsidiaries of their own: the number of new subsidiaries in the reformed services per year nearly tripled, while new manufacturing and wholesale subsidiaries did not increase. Groups more exposed to the reform through input-output links set up more subsidiaries in businesses related to the parent’s. Groups that separated more services also raised their revenue from services sold outside the group and their share of technical staff more than other groups. The business scope and the patents, software copyrights and trademarks of the new subsidiaries show what lies behind these changes: the new entities took on related service work and entered new service and technology businesses, while the parent kept the core assets. Keywords: business tax, business groups, legal entities, firm boundaries JEL Classification Codes: H25, H32, L22, L23, L24, O14",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "9ab29b47569ebefe"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-candidate-ai-assistance-job-interviews-recruiter",
+  "title": "Advancement to Candidacy Presentation: “Candidate AI Assistance in Job Interviews: Recruiter Judgment and Matching Quality”, Xinlu Zhao, University of California, Santa Barbara",
+  "start_utc": "2026-11-30T23:30:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2111",
+  "speaker": "Xinlu Zhao, University of California, Santa Barbara",
+  "talk_title": "“Candidate AI Assistance in Job Interviews: Recruiter Judgment and Matching Quality”",
+  "hosted_by": [],
+  "bio": "Xinlu Zhao is a Ph.D. student in Economics at the University of California, Santa Barbara, where she is advised by Peter Kuhn (chair), Mitchell Hoffman, and Daniel Martin. Her research focuses on AI and labor markets, personnel economics, and behavioral economics. Her current research uses randomized experiments with professional recruiters to study how real-time AI interview assistance affects recruiters & evaluations, the accuracy of their judgments of candidate ability, and which candidates they select. Xinlu holds an M.S. in Applied Economics and Econometrics from the University of Southern California and a B.A. in International Economics and Trade from Beijing Foreign Studies University. At UCSB, she teaches as a Teaching Associate for Statistics for Economics and was a 2025 Healthy Communities Project Fellow.",
+  "abstract": "Generative AI tools can now suggest answers to job candidates in real time during interviews. Such assistance may help candidates show what they know, but it may also make interview performance less informative about their underlying ability. This paper studies how real-time AI assistance shapes recruiters&#39; judgments, combining a pilot experiment with the design of a larger second round. In the pilot, 24 undergraduate candidates completed an unaided written job task and then interviewed with one of four professional recruiters, who were not told that the study concerned AI. Within grade point average (GPA) strata, candidates were randomly assigned to interview with or without a real-time AI assistant, and recruiters predicted each candidate's task score before and after the interview. Candidates with AI access received interview ratings 1.25 control-group standard deviations higher. Recruiters revised their predictions upward for AI-access candidates and downward for control candidates, while the interview improved prediction accuracy by similar amounts in both groups. The second round extends the design to selection: each recruiter interviews ten candidates, half of whom receive AI access within pairs matched on a pre-assignment task score, and ranks them for three positions. It estimates whether AI access raises candidates' ranks at a given task score and whether it changes how closely rankings track unaided task performance, the two channels through which AI assistance can affect matching quality. JEL classification codes: C93, D82, D83, J24, M51 Keywords: candidate AI assistance; interviews; recruiter learning; work samples; matching quality",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "945eb1bdc27fc9b3"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-wealth-inequality-structural-access-kyle-araki",
   "title": "Advancement to Candidacy Presentation: “Wealth Inequality as Structural Access”, Kyle Araki-Chew, University of California, Santa Barbara",
   "start_utc": "2026-12-01T18:00:00Z",
@@ -483,6 +513,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "3c595bb1fd7aef1b"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-homeland-echoes-chinese-immigrant-fertility-and",
+  "title": "Advancement to Candidacy Presentation: “Homeland Echoes: Chinese Immigrant Fertility and the Relaxation of China's One-Child Policy”, Alexis (Lan) Wang, University of California, Santa Barbara",
+  "start_utc": "2026-12-01T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2111",
+  "speaker": "Alexis (Lan) Wang, University of California, Santa Barbara",
+  "talk_title": "“Homeland Echoes: Chinese Immigrant Fertility and the Relaxation of China's One-Child Policy”",
+  "hosted_by": [],
+  "bio": "Alexis (Lan) Wang is a PhD student in Economics at the University of California, Santa Barbara. Her research studies how policies shape family decisions, with a focus on fertility, migration, and gender. Her advancement paper with Wenbei Zhang studies how China's 2011 to 2021 fertility policy relaxations affected childbearing among Chinese mothers in the United States. Her other papers include a randomized evaluation of integrated strategies to reduce intimate partner violence in rural Tanzania, with Rachel Heath, Ziyue Chen, and Zixu Chen. With Yao Yang, she also studies how provincial policy variation in China shapes internal migration and the welfare of non-hukou residents.",
+  "abstract": "We study whether China's 2011 to 2021 fertility-policy relaxations affected childbearing among Mainland-born and U.S.-born Chinese mothers in the United States. Using restricted-use U.S. Vital Statistics natality records and Poisson pseudo-maximum-likelihood event studies, we compare Mainland-born mothers with Hong Kong- and Taiwan-born mothers. In California, second-order births among Mainland-born mothers with Chinese partners peak in 2017 at 4.3 times their 2011 level relative to the comparison group. Through 2018, increases are later and smaller with non-Chinese partners and smaller for U.S.-born Chinese mothers. These patterns suggest that origin country policy changes continue to influence childbearing in Chinese immigrant communities. JEL Classification Codes: J13, J15, J61, O15, Z13",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "6cd011e302f2d29b"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-paulo-natenzon-washington-university-saint-louis",
