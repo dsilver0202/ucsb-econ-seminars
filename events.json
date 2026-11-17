@@ -523,7 +523,7 @@
   "speaker": "Alexis (Lan) Wang, University of California, Santa Barbara",
   "talk_title": "“Homeland Echoes: Chinese Immigrant Fertility and the Relaxation of China's One-Child Policy”",
   "hosted_by": [],
-  "bio": "Alexis (Lan) Wang is a PhD student in Economics at the University of California, Santa Barbara. Her research studies how policies shape family decisions, with a focus on fertility, migration, and gender. Her advancement paper with Wenbei Zhang studies how China's 2011 to 2021 fertility policy relaxations affected childbearing among Chinese mothers in the United States. Her other papers include a randomized evaluation of integrated strategies to reduce intimate partner violence in rural Tanzania, with Rachel Heath, Ziyue Chen, and Zixu Chen. With Yao Yang, she also studies how provincial policy variation in China shapes internal migration and the welfare of non-hukou residents.",
+  "bio": "Alexis (Lan) Wang is a PhD student in Economics at the University of California, Santa Barbara. She holds an M.A. in Economics from UC Santa Barbara and a B.Sc. in Accounting and Finance for International Business from Coventry University. Her research studies how policies shape family decisions, with a focus on fertility, migration, and gender. Her advancement paper with Wenbei Zhang studies how China's 2011 to 2021 fertility policy relaxations affected childbearing among Chinese mothers in the United States. Her other papers include a randomized evaluation of integrated strategies to reduce intimate partner violence in rural Tanzania, with Rachel Heath, Ziyue Chen, and Zixu Chen. With Yao Yang, she also studies how provincial policy variation in China shapes internal migration and the welfare of non-hukou residents.",
   "abstract": "We study whether China's 2011 to 2021 fertility-policy relaxations affected childbearing among Mainland-born and U.S.-born Chinese mothers in the United States. Using restricted-use U.S. Vital Statistics natality records and Poisson pseudo-maximum-likelihood event studies, we compare Mainland-born mothers with Hong Kong- and Taiwan-born mothers. In California, second-order births among Mainland-born mothers with Chinese partners peak in 2017 at 4.3 times their 2011 level relative to the comparison group. Through 2018, increases are later and smaller with non-Chinese partners and smaller for U.S.-born Chinese mothers. These patterns suggest that origin country policy changes continue to influence childbearing in Chinese immigrant communities. JEL Classification Codes: J13, J15, J61, O15, Z13",
   "minutes": 90,
   "seq": 0,
@@ -577,6 +577,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "85282412c2cfb618"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-more-seats-same-services-council-size-and-local",
+  "title": "Advancement to Candidacy Presentation: “More Seats, Same Services: Council Size and Local Public Goods in India”, Komal Trishna, University of California, Santa Barbara",
+  "start_utc": "2026-12-07T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2212",
+  "speaker": "Komal Trishna, University of California, Santa Barbara",
+  "talk_title": "“More Seats, Same Services: Council Size and Local Public Goods in India”",
+  "hosted_by": [],
+  "bio": "Komal Trishna is a fourth-year Ph.D. student in Economics at the University of California, Santa Barbara. Her research lies at the intersection of health economics and development economics. She currently uses regression discontinuity designs to study how the size of village councils in Maharashtra affects drinking water, sanitation, and health infrastructure. A second strand of her research focuses on organ transplantation, examining how CMS’s Increasing Organ Transplant Access (IOTA) Model affects living-donor kidney transplantation in the United States. Before joining UCSB, she earned a B.A. in Economics from Ashoka University and worked as a Research Associate at J-PAL South Asia.",
+  "abstract": "I study village councils (gram panchayats) in Maharashtra, India, where statutory population thresholds add two council members. Using a multi-cutoff regression discontinuity design with 2011 Census population and 2020 administrative data on 27,152 councils, I find no detectable effect of additional representatives on drinking water, sanitation, or health infrastructure. At the 1,500 threshold, council size rises by 29 percent and the design is most precise; there, I rule out effects on a summary index of service delivery larger than 0.2 standard deviations. The results suggest that adding representatives without adding authority or resources does not change what local governments deliver. Keywords: Representation, Decentralization, Local government, Public Goods JEL Classification Codes: H41, H75, H70, O18, D72",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "4b5da206b67c1360"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2027/macro-seminar-yang-gao-university-auckland",

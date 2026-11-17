@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe882721bc981f0d7ba@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261008T223000Z
 DTEND:20261009T000000Z
 SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
@@ -85,7 +85,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:56d17f18cefd2d281c9e@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
 SUMMARY:Graduate Events: UCSB Graduate Open House and Prospective Graduat
@@ -102,7 +102,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261013T223000Z
 DTEND:20261014T000000Z
 SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
@@ -141,7 +141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261015T223000Z
 DTEND:20261016T000000Z
 SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
@@ -178,7 +178,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4525f480e09577d97162@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261020T223000Z
 DTEND:20261021T000000Z
 SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
@@ -213,7 +213,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:606d4b60edddc1a75ea2@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261022T223000Z
 DTEND:20261023T000000Z
 SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
@@ -245,7 +245,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:695624000182a6c167e9@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261113T210000Z
 DTEND:20261113T223000Z
 SUMMARY:Graduate Events: Ricardo Jose Ramos Fontes\, University of Califo
@@ -292,7 +292,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e3991ffe7feda125dbbf@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Graduate Events: Ryo Aono\, University of California Santa Barbar
@@ -329,7 +329,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0f2ce931a83ec5717058@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Graduate Events: Lars Leimkühler\, University of California\, Sa
@@ -364,7 +364,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:501d73a40a0a870e8bdf@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261130T180000Z
 DTEND:20261130T193000Z
 SUMMARY:Graduate Events: Yu Xu\, University of California\, Santa Barbara
@@ -401,7 +401,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:08abb562e6bda836da4e@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261130T233000Z
 DTEND:20261201T010000Z
 SUMMARY:Graduate Events: Xinlu Zhao\, University of California\, Santa Ba
@@ -445,7 +445,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3decd17dbf16ab3ff75c@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261201T180000Z
 DTEND:20261201T193000Z
 SUMMARY:Graduate Events: Kyle Araki-Chew\, University of California\, San
@@ -489,7 +489,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e39336d146622d78e05a@econ.ucsb.edu
-DTSTAMP:20261116T224459Z
+DTSTAMP:20261117T213118Z
 DTSTART:20261201T180000Z
 DTEND:20261201T193000Z
 SUMMARY:Graduate Events: Alexis (Lan) Wang\, University of California\, S
@@ -514,6 +514,38 @@ DESCRIPTION:Speaker: Alexis (Lan) Wang\, University of California\, Santa
  and-echoes-chinese-immigrant-fertility-and
 URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
  ion-homeland-echoes-chinese-immigrant-fertility-and
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a63fc0ecdeaf3dc4e24@econ.ucsb.edu
+DTSTAMP:20261117T213118Z
+DTSTART:20261207T180000Z
+DTEND:20261207T193000Z
+SUMMARY:Graduate Events: Komal Trishna\, University of California\, Santa
+  Barbara - “More Seats\, Same Services: Council Size and Local Public 
+ Goods in India”
+LOCATION:North Hall 2212
+DESCRIPTION:Speaker: Komal Trishna\, University of California\, Santa Bar
+ bara\nTitle: “More Seats\, Same Services: Council Size and Local Publi
+ c Goods in India”\n\nI study village councils (gram panchayats) in Mah
+ arashtra\, India\, where statutory population thresholds add two council
+  members. Using a multi-cutoff regression discontinuity design with 2011
+  Census population and 2020 administrative data on 27\,152 councils\, I 
+ find no detectable effect of additional representatives on drinking wate
+ r\, sanitation\, or health infrastructure. At the 1\,500 threshold\, cou
+ ncil size rises by 29 percent and the design is most precise\; there\, I
+  rule out effects on a summary index of service delivery larger than 0.2
+  standard deviations. The results suggest that adding representatives wi
+ thout adding authority or resources does not change what local governmen
+ ts deliver. Keywords: Representation\, Decentralization\, Local governme
+ nt\, Public Goods JEL Classification Codes: H41\, H75\, H70\, O18\, D72\
+ n\nhttps://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
+ ion-more-seats-same-services-council-size-and-local
+URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
+ ion-more-seats-same-services-council-size-and-local
 CATEGORIES:GRADUATE
 SEQUENCE:0
 STATUS:CONFIRMED
