@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe882721bc981f0d7ba@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261008T223000Z
 DTEND:20261009T000000Z
 SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
@@ -85,7 +85,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:56d17f18cefd2d281c9e@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
 SUMMARY:Graduate Events: UCSB Graduate Open House and Prospective Graduat
@@ -102,7 +102,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261013T223000Z
 DTEND:20261014T000000Z
 SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
@@ -141,7 +141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261015T223000Z
 DTEND:20261016T000000Z
 SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
@@ -178,7 +178,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4525f480e09577d97162@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261020T223000Z
 DTEND:20261021T000000Z
 SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
@@ -213,7 +213,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:606d4b60edddc1a75ea2@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261022T223000Z
 DTEND:20261023T000000Z
 SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
@@ -245,7 +245,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:695624000182a6c167e9@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261113T210000Z
 DTEND:20261113T223000Z
 SUMMARY:Graduate Events: Ricardo Jose Ramos Fontes\, University of Califo
@@ -292,7 +292,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e3991ffe7feda125dbbf@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Graduate Events: Ryo Aono\, University of California Santa Barbar
@@ -329,7 +329,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0f2ce931a83ec5717058@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Graduate Events: Lars Leimkühler\, University of California\, Sa
@@ -364,7 +364,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:501d73a40a0a870e8bdf@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261130T180000Z
 DTEND:20261130T193000Z
 SUMMARY:Graduate Events: Yu Xu\, University of California\, Santa Barbara
@@ -401,7 +401,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:08abb562e6bda836da4e@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261130T233000Z
 DTEND:20261201T010000Z
 SUMMARY:Graduate Events: Xinlu Zhao\, University of California\, Santa Ba
@@ -445,7 +445,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3decd17dbf16ab3ff75c@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261201T180000Z
 DTEND:20261201T193000Z
 SUMMARY:Graduate Events: Kyle Araki-Chew\, University of California\, San
@@ -489,7 +489,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e39336d146622d78e05a@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261201T180000Z
 DTEND:20261201T193000Z
 SUMMARY:Graduate Events: Alexis (Lan) Wang\, University of California\, S
@@ -520,8 +520,51 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:640f3ee8fe0fe580882c@econ.ucsb.edu
+DTSTAMP:20261118T210653Z
+DTSTART:20261201T200000Z
+DTEND:20261201T213000Z
+SUMMARY:Graduate Events: Hung Kit (William) Chiu\, University of Californ
+ ia\, Santa Barbara - “The Rise and Fall of the Car Break-in Epidemic i
+ n San Francisco and Oakland”
+LOCATION:North Hall 2212
+DESCRIPTION:Speaker: Hung Kit (William) Chiu\, University of California\,
+  Santa Barbara\nTitle: “The Rise and Fall of the Car Break-in Epidemic
+  in San Francisco and Oakland”\n\nCar break-ins in San Francisco and O
+ akland roughly tripled between 2010 and 2017\, a surge widely blamed on 
+ California's criminal justice reforms. Against synthetic controls built 
+ from 49 other California cities\, break-ins were 55% higher in San Franc
+ isco and 91% higher in Oakland in 2011–14\, with little excess in burg
+ lary or car theft. That rules out a law acting alike across the state\, 
+ and no other American city of 100\,000 or more saw a rise in break-ins p
+ er resident of that size. The surge began in Oakland\, which laid off a 
+ tenth of its officers in July 2010 and announced that it would no longer
+  answer most property crimes\, and the epidemic ended after enforcement 
+ stepped up in both cities in 2023–24: San Francisco's break-ins fell b
+ y more than four fifths between 2023 and 2026\, most near its visitor la
+ ndmarks and far faster than robbery or burglary\, and the fall began mor
+ e than a year before Proposition 36 restored tougher penalties. On the d
+ ay\, break-ins follow parked cars and avoid police\, and the city's tota
+ l moves with them. A model in which crews\, which I take as a working hy
+ pothesis\, decide daily whether to go out and monthly whether to form or
+  quit accounts for both episodes. In it\, the long-run effect of San Fra
+ ncisco's crackdown is more than two and a half times its effect in the f
+ irst months. JEL Classification Codes: K42 (Illegal Behavior and the Enf
+ orcement of Law)\; R10 (General Regional Economics)\; C25 (Discrete Regr
+ ession and Qualitative Choice Models). Keywords: Crime\; Car break-ins\;
+  Criminal justice reform\; Place-based policing\; Nested logit.\n\nhttps
+ ://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-rise
+ -and-fall-car-break-epidemic-san-francisco
+URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
+ ion-rise-and-fall-car-break-epidemic-san-francisco
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:3a63fc0ecdeaf3dc4e24@econ.ucsb.edu
-DTSTAMP:20261117T213118Z
+DTSTAMP:20261118T210653Z
 DTSTART:20261207T180000Z
 DTEND:20261207T193000Z
 SUMMARY:Graduate Events: Komal Trishna\, University of California\, Santa
@@ -546,6 +589,42 @@ DESCRIPTION:Speaker: Komal Trishna\, University of California\, Santa Bar
  ion-more-seats-same-services-council-size-and-local
 URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
  ion-more-seats-same-services-council-size-and-local
+CATEGORIES:GRADUATE
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee69fbb327551c7b6427@econ.ucsb.edu
+DTSTAMP:20261118T210653Z
+DTSTART:20261208T180000Z
+DTEND:20261208T193000Z
+SUMMARY:Graduate Events: Shan Lu\, University of California\, Santa Barba
+ ra - “Updating from Categorical Signals: An Experiment”
+LOCATION:North Hall 2111
+DESCRIPTION:Speaker: Shan Lu\, University of California\, Santa Barbara\n
+ Title: “Updating from Categorical Signals: An Experiment”\n\nMany co
+ nsequential signals say only whether an unobserved quantity lies above o
+ r below a threshold: a home is inside or outside a flood zone\, a test i
+ s positive or negative\, earnings beat or miss a forecast. The Bayesian 
+ response to such a signal is to truncate one’s belief at the threshold
+ . I study how well people carry out this truncation\, in a laboratory ex
+ periment in which the prior is displayed\, the signal is noiseless and t
+ he Bayesian answer is known. Subjects estimate a number drawn from a dis
+ played distribution before and after learning which side of a threshold 
+ it falls on\, once when they must work out what the signal implies and o
+ nce when the implied distribution is shown to them. The design separates
+  three ways in which the inference can fail: a general departure from th
+ e Bayesian update after the category (in either direction)\, neglect of 
+ a signal that confirms what the prior already suggested\, and attention 
+ to the category at the expense of the distribution inside it. The result
+ s bear on how risk should be disclosed\, and on models in economics that
+  take the Bayesian use of coarse information as a primitive. JEL Classif
+ ication Codes: C91\, D81\, D83\, D91\n\nhttps://econ.ucsb.edu/events/all
+ /2026/advancement-candidacy-presentation-updating-categorical-signals-ex
+ periment-shan-lu
+URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
+ ion-updating-categorical-signals-experiment-shan-lu
 CATEGORIES:GRADUATE
 SEQUENCE:0
 STATUS:CONFIRMED

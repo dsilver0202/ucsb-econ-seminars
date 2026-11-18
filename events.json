@@ -530,21 +530,36 @@
   "content_hash": "6cd011e302f2d29b"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-rise-and-fall-car-break-epidemic-san-francisco",
+  "title": "Advancement to Candidacy Presentation: “The Rise and Fall of the Car Break-in Epidemic in San Francisco and Oakland”, Hung Kit (William) Chiu, University of California, Santa Barbara",
+  "start_utc": "2026-12-01T20:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2212",
+  "speaker": "Hung Kit (William) Chiu, University of California, Santa Barbara",
+  "talk_title": "“The Rise and Fall of the Car Break-in Epidemic in San Francisco and Oakland”",
+  "hosted_by": [],
+  "bio": "Hung Kit (William) Chiu is a Ph.D. student in the Department of Economics at UC Santa Barbara. His research is in the economics of crime and urban economics, with an interest in labor economics. He has built a geocoded, incident-level dataset of crime records from 68 U.S. police departments and uses it to study how policing and policy shape crime and where people choose to live. His advancement paper examines the rise and fall of car break-ins in San Francisco and Oakland. Before coming to UCSB, he worked as a research professional at the University of Chicago Booth School of Business. He holds an M.A. in the Social Sciences from the University of Chicago and a B.S. in Mathematics and Economics from the Hong Kong University of Science and Technology.",
+  "abstract": "Car break-ins in San Francisco and Oakland roughly tripled between 2010 and 2017, a surge widely blamed on California's criminal justice reforms. Against synthetic controls built from 49 other California cities, break-ins were 55% higher in San Francisco and 91% higher in Oakland in 2011–14, with little excess in burglary or car theft. That rules out a law acting alike across the state, and no other American city of 100,000 or more saw a rise in break-ins per resident of that size. The surge began in Oakland, which laid off a tenth of its officers in July 2010 and announced that it would no longer answer most property crimes, and the epidemic ended after enforcement stepped up in both cities in 2023–24: San Francisco's break-ins fell by more than four fifths between 2023 and 2026, most near its visitor landmarks and far faster than robbery or burglary, and the fall began more than a year before Proposition 36 restored tougher penalties. On the day, break-ins follow parked cars and avoid police, and the city's total moves with them. A model in which crews, which I take as a working hypothesis, decide daily whether to go out and monthly whether to form or quit accounts for both episodes. In it, the long-run effect of San Francisco's crackdown is more than two and a half times its effect in the first months. JEL Classification Codes: K42 (Illegal Behavior and the Enforcement of Law); R10 (General Regional Economics); C25 (Discrete Regression and Qualitative Choice Models). Keywords: Crime; Car break-ins; Criminal justice reform; Place-based policing; Nested logit.",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "cc5219b077465ab7"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2026/tec-seminar-paulo-natenzon-washington-university-saint-louis",
   "title": "TEC Seminar: Paulo Natenzon, Washington University in Saint Louis",
   "start_utc": "2026-12-01T20:30:00Z",
   "series": "TEC",
   "location": "North Hall 2111",
   "speaker": "Paulo Natenzon, Washington University in Saint Louis",
-  "talk_title": "",
+  "talk_title": "\"Incomparable!\"",
   "hosted_by": [
    "Jason Somerville"
   ],
   "bio": "",
-  "abstract": "",
+  "abstract": "Incomparability between alternatives challenges economic models with complete preferences, yet remains inadequately addressed in stochastic choice theory. We model incomparability as the limiting case of infinite differentiation between alternatives. Our generalization of the moderate utility model distinguishes merely difficult comparisons from truly incomparable options, yields a characterization of binary choice probabilities using two simple postulates, and reveals an endogenous partition of alternatives into “galaxies” of comparable options.",
   "minutes": 90,
-  "seq": 0,
-  "content_hash": "b30647f3e1539504"
+  "seq": 1,
+  "content_hash": "2027530d8137f9b4"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2026/care-seminar-eleonora-patacchini-cornell-university",
@@ -592,6 +607,21 @@
   "minutes": 90,
   "seq": 0,
   "content_hash": "4b5da206b67c1360"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-updating-categorical-signals-experiment-shan-lu",
+  "title": "Advancement to Candidacy Presentation: “Updating from Categorical Signals: An Experiment”, Shan Lu, University of California, Santa Barbara",
+  "start_utc": "2026-12-08T18:00:00Z",
+  "series": "GRADUATE",
+  "location": "North Hall 2111",
+  "speaker": "Shan Lu, University of California, Santa Barbara",
+  "talk_title": "“Updating from Categorical Signals: An Experiment”",
+  "hosted_by": [],
+  "bio": "Shan Lu is a Ph.D. student in economics at the University of California, Santa Barbara. He combines behavioral theory and experiments to study why people make systematic errors when processing information and forming beliefs. He also examines what makes some choices and strategic interactions more complex than others. His broader interests include behavioral and experimental economics, cognitive economics, neuroeconomics, and game theory. Shan earned a B.A. in Economics and a B.S. in Data Science from NYU Shanghai and an M.A. in Economics from UC Santa Barbara.",
+  "abstract": "Many consequential signals say only whether an unobserved quantity lies above or below a threshold: a home is inside or outside a flood zone, a test is positive or negative, earnings beat or miss a forecast. The Bayesian response to such a signal is to truncate one’s belief at the threshold. I study how well people carry out this truncation, in a laboratory experiment in which the prior is displayed, the signal is noiseless and the Bayesian answer is known. Subjects estimate a number drawn from a displayed distribution before and after learning which side of a threshold it falls on, once when they must work out what the signal implies and once when the implied distribution is shown to them. The design separates three ways in which the inference can fail: a general departure from the Bayesian update after the category (in either direction), neglect of a signal that confirms what the prior already suggested, and attention to the category at the expense of the distribution inside it. The results bear on how risk should be disclosed, and on models in economics that take the Bayesian use of coarse information as a primitive. JEL Classification Codes: C91, D81, D83, D91",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "31c664e7a54e3e8b"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2027/macro-seminar-yang-gao-university-auckland",
@@ -660,6 +690,21 @@
   "content_hash": "54da1035a123e40b"
  },
  {
+  "url": "https://econ.ucsb.edu/events/all/2027/amel-yoav-goldstein-university-california-berkeley",
+  "title": "AMEL: Yoav Goldstein, University of California, Berkeley",
+  "start_utc": "2027-01-15T19:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Yoav Goldstein, University of California, Berkeley",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "c15052547038f418"
+ },
+ {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-eric-chyn-university-texas-austin",
   "title": "CARE Seminar: Eric Chyn, University of Texas at Austin",
   "start_utc": "2027-02-03T23:30:00Z",
@@ -692,6 +737,21 @@
   "minutes": 90,
   "seq": 2,
   "content_hash": "865d0b5ab76b2939"
+ },
+ {
+  "url": "https://econ.ucsb.edu/events/all/2027/amel-marion-aouad-university-california-irvine",
+  "title": "AMEL: Marion Aouad, University of California, Irvine",
+  "start_utc": "2027-02-19T19:30:00Z",
+  "series": "OTHER",
+  "location": "North Hall 2111",
+  "speaker": "Marion Aouad, University of California, Irvine",
+  "talk_title": "",
+  "hosted_by": [],
+  "bio": "",
+  "abstract": "",
+  "minutes": 90,
+  "seq": 0,
+  "content_hash": "c52b7cec4b3c0c95"
  },
  {
   "url": "https://econ.ucsb.edu/events/all/2027/care-seminar-melanie-guldi-university-central-florida",
