@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0890bea7dd2c8b43847a@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261001T223000Z
 DTEND:20261002T000000Z
 SUMMARY:Graduate Events: Kajari Saha\, University of California\, Santa B
@@ -47,7 +47,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe882721bc981f0d7ba@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261008T223000Z
 DTEND:20261009T000000Z
 SUMMARY:Graduate Events: Matias Strehl-Pessina\, University of California
@@ -85,7 +85,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:56d17f18cefd2d281c9e@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
 SUMMARY:Graduate Events: UCSB Graduate Open House and Prospective Graduat
@@ -102,7 +102,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:68d3b6cf75c14b6f3a42@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261013T223000Z
 DTEND:20261014T000000Z
 SUMMARY:Graduate Events: Camila Paleo\, University of California\, Santa 
@@ -141,7 +141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b3bbecaa8de4c9c6ce31@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261015T223000Z
 DTEND:20261016T000000Z
 SUMMARY:Graduate Events: Reetika Sindhi\, University of California\, Sant
@@ -178,7 +178,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4525f480e09577d97162@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261020T223000Z
 DTEND:20261021T000000Z
 SUMMARY:Graduate Events: Donovan Rasamoelison\, University of California\
@@ -213,7 +213,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:606d4b60edddc1a75ea2@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261022T223000Z
 DTEND:20261023T000000Z
 SUMMARY:Graduate Events: Anna Pede\, University of California\, Santa Bar
@@ -245,7 +245,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:695624000182a6c167e9@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261113T210000Z
 DTEND:20261113T223000Z
 SUMMARY:Graduate Events: Ricardo Jose Ramos Fontes\, University of Califo
@@ -292,7 +292,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e3991ffe7feda125dbbf@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Graduate Events: Ryo Aono\, University of California Santa Barbar
@@ -329,7 +329,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0f2ce931a83ec5717058@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Graduate Events: Lars Leimkühler\, University of California\, Sa
@@ -364,7 +364,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9e83e2af79e2292d55f1@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261124T180000Z
 DTEND:20261124T193000Z
 SUMMARY:Graduate Events: Xiyue Liu\, University of California\, Santa Bar
@@ -402,7 +402,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:501d73a40a0a870e8bdf@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261130T180000Z
 DTEND:20261130T193000Z
 SUMMARY:Graduate Events: Yu Xu\, University of California\, Santa Barbara
@@ -439,7 +439,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:08abb562e6bda836da4e@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261130T233000Z
 DTEND:20261201T010000Z
 SUMMARY:Graduate Events: Xinlu Zhao\, University of California\, Santa Ba
@@ -452,38 +452,38 @@ DESCRIPTION:Speaker: Xinlu Zhao\, University of California\, Santa Barbar
  s to job candidates in real time during interviews. Such assistance may 
  help candidates show what they know\, but it may also make interview per
  formance less informative about their underlying ability. This paper stu
- dies how real-time AI assistance shapes recruiters&#39\; judgments\, com
- bining a pilot experiment with the design of a larger second round. In t
- he pilot\, 24 undergraduate candidates completed an unaided written job 
- task and then interviewed with one of four professional recruiters\, who
-  were not told that the study concerned AI. Within grade point average (
- GPA) strata\, candidates were randomly assigned to interview with or wit
- hout a real-time AI assistant\, and recruiters predicted each candidate'
- s task score before and after the interview. Candidates with AI access r
- eceived interview ratings 1.25 control-group standard deviations higher.
-  Recruiters revised their predictions upward for AI-access candidates an
- d downward for control candidates\, while the interview improved predict
- ion accuracy by similar amounts in both groups. The second round extends
-  the design to selection: each recruiter interviews ten candidates\, hal
- f of whom receive AI access within pairs matched on a pre-assignment tas
- k score\, and ranks them for three positions. It estimates whether AI ac
- cess raises candidates' ranks at a given task score and whether it chang
- es how closely rankings track unaided task performance\, the two channel
- s through which AI assistance can affect matching quality. JEL classific
- ation codes: C93\, D82\, D83\, J24\, M51 Keywords: candidate AI assistan
- ce\; interviews\; recruiter learning\; work samples\; matching quality\n
- \nhttps://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentati
- on-candidate-ai-assistance-job-interviews-recruiter
+ dies how real-time AI assistance shapes recruiters & judgments\, combini
+ ng a pilot experiment with the design of a larger second round. In the p
+ ilot\, 24 undergraduate candidates completed an unaided written job task
+  and then interviewed with one of four professional recruiters\, who wer
+ e not told that the study concerned AI. Within grade point average (GPA)
+  strata\, candidates were randomly assigned to interview with or without
+  a real-time AI assistant\, and recruiters predicted each candidate's ta
+ sk score before and after the interview. Candidates with AI access recei
+ ved interview ratings 1.25 control-group standard deviations higher. Rec
+ ruiters revised their predictions upward for AI-access candidates and do
+ wnward for control candidates\, while the interview improved prediction 
+ accuracy by similar amounts in both groups. The second round extends the
+  design to selection: each recruiter interviews ten candidates\, half of
+  whom receive AI access within pairs matched on a pre-assignment task sc
+ ore\, and ranks them for three positions. It estimates whether AI access
+  raises candidates' ranks at a given task score and whether it changes h
+ ow closely rankings track unaided task performance\, the two channels th
+ rough which AI assistance can affect matching quality. JEL classificatio
+ n codes: C93\, D82\, D83\, J24\, M51 Keywords: candidate AI assistance\;
+  interviews\; recruiter learning\; work samples\; matching quality\n\nht
+ tps://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentation-c
+ andidate-ai-assistance-job-interviews-recruiter
 URL:https://econ.ucsb.edu/events/all/2026/advancement-candidacy-presentat
  ion-candidate-ai-assistance-job-interviews-recruiter
 CATEGORIES:GRADUATE
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3decd17dbf16ab3ff75c@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261201T180000Z
 DTEND:20261201T193000Z
 SUMMARY:Graduate Events: Kyle Araki-Chew\, University of California\, San
@@ -527,7 +527,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e39336d146622d78e05a@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261201T180000Z
 DTEND:20261201T193000Z
 SUMMARY:Graduate Events: Alexis (Lan) Wang\, University of California\, S
@@ -559,7 +559,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:640f3ee8fe0fe580882c@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261201T200000Z
 DTEND:20261201T213000Z
 SUMMARY:Graduate Events: Hung Kit (William) Chiu\, University of Californ
@@ -602,7 +602,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3a63fc0ecdeaf3dc4e24@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261207T180000Z
 DTEND:20261207T193000Z
 SUMMARY:Graduate Events: Komal Trishna\, University of California\, Santa
@@ -634,7 +634,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1ef6decd2fa072822668@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261207T223000Z
 DTEND:20261208T000000Z
 SUMMARY:Graduate Events: Qijun (Liona) Liu\, University of California\, S
@@ -671,7 +671,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ee69fbb327551c7b6427@econ.ucsb.edu
-DTSTAMP:20261124T003607Z
+DTSTAMP:20261124T225522Z
 DTSTART:20261208T180000Z
 DTEND:20261208T193000Z
 SUMMARY:Graduate Events: Shan Lu\, University of California\, Santa Barba
